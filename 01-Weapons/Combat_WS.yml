@@ -1,0 +1,11 @@
+WS:
+- AP: 3
+  Range: Combat
+  Special Rules: Melee, Breaching (5+)
+  Str: '+1'
+  Weapon Name: Power Glaive
+- AP: 1
+  Range: Combat
+  Special Rules: Melee, Ungainly, Lance, Brutal (3), Sudden Strike (4), Two-handed
+  Str: 10
+  Weapon Name: Kontos Power Lance

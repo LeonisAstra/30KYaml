@@ -1,0 +1,26 @@
+TS:
+- AP: 3
+  Range: Combat
+  Special Rules: Melee, Rending (6+), Achean Force
+  Str: User
+  Weapon Name: Achea Force Sword
+- AP: 2
+  Range: Combat
+  Special Rules: Melee, Unwieldy, Achean Force
+  Str: '+1'
+  Weapon Name: Achea Force Axe
+- AP: 3
+  Range: Combat
+  Special Rules: Melee, Achean Force
+  Str: '+2'
+  Weapon Name: Achea Force Maul
+- AP: 2
+  Range: Combat
+  Special Rules: Melee, Brutal (2), Achean Force
+  Str: 9
+  Weapon Name: Gravis Force Blade
+- AP: 3
+  Range: Combat
+  Special Rules: Melee, Rending (5+), Achean Force
+  Str: 6
+  Weapon Name: Achea Force Claw

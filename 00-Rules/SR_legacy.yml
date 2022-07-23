@@ -1,0 +1,185 @@
+Legacy:
+- Description: "Once per battle, a unit that includes any models with weapons with\
+    \ this special rule may declare a Blade Charge at the start of any of the controlling\
+    \ player\u2019s Assault phases. For the duration of that Phase, the attacks made\
+    \ by all models in the unit with weapons with the Blade Charge special rule gain\
+    \ the Rending (3+) special rule in addition to any other effects their weapons\
+    \ might have. This does not replace or improve any other versions of the Rending\
+    \ (X) special rule already possessed by the unit"
+  Name: Blade Charge
+- Description: An army that includes at least one Legion Primus Nullificator Consul
+    ignores the 0-1 restriction on Legion Nullificator units and may select them as
+    Troops choices, but these units gain the Support Squad special rule
+  Name: Credo Annihilato
+- Description: When rolling to scatter for this weapon, if both D6 result in the same
+    number, for example both dice show a result of 3, the template is instead positioned
+    over the centre of the model that is making the attack, regardless of the result
+    rolled on the Scatter dice
+  Name: Crude Exegesis
+- Description: The Excindio Battle-automata has the Animatus Excindor Cybertheurgic
+    Weapon from the Artificia Machina Cybertheurgic Arcana found on page 94 of Liber
+    Mechanicum, but may not select any other Cybertheurgic Arcana, Cybertheurgic Rites
+    or Cybertheurgic Weapons.
+  Name: Cybernetica Exterminator
+- Description: "A Deathwing Cataphractii Terminator Companion squad may only be selected\
+    \ as part of a Detachment that includes at least one model with both the Master\
+    \ of the Legion and the Legiones Astartes (Dark Angels) special rules and is equipped\
+    \ with Cataphractii Terminator armour. A unit selected in this manner is considered\
+    \ a \u2018Retinue Squad\u2019 and the model with both the Master of the Legion\
+    \ and Legiones Astartes (Dark Angels) special rules is referred to as the retinue\
+    \ squad\u2019s Leader for the purposes of this special rule (if the Detachment\
+    \ includes more than one eligible Leader then the controlling player selects one\
+    \ as the unit\u2019s Leader). The retinue squad does not use up a Force Organisation\
+    \ slot and is considered part of the same unit as the model selected as its Leader.\
+    \ The retinue squad must be deployed with the model selected as its Leader deployed\
+    \ as part of the unit and the Leader may not voluntarily leave the retinue squad\
+    \ during play. A Deathwing Cataphractii Terminator Companion Detachment may not\
+    \ be selected as part of an army without a Leader."
+  Name: Deathwing Terminator Cataphractii Retinue
+- Description: "A Deathwing Tartaros Terminator Companion squad may only be selected\
+    \ as part of a Detachment that includes at least one model with both the Master\
+    \ of the Legion and the Legiones Astartes (Dark Angels) special rules and is equipped\
+    \ with Tartaros Terminator armour. A unit selected in this manner is considered\
+    \ a \u2018Retinue Squad\u2019 and the model with both the Master of the Legion\
+    \ and Legiones Astartes (Dark Angels) special rules is referred to as the retinue\
+    \ squad\u2019s Leader for the purposes of this special rule (if the Detachment\
+    \ includes more than one eligible Leader then the controlling player selects one\
+    \ as the unit\u2019s Leader). The retinue squad does not use up a Force Organisation\
+    \ slot and is considered part of the same unit as the model selected as its Leader.\
+    \ The retinue squad must be deployed with the model selected as its Leader deployed\
+    \ as part of the unit and\n the Leader may not voluntarily leave the retinue squad\
+    \ during play. A Deathwing Tartaros Terminator Companion Detachment may not be\
+    \ selected as part of an army without a Leader."
+  Name: Deathwing Terminator Tartaros Retinue
+- Description: On any turn in which a model with this special rule enters the battlefield
+    from Reserves, it gains the Shrouded (4+) special rule for the remainder of the
+    turn.
+  Name: Enigmatus Exhaust Projector
+- Description: Each time a model with this special rule suffers a Glancing Hit, it
+    instead counts as a Penetrating Hit. Additionally, add an additional +1 to all
+    rolls on the Vehicle Damage chart when a model with this special rule suffers
+    a Penetrating Hit.
+  Name: Exposed Plasma Conduits
+- Description: A model with an ferromantic deflector gains a 5+ Invulnerable Save
+    and any model with a ferromantic deflector and a Wounds Characteristic that suffers
+    an unsaved Wound with the Instant Death special rule is not immediately removed
+    as a casualty, but instead loses three Wounds instead of one for each unsaved
+    Wound with the Instant Death special rule inflicted on it. In addition, when a
+    model with a ferromantic deflector loses its last Wound or Hull Point, but before
+    it is removed as a casualty or replaced with a Wreck, all models both friendly
+    and enemy within D6" suffer an automatic Hit at Str 6, AP -.
+  Name: Ferromantic Deflector
+- Description: The effects of any variant of the Armourbane special rule or the Lance
+    special rule are ignored when resolving attacks made against a model with this
+    special rule.
+  Name: Ferromantic Invulnerability
+- Description: A model with this special rule must re-roll failed Dangerous Terrain
+    tests.
+  Name: Galvanic Traction Drive
+- Description: "If a model has a Transport Capacity and the Garrison Vault special\
+    \ rule, then it may transport any number of Infantry units (plus any Characters\
+    \ that have joined the units), so long as the number of models in the Embarked\
+    \ units do not exceed the model\u2019s Transport Capacity. Some models with the\
+    \ Garrison Vault special rule may be able to transport other units in addition\
+    \ to Infantry. Where this is true, the model\u2019s profile will note exactly\
+    \ which units may Embark on the building."
+  Name: Garrison Vault
+- Description: "A model with this special rule is deployed anywhere within the controlling\
+    \ player\u2019s deployment zone, more than 12\" away from any enemy models, after\
+    \ models with the Scout or Infiltrate special rules. If both players have models\
+    \ with this special rule, roll off to see who will deploy them first."
+  Name: Hammerfall Strike
+- Description: Any roll To Wound for an attack made with a Psychic Weapon against
+    a model with this special rule suffers a penalty of -1.
+  Name: Hexagrammatic Wards
+- Description: "If the first model placed on the battlefield when performing a Deep\
+    \ Strike Assault is placed on the battlements of a Fortification with this special\
+    \ rule, that has been included as part of the controlling player\u2019s army,\
+    \ the model does not scatter and can be placed as if a result of Hit had been\
+    \ rolled. Once this first unit has been deployed, roll a D6. On the roll of a\
+    \ \u20181\u2019, the Deep Strike Assault is Disordered, and the opposing player\
+    \ may deploy each other unit in the Deep Strike Assault anywhere within 24\" of\
+    \ the first unit without scattering, though no model may be within 1\" of an enemy\
+    \ model or within Impassable Terrain. If the roll is a \u20182\u2019 or higher,\
+    \ then the controlling player deploys each other unit anywhere within 6\" of the\
+    \ first, though no model may be within 1\" of an enemy model or within impassable\
+    \ terrain \u2013 if there is no space to deploy a unit within 6\" of the first,\
+    \ then the opposing player deploys that unit as if it was part of a Disordered\
+    \ drop."
+  Name: Landing Zone Beacon
+- Description: All component parts of a Fortress of Redemption (listed under Composition)
+    must be deployed using the rules for Multi-part Fortifications.
+  Name: Multi-part Fortification
+- Description: "Any Hits scored against a Vehicle with this special rule in close\
+    \ combat (including as part of a Death or Glory Advanced Reaction) are resolved\
+    \ against the Vehicle\u2019s Armour Facing with the lowest value"
+  Name: Open Crew Compartment
+- Description: "Once per battle, during their turn, the controlling player may declare\
+    \ that they will activate their Orbital Defences. Until the end of the opposing\
+    \ player\u2019s next turn, any Reserve rolls that the opposing player makes suffer\
+    \ a penalty of -1 and all rolls made by the opposing player to determine if any\
+    \ Deep Strike Assaults, Outflanking Assault or Subterranean Assaults are Disordered\
+    \ fail on the roll of 1-3 rather than just the result of a \u20181\u2019 (neither\
+    \ of these effects stack with other special rules that modify Reserves rolls or\
+    \ Disordered rolls, and the controlling player must choose one effect to apply).\
+    \ In addition, if the opposing player of a player whose army includes one or more\
+    \ models with the Orbital Defences special rule declares a Drop Pod Assault, then\
+    \ the controlling player of the models with the Orbital Defences special rule\
+    \ may roll a dice when the Drop Pod Assault is resolved. The controlling player\
+    \ of the models with the Orbital Defences special rule may select a number of\
+    \ enemy models with the Orbital Assault Vehicle special rule equal to the result\
+    \ of the dice roll, each of the models selected suffers a single Str 8 AP 2 Hi\
+    \ tafter it is deployed onto the battlefield."
+  Name: Orbital Defences
+- Description: "A Fenrisian Wolf Pack may only be chosen as a Retinue for a model\
+    \ with both the Legiones Astartes (Space Wolves) and Master of the Legion special\
+    \ rules. This model is referred to as the Fenrisian Wolf Pack\u2019s Leader for\
+    \ the purposes of this special rule. The Fenrisian Wolf Pack does not use up a\
+    \ Force Organisation slot and is considered part of the same unit as the model\
+    \ taken as its Leader. The Fenrisian Wolf Pack must be deployed with the model\
+    \ selected as its Leader deployed as part of the unit and the Leader may not voluntarily\
+    \ leave the Fenrisian Wolf Pack during play. A Fenrisian Wolf Pack may not be\
+    \ selected as part of an army without a Leader."
+  Name: Pack Retinue
+- Description: "A unit that includes any models with this special rule must make a\
+    \ Shooting Attack targeting the enemy unit which has the closest model in line\
+    \ of sight to any model in the attacking unit in the controlling player\u2019\
+    s Shooting phase."
+  Name: Sentry Protocols
+- Description: When rolling To Hit for a model with this special rule as part of an
+    attack with a weapon that has the Melee type on any turn in which they are part
+    of a successful Charge against an enemy unit, add +1 to the result of the roll
+    if the enemy unit targeted by the attack has already been the target of a another
+    friendly unit composed entirely of models with the Legiones Astartes (Ultramarines)
+    special rule in the preceding Shooting phase.
+  Name: The Blade Of Wisdom
+- Description: "A model with this special rule, and any unit it joins, must either\
+    \ begin any battle deployed on the battlefield or may be held in Reserve only\
+    \ if assigned to a Deep Strike Assault. Additionally, a unit that includes one\
+    \ or more models with this special rule must always have a Charge declared for\
+    \ it during the controlling player\u2019s Assault phase if there are any valid\
+    \ targets for that unit to target with a Charge. If there is more than one potential\
+    \ target for such a Charge, then the controlling player decides which unit will\
+    \ be the target"
+  Name: Tip Of The Spear
+- Description: "At the end of any turn in which this model suffers one or more unsaved\
+    \ wounds, take a Leadership test. If the test is failed, the unit enters a Vengeful\
+    \ Rage and must abide by all of the following restrictions during every phase\
+    \ of each following turn for the remainder of the game. While in a Vengeful Rage,\
+    \ the Excindio may be targeted as though it was an enemy model by friendly units:\n\
+    \ \u2022 During the Movement phase, the model must move towards the nearest visible\
+    \ unit, friendly or enemy.\n \u2022 If no unit is visible, or more than one unit\
+    \ is equidistant to the unit then the controlling player may move the model toward\
+    \ an enemy unit of the controlling player's choice.\n \u2022 During the Shooting\
+    \ phase, the model must target the nearest unit, friendly or enemy, with all available\
+    \ weapons. If two units are both equally close then the controlling player may\
+    \ choose which will be targeted.\n \u2022 During the Assault phase, the model\
+    \ must declare a Charge targeting the nearest visible unit, friendly or enemy.\
+    \ If two units are both equally close then the controlling player may choose which\
+    \ will be targeted. If this unit succeeds in charging a friendly unit, it will\
+    \ proceed to attack them in the Fight sub-phase, treating them as enemy models\
+    \ for the duration of the combat."
+  Name: Vengeful Rage
+- Description: The controlling player of a model with a Void Shield Projector may
+    make the Void Shield Envelope Advanced Reaction.
+  Name: Void Shield Projector

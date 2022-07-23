@@ -1,0 +1,11 @@
+SOH:
+- AP: 3
+  Range: Combat
+  Special Rules: Melee, Breaching (5+), Specialist Weapon
+  Str: User
+  Weapon Name: Carsoran Power Axe
+- AP: 3
+  Range: Combat
+  Special Rules: Melee, Unwieldy,\Murderous Strike (6+)
+  Str: '+1'
+  Weapon Name: Staff Of Dark Authority

@@ -1,0 +1,26 @@
+BA:
+- AP: 4
+  Range: 24"
+  Special Rules: Assault 4, Rending (6-+), Malfunction
+  Str: 6
+  Weapon Name: Iliastus Pattern Assault Cannon
+- AP: 1
+  Range: 6"
+  Special Rules: Pistol 1, Armourbane (Melta)
+  Str: 8
+  Weapon Name: Inferno Pistol
+- AP: 6
+  Range: 12"
+  Special Rules: Assault 3, Pinning
+  Str: 3
+  Weapon Name: Grenade Discharger ~ Frag
+- AP: 4
+  Range: 12"
+  Special Rules: Assault 1
+  Str: 6
+  Weapon Name: Grenade Discharger ~ Krak
+- AP: 4
+  Range: 24"
+  Special Rules: Assault 3, Rad-phage, Fleshbane
+  Str: 4
+  Weapon Name: Angel's Tears Grenade Launcher

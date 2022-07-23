@@ -1,0 +1,31 @@
+DA:
+- AP: 3
+  Range: Combat
+  Special Rules: Melee, Rending (6+)
+  Str: '+1'
+  Weapon Name: Calabanite Warblade
+- AP: 3
+  Range: Combat
+  Special Rules: Melee, Two-handed, Rending (5+), Murderous Strike (5+)
+  Str: '+2'
+  Weapon Name: Terranic Greatsword
+- AP: '3'
+  Range: Combat
+  Special Rules: Melee, Two-handed, Breaching (5+), Brutal (2)
+  Str: '+3'
+  Weapon Name: Advex-mors Greatsword
+- AP: 3
+  Range: Combat
+  Special Rules: Melee, Rending (6+), Blade Charge
+  Str: '+1'
+  Weapon Name: Calibanite Charge-blade
+- AP: 2
+  Range: Combat
+  Special Rules: Melee, Brutal (2)
+  Str: '9'
+  Weapon Name: Extinctor Power Claw
+- AP: 2
+  Range: Combat
+  Special Rules: Melee, Lance
+  Str: '+1'
+  Weapon Name: Manipulator Arm

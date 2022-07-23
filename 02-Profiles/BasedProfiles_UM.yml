@@ -1,0 +1,153 @@
+UM:
+- A: 3
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 9
+  M: 7
+  S: 4
+  SV+: 2+
+  SV++: 5++
+  Special Rules: Legiones Astartes (Ultramarines), Lords of Ultramar, Honour Bearers
+  Sub Type: Line, Heavy, Character
+  T: 4
+  Unit Name: Suzerain
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 1
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Ultramarines), Chosen Warriors, Hammer of Wrath
+    (1)
+  Sub Type: Heavy, Line
+  T: 4
+  Unit Name: Praetorian
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Ultramarines), Chosen Warriors, Hammer of Wrath
+    (1)
+  Sub Type: Character, Heavy, Line
+  T: 4
+  Unit Name: Praetorian Primus
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 1
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 7
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Ultramarines), Stubborn, Counter-attack (1), Bitter
+    Duty
+  Sub Type: None
+  T: 4
+  Unit Name: Nemesis Destroyer
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Ultramarines), Stubborn, Counter-attack (1), Bitter
+    Duty
+  Sub Type: Character
+  T: 4
+  Unit Name: Nemesis Destroyer Sergeant
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 2
+  BS: 5
+  FOC Slot: ELITES
+  I: 4
+  LD: 7
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (Ultramarines), Relentless, Inexorable, Bulky (2),
+    Firing Protocols (2)
+  Sub Type: Heavy
+  T: 4
+  Unit Name: Fulmentarus Terminator
+  Unit Type: Infantry
+  W: 2
+  WS: 4
+- A: 3
+  BS: 5
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (Ultramarines), Relentless, Inexorable, Bulky (2),
+    Firing Protocols (2)
+  Sub Type: ' Heavy, Character'
+  T: 4
+  Unit Name: Fulmentarus Decurion
+  Unit Type: Infantry
+  W: 2
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: FAST ATTACK
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 2+
+  SV++: None
+  Special Rules: Legiones Astartes (Ultramarines), Chosen Warriors (Locutarus only),
+    The Blade of Wisdom
+  Sub Type: None
+  T: 4
+  Unit Name: Locutarus
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 3
+  BS: 4
+  FOC Slot: FAST ATTACK
+  I: 4
+  LD: 9
+  M: 7
+  S: 4
+  SV+: 2+
+  SV++: None
+  Special Rules: Legiones Astartes (Ultramarines), Chosen Warriors (Locutarus only),
+    The Blade of Wisdom
+  Sub Type: Character
+  T: 4
+  Unit Name: Locutarus Strike Leader
+  Unit Type: Infantry
+  W: 2
+  WS: 5

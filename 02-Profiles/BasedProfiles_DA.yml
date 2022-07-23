@@ -1,0 +1,204 @@
+DA:
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 9
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (Dark Angels), Relentless, Bulky (2), Stubborn,
+    Adamantium Will (3+), Order Exemplars (or Order of the Broken Claw)
+  Sub Type: Character, Heavy
+  T: 4
+  Unit Name: Order Cenobite
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 3
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 9
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (Dark Angels), Relentless, Bulky (2), Stubborn,
+    Adamantium Will (3+), Order Exemplars (or Order of the Broken Claw)
+  Sub Type: Character, Heavy
+  T: 4
+  Unit Name: Order Preceptor
+  Unit Type: Infantry
+  W: 2
+  WS: 6
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Dark Angels), Stubborn, Counter-attack (1), Bitter
+    Duty
+  Sub Type: Dreadwing
+  T: 4
+  Unit Name: Interemptor
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 3
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 9
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Dark Angels), Stubborn, Counter-attack (1), Bitter
+    Duty
+  Sub Type: Character, Dreadwing
+  T: 4
+  Unit Name: Interemptor Praefectus
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: HQ
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 2+
+  SV++: None
+  Special Rules: Legiones Astartes (Dark Angels), Death-sworn Companions, Chosen Warriors,
+    Relentless, Deathwing Retinue
+  Sub Type: Deathwing
+  T: 4
+  Unit Name: Deathwing Companion
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 3
+  BS: 4
+  FOC Slot: HQ
+  I: 4
+  LD: 9
+  M: 7
+  S: 4
+  SV+: 2+
+  SV++: 5++
+  Special Rules: Legiones Astartes (Dark Angels), Death-sworn Companions, Chosen Warriors,
+    Relentless, Deathwing Retinue
+  Sub Type: Character, Deathwing
+  T: 4
+  Unit Name: Deathwing Oathbearer
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 2
+  BS: 4
+  FOC Slot: HQ
+  I: 4
+  LD: 8
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (Dark Angels), Death-sworn Companions, Chosen Warriors,
+    Relentless, Deathwing Terminator Cataphractii Retinue, Inexorable, Bulky (2)
+  Sub Type: Heavy, Deathwing
+  T: 4
+  Unit Name: Deathwing Cataphractii Companion
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 3
+  BS: 4
+  FOC Slot: HQ
+  I: 4
+  LD: 9
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (Dark Angels), Death-sworn Companions, Chosen Warriors,
+    Relentless, Deathwing Terminator Cataphractii Retinue, Inexorable, Bulky (2)
+  Sub Type: Heavy, Character, Deathwing
+  T: 4
+  Unit Name: Deathwing Cataphractii Companion Oathbearer
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 2
+  BS: 4
+  FOC Slot: HQ
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 2+
+  SV++: 5++
+  Special Rules: Legiones Astartes (Dark Angels), Death-sworn Companions, Chosen Warriors,
+    Relentless, Deathwing Terminator Tartaros Retinue, Inexorable, Bulky (2)
+  Sub Type: Deathwing
+  T: 4
+  Unit Name: Deathwing Tartaros Companion
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 3
+  BS: 4
+  FOC Slot: HQ
+  I: 4
+  LD: 9
+  M: 7
+  S: 4
+  SV+: 2+
+  SV++: 5++
+  Special Rules: Legiones Astartes (Dark Angels), Death-sworn Companions, Chosen Warriors,
+    Relentless, Deathwing Terminator Tartaros Retinue, Inexorable, Bulky (2)
+  Sub Type: Character, Deathwing
+  T: 4
+  Unit Name: Deathwing Tartaros Companion Oathbearer
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 3
+  BS: 4
+  FOC Slot: FAST ATTACK
+  I: 5
+  LD: 9
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Dark Angels), Chosen Warriors, Outflank, Marked
+    for Death, Enigmatus Exhaust Projector
+  Sub Type: Firewing
+  T: 4
+  Unit Name: Firewing Enigmatii
+  Unit Type: Infantry
+  W: 3
+  WS: 5
+- A: 5
+  BS: 5
+  FOC Slot: HEAVY SUPPORT
+  I: 4
+  LD: 9
+  M: 8
+  S: 7
+  SV+: 2+
+  SV++: 5++
+  Special Rules: It Will Not Die (4+), Vengeful Rage, Cybernetica Exterminator
+  Sub Type: Cybertheurgist, Heavy
+  T: 7
+  Unit Name: Excindio Battle-automata
+  Unit Type: Shackled Artificia
+  W: 6
+  WS: 6

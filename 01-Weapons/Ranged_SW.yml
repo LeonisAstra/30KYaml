@@ -1,0 +1,31 @@
+SW:
+- AP: 2
+  Range: Combat
+  Special Rules: Melee, Reaping Blow (1)
+  Str: '+1'
+  Weapon Name: Fenrisian Axe
+- AP: 3
+  Range: Combat
+  Special Rules: Melee, Specialist Weapon, Reaping Blow (1)
+  Str: '+1'
+  Weapon Name: Frost Sword
+- AP: 2
+  Range: Combat
+  Special Rules: Melee, Specialist Weapon, Unwieldy, Reaping Blow (1)
+  Str: '+1'
+  Weapon Name: Frost Axe
+- AP: 3
+  Range: Combat
+  Special Rules: Melee, Specialist Weapon, Shred, Reaping Blow (1)
+  Str: USER
+  Weapon Name: Frost Claw
+- AP: 2
+  Range: Combat
+  Special Rules: Melee, Reaping Blow (1), Two-handed
+  Str: '+2'
+  Weapon Name: Great Frost Blade
+- AP: '-'
+  Range: Combat
+  Special Rules: Melee, Shred
+  Str: User
+  Weapon Name: Claws

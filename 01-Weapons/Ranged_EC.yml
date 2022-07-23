@@ -1,0 +1,11 @@
+EC:
+- AP: None
+  Range: Template
+  Special Rules: Assault 1, Breaching(6+), Pinning
+  Str: 2
+  Weapon Name: Sonic Lance
+- AP: 5
+  Range: 36"
+  Special Rules: Assault 3, Gets Hot, Pinning, Shell Shock (1), Deflagrate
+  Str: 6
+  Weapon Name: Cacophony

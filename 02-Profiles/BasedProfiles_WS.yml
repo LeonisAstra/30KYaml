@@ -1,0 +1,138 @@
+WS:
+- A: 1
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 15
+  S: 4
+  SV+: 2+
+  SV++: None
+  Special Rules: Legiones Astartes (White Scars), Hit & Run, Relentless, Hammer of
+    Wrath (1)
+  Sub Type: Antigrav, Heavy
+  T: 4
+  Unit Name: Golden Keshig Rider
+  Unit Type: Cavalry
+  W: 2
+  WS: 5
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 9
+  M: 15
+  S: 4
+  SV+: 2+
+  SV++: None
+  Special Rules: Legiones Astartes (White Scars), Hit & Run, Relentless, Hammer of
+    Wrath (1)
+  Sub Type: Antigrav, Heavy, Character
+  T: 4
+  Unit Name: Golden Keshig Champion
+  Unit Type: Cavalry
+  W: 2
+  WS: 5
+- A: 3
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 10
+  M: 8
+  S: 4
+  SV+: 2+
+  SV++: 5++
+  Special Rules: Legiones Astartes (White Scars), Relentless, Bulky (2), Kharash,
+    Stubborn, Feel No Pain (5+)
+  Sub Type: None
+  T: 4
+  Unit Name: Kharash
+  Unit Type: Infantry
+  W: 2
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: FAST ATTACK
+  I: 4
+  LD: 9
+  M: 15
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (White Scars), Deep Strike, Relentless, Firing
+    Protocols (4), Harbingers of the Legion, Outflank, Hit & Run, Hammer of Wrath
+    (1)
+  Sub Type: Antigrav, Heavy
+  T: 7
+  Unit Name: Kyzagan
+  Unit Type: Cavalry
+  W: 4
+  WS: 4
+- A: 1
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 7
+  M: 8
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (White Scars), Stubborn, Shadow of Death, Stormseer's
+    Conclave, Invocation of the Razing Tempest
+  Sub Type: None
+  T: 4
+  Unit Name: Dark Son
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 8
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (White Scars), Stubborn, Shadow of Death, Stormseer's
+    Conclave, Invocation of the Razing Tempest
+  Sub Type: Character
+  T: 4
+  Unit Name: Death's Champion
+  Unit Type: Infantry
+  W: 1
+  WS: 5
+- A: 1
+  BS: 4
+  FOC Slot: FAST ATTACK
+  I: 4
+  LD: 7
+  M: 9
+  S: 4
+  SV+: 4+
+  SV++: None
+  Special Rules: Legiones Astartes (White Scars), Outflank, Move Through Cover, Precision
+    Strikes (5+), Marked for Death
+  Sub Type: Light, Skirmish
+  T: 4
+  Unit Name: "Falcon\u2019s Claw"
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: FAST ATTACK
+  I: 4
+  LD: 8
+  M: 9
+  S: 4
+  SV+: 4+
+  SV++: None
+  Special Rules: Legiones Astartes (White Scars), Outflank, Move Through Cover, Precision
+    Strikes (5+), Marked for Death
+  Sub Type: Light, Skirmish, Character
+  T: 4
+  Unit Name: "Falcon\u2019s Claw Champion"
+  Unit Type: Infantry
+  W: 1
+  WS: 4

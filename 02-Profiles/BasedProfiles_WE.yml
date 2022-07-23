@@ -1,0 +1,120 @@
+WE:
+- A: 3
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 9
+  M: 7
+  S: 4
+  SV+: 2+
+  SV++: 5++
+  Special Rules: Legiones Astartes (World Eaters), Relentless, Bulky (2), Chosen Warriors,
+    Stubborn, Lords of the Night, Deep Strike, Fear (1)
+  Sub Type: Character
+  T: 4
+  Unit Name: Dissident
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 2
+  BS: 3
+  FOC Slot: ELITES
+  I: 4
+  LD: 6
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (World Eaters), Relentless, Bulky (2), Ravening
+    Madmen, Fearless, Hatred (Everything)
+  Sub Type: Heavy
+  T: 4
+  Unit Name: Red Butcher
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 3
+  BS: 3
+  FOC Slot: ELITES
+  I: 4
+  LD: 6
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (World Eaters), Relentless, Bulky (2), Ravening
+    Madmen, Fearless, Hatred (Everything)
+  Sub Type: Heavy, Character
+  T: 4
+  Unit Name: Devoured
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (World Eaters), Furious Charge (1), Chosen Warriors,
+    Stubborn
+  Sub Type: None
+  T: 4
+  Unit Name: Rampager
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 3
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (World Eaters), Furious Charge (1), Chosen Warriors,
+    Stubborn
+  Sub Type: Character
+  T: 4
+  Unit Name: Rampager Champion
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 7
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (World Eaters), Stubborn, Counter-attack (1), Bearers
+    of the Blood Hand, Ravaging Assault
+  Sub Type: None
+  T: 4
+  Unit Name: Ravagers
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 3
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (World Eaters), Stubborn, Counter-attack (1), Bearers
+    of the Blood Hand, Ravaging Assault
+  Sub Type: Character
+  T: 4
+  Unit Name: Blood Bonded
+  Unit Type: Infantry
+  W: 1
+  WS: 4

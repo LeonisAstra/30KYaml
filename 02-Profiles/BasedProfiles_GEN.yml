@@ -1,0 +1,903 @@
+GEN:
+- A: 4
+  BS: 5
+  FOC Slot: HQ
+  I: 5
+  LD: 10
+  M: 7
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (X), Master of the Legion, Independent Character,
+    Relentless
+  Sub Type: Character
+  T: 4
+  Unit Name: Legion Praetor
+  Unit Type: Infantry
+  W: 3
+  WS: 6
+- A: 4
+  BS: 5
+  FOC Slot: HQ
+  I: 5
+  LD: 10
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (X), Master of the Legion, Independent Character,
+    Relentless, Inexorable, Bulky (2)
+  Sub Type: Character, Heavy
+  T: 4
+  Unit Name: Legion Cataphractii Praetor
+  Unit Type: Infantry
+  W: 4
+  WS: 6
+- A: 4
+  BS: 5
+  FOC Slot: HQ
+  I: 5
+  LD: 10
+  M: 7
+  S: 4
+  SV+: 2+
+  SV++: 5++
+  Special Rules: Legiones Astartes (X), Master of the Legion, Independent Character,
+    Relentless, Inexorable, Bulky (2)
+  Sub Type: Character
+  T: 4
+  Unit Name: Legion Tartaros Praetor
+  Unit Type: Infantry
+  W: 4
+  WS: 6
+- A: 3
+  BS: 5
+  FOC Slot: HQ
+  I: 5
+  LD: 9
+  M: 7
+  S: 4
+  SV+: 2+
+  SV++: 5++
+  Special Rules: Legiones Astartes (X), Independent Character, Legiones Consularis,
+    Relentless
+  Sub Type: Character
+  T: 4
+  Unit Name: Legion Centurion
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 3
+  BS: 5
+  FOC Slot: HQ
+  I: 5
+  LD: 9
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (X), Independent Character, Legiones Consularis,
+    Relentless, Inexorable, Bulky (2)
+  Sub Type: Character, Heavy
+  T: 4
+  Unit Name: Legion Cataphractii Centurion
+  Unit Type: Infantry
+  W: 3
+  WS: 5
+- A: 3
+  BS: 5
+  FOC Slot: HQ
+  I: 5
+  LD: 9
+  M: 7
+  S: 4
+  SV+: 2+
+  SV++: 5++
+  Special Rules: Legiones Astartes (X), Independent Character, Legiones Consularis,
+    Relentless, Inexorable, Bulky (2)
+  Sub Type: Character
+  T: 4
+  Unit Name: Legion Tartaros Centurion
+  Unit Type: Infantry
+  W: 3
+  WS: 5
+- A: 2
+  BS: 4
+  FOC Slot: HQ
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 2+
+  SV++: None
+  Special Rules: Legiones Astartes (X), Chosen Warriors, Relentless, Retinue
+  Sub Type: None
+  T: 4
+  Unit Name: Legion Command Chosen
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 2
+  BS: 4
+  FOC Slot: HQ
+  I: 4
+  LD: 8
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (X), Chosen Warriors, Relentless, Retinue, Inexorable,
+    Bulky (2)
+  Sub Type: Heavy
+  T: 4
+  Unit Name: Legion Cataphractii Chosen
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 2
+  BS: 4
+  FOC Slot: HQ
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 2+
+  SV++: 5++
+  Special Rules: Legiones Astartes (X), Chosen Warriors, Relentless, Retinue, Inexorable,
+    Bulky (2)
+  Sub Type: None
+  T: 4
+  Unit Name: Legion Tartaros Chosen
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (X), Relentless, Chosen Warriors
+  Sub Type: None
+  T: 4
+  Unit Name: Legion Veteran
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 3
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (X), Relentless, Chosen Warriors
+  Sub Type: Character
+  T: 4
+  Unit Name: Legion Veteran Sergeant
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 7
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (X), Relentless, Inexorable, Bulky (2)
+  Sub Type: Heavy
+  T: 4
+  Unit Name: Legion Cataphractii
+  Unit Type: Infantry
+  W: 2
+  WS: 4
+- A: 3
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (X), Relentless, Inexorable, Bulky (2)
+  Sub Type: Character, Heavy
+  T: 4
+  Unit Name: Legion Cataphractii Sergeant
+  Unit Type: Infantry
+  W: 2
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 7
+  M: 7
+  S: 4
+  SV+: 2+
+  SV++: 5++
+  Special Rules: Legiones Astartes (X), Relentless, Inexorable, Bulky (2)
+  Sub Type: None
+  T: 4
+  Unit Name: Legion Tartaros
+  Unit Type: Infantry
+  W: 2
+  WS: 4
+- A: 3
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 2+
+  SV++: 5++
+  Special Rules: Legiones Astartes (X), Relentless, Inexorable, Bulky (2)
+  Sub Type: Character
+  T: 4
+  Unit Name: Legion Tartaros Sergeant
+  Unit Type: Infantry
+  W: 2
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 7
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (X), Stubborn, Counter-attack (1), Butter Duty
+  Sub Type: None
+  T: 4
+  Unit Name: Legion Destroyer
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 3
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (X), Stubborn, Counter-attack (1), Butter Duty
+  Sub Type: Character
+  T: 4
+  Unit Name: Legion Destroyer Sergeant
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (X), Apothecarion Detachment
+  Sub Type: Character
+  T: 4
+  Unit Name: Legion Apothecary
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 2+
+  SV++: None
+  Special Rules: Legiones Astartes (X), Techmarine Covenant, Battlesmith (5+), Relentless
+  Sub Type: Character
+  T: 4
+  Unit Name: Legion Techmarine
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 3
+  BS: 5
+  FOC Slot: ELITES
+  I: 4
+  LD: 9
+  M: 8
+  S: 7
+  SV+: 2+
+  SV++: 5++
+  Special Rules: Legiones Astartes (X), Dreadnought Talon
+  Sub Type: None
+  T: 7
+  Unit Name: Contemptor Dreadnought
+  Unit Type: Dreadnought
+  W: 6
+  WS: 5
+- A: 1
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 7
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (X), Legion Artillerists
+  Sub Type: Heavy
+  T: 4
+  Unit Name: Legion Gunner
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 1
+  BS: 4
+  FOC Slot: ELITES
+  I: 1
+  LD: None
+  M: 4
+  S: 1
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (X), Bulky (4), Relentless
+  Sub Type: Heavy
+  T: 5
+  Unit Name: Rapier Carrier
+  Unit Type: Artillery
+  W: 2
+  WS: 1
+- A: 1
+  BS: 4
+  FOC Slot: TROOPS
+  I: 4
+  LD: 7
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (X), Fury of the Legion, Heart of the Legion
+  Sub Type: Line
+  T: 4
+  Unit Name: Legionary (Tactical Squad)
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: TROOPS
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (X), Fury of the Legion, Heart of the Legion
+  Sub Type: Character, Line
+  T: 4
+  Unit Name: Legionary Sergeant (Tactical Squad)
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 1
+  BS: 4
+  FOC Slot: TROOPS
+  I: 4
+  LD: 7
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (X), Spite of the Legion, Heart of the Legion
+  Sub Type: Line
+  T: 4
+  Unit Name: Legion Despoiler
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: TROOPS
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (X), Spite of the Legion, Heart of the Legion
+  Sub Type: Character, Line
+  T: 4
+  Unit Name: Legion Despoiler Sergeant
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 1
+  BS: 4
+  FOC Slot: TROOPS
+  I: 4
+  LD: 7
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (X)
+  Sub Type: Line
+  T: 4
+  Unit Name: Legionary (Assault Squad)
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: TROOPS
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (X)
+  Sub Type: Character, Line
+  T: 4
+  Unit Name: Legionary Sergeant (Assault Squad)
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 1
+  BS: 4
+  FOC Slot: TROOPS
+  I: 4
+  LD: 7
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: 5++
+  Special Rules: Legiones Astartes (X)
+  Sub Type: Heavy, Line
+  T: 4
+  Unit Name: Legion Breacher
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: TROOPS
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: 5++
+  Special Rules: Legiones Astartes (X)
+  Sub Type: Character, Heavy, Line
+  T: 4
+  Unit Name: Legion Breacher Sergeant
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 1
+  BS: 4
+  FOC Slot: TROOPS
+  I: 4
+  LD: 7
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (X), Support Squad
+  Sub Type: Line
+  T: 4
+  Unit Name: Legionary (Support Squad)
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: TROOPS
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (X), Support Squad
+  Sub Type: Character, Line
+  T: 4
+  Unit Name: Legionary Sergeant (Support Squad)
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 1
+  BS: 4
+  FOC Slot: TROOPS
+  I: 4
+  LD: 7
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (X), Scout, Infiltrate, Support Squad
+  Sub Type: Skirmish, Line
+  T: 4
+  Unit Name: Recon Legionary
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: TROOPS
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (X), Scout, Infiltrate, Support Squad
+  Sub Type: Character, Skirmish, Line
+  T: 4
+  Unit Name: Legion Recon Sergeant
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 1
+  BS: 4
+  FOC Slot: TROOPS
+  I: 4
+  LD: 7
+  M: 7
+  S: 4
+  SV+: 4+
+  SV++: None
+  Special Rules: Legiones Astartes (X), Scout, Infiltrate, Support Squad, Move Through
+    Cover
+  Sub Type: Skirmish, Light
+  T: 4
+  Unit Name: Legion Scout
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: TROOPS
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 4+
+  SV++: None
+  Special Rules: Legiones Astartes (X), Scout, Infiltrate, Support Squad, Move Through
+    Cover
+  Sub Type: Character, Skirmish, Light
+  T: 4
+  Unit Name: Legion Scout Sergeant
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 1
+  BS: 5
+  FOC Slot: FAST ATTACK
+  I: 4
+  LD: 7
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (X), Marked for Death, Precision Shots (4+), Infiltrate
+  Sub Type: Skirmish
+  T: 4
+  Unit Name: Legion Seeker
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 2
+  BS: 5
+  FOC Slot: FAST ATTACK
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (X), Marked for Death, Precision Shots (4+), Infiltrate
+  Sub Type: Character, Skirmish
+  T: 4
+  Unit Name: Legion Seeker Sergeant
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 1
+  BS: 4
+  FOC Slot: FAST ATTACK
+  I: 4
+  LD: 7
+  M: 14
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (X), Relentless, Scout, Firing Protocols (2), Hammer
+    of Wrath (1), Hit & Run
+  Sub Type: Skirmish
+  T: 4
+  Unit Name: Legion Outrider
+  Unit Type: Cavalry
+  W: 1
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: FAST ATTACK
+  I: 4
+  LD: 8
+  M: 14
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (X), Relentless, Scout, Firing Protocols (2), Hammer
+    of Wrath (1), Hit & Run
+  Sub Type: Character, Skirmish
+  T: 4
+  Unit Name: Legion Outrider Sergeant
+  Unit Type: Cavalry
+  W: 1
+  WS: 4
+- A: 1
+  BS: 4
+  FOC Slot: FAST ATTACK
+  I: 4
+  LD: 7
+  M: 16
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (X), Relentless, Scout, Firing Protocols (2), Hammer
+    of Wrath (1), Hit & Run, Deep Strike
+  Sub Type: Antigrav
+  T: 4
+  Unit Name: Legion Sky-hunter
+  Unit Type: Cavalry
+  W: 2
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: FAST ATTACK
+  I: 4
+  LD: 8
+  M: 16
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (X), Relentless, Scout, Firing Protocols (2), Hammer
+    of Wrath (1), Hit & Run, Deep Strike
+  Sub Type: Character, Antigrav
+  T: 4
+  Unit Name: Legion Sky-hunter Sergeant
+  Unit Type: Cavalry
+  W: 2
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: FAST ATTACK
+  I: 4
+  LD: 8
+  M: 14
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (X), Relentless, Scout, Firing Protocols (4), Hit
+    & Run, Deep Strike, Outflank, Harbingers of the Legion
+  Sub Type: Antigrav, Heavy
+  T: 6
+  Unit Name: Legion Javelin
+  Unit Type: Cavalry
+  W: 4
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: FAST ATTACK
+  I: 4
+  LD: 8
+  M: 16
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (X), Relentless, Scout, Firing Protocols (4), Hit
+    & Run, Deep Strike, Outflank, Harbingers of the Legion
+  Sub Type: Antigrav
+  T: 5
+  Unit Name: Legion Land Speeder Proteus
+  Unit Type: Cavalry
+  W: 3
+  WS: 4
+- A: 5
+  BS: 5
+  FOC Slot: HEAVY SUPPORT
+  I: 4
+  LD: 9
+  M: 6
+  S: 8
+  SV+: 2+
+  SV++: 5++
+  Special Rules: Legiones Astartes (X). Dreadnought Talon, Hammer of Wrath (3), Move
+    Through Cover
+  Sub Type: Heavy
+  T: 8
+  Unit Name: Leviathan Dreadnought
+  Unit Type: Dreadnought
+  W: 7
+  WS: 5
+- A: 2
+  BS: 5
+  FOC Slot: HEAVY SUPPORT
+  I: 4
+  LD: 9
+  M: 7
+  S: 7
+  SV+: 2+
+  SV++: 5++
+  Special Rules: Legiones Astartes (X). Dreadnought Talon
+  Sub Type: Heavy
+  T: 7
+  Unit Name: Deredeo Dreadnought
+  Unit Type: Dreadnought
+  W: 6
+  WS: 5
+- A: 1
+  BS: 4
+  FOC Slot: HEAVY SUPPORT
+  I: 4
+  LD: 7
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (X)
+  Sub Type: Heavy
+  T: 4
+  Unit Name: Legionary (Heavy Support)
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: HEAVY SUPPORT
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (X)
+  Sub Type: Character, Heavy
+  T: 4
+  Unit Name: Legionary Sergeant (Heavy Support)
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (X), Relentless, Bulky(2), Stubbon, Hexagrammatic
+    wards
+  Sub Type: Heavy
+  T: 4
+  Unit Name: Legion Nullificator
+  Unit Type: Infantry
+  W: 2
+  WS: 4
+- A: 3
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 9
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (X), Relentless, Bulky(2), Stubbon, Hexagrammatic
+    wards
+  Sub Type: Heavy, Character
+  T: 4
+  Unit Name: Legion Nullificator Sergeant
+  Unit Type: Infantry
+  W: 2
+  WS: 4
+- A: 3
+  BS: 5
+  FOC Slot: ELITES
+  I: 2
+  LD: 9
+  M: 6
+  S: 6
+  SV+: 2+
+  SV++: 5++
+  Special Rules: Legiones Astartes (X), Dreadnought Talon, Ferromantic Deflector
+  Sub Type: Heavy
+  T: 6
+  Unit Name: Legion Castra Ferrum Dreadnought
+  Unit Type: Dreadnought
+  W: 5
+  WS: 5
+- A: 2
+  BS: 4
+  FOC Slot: TROOPS
+  I: 4
+  LD: 7
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 5++
+  Special Rules: Legiones Astartes (X), Relentless, Inexorable, Bulky (2), Support
+    Squad
+  Sub Type: Heavy
+  T: 4
+  Unit Name: Legion Indomitus
+  Unit Type: Infantry
+  W: 2
+  WS: 4
+- A: 3
+  BS: 4
+  FOC Slot: TROOPS
+  I: 4
+  LD: 8
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 5++
+  Special Rules: Legiones Astartes (X), Relentless, Inexorable, Bulky (2), Support
+    Squad
+  Sub Type: Heavy, Character
+  T: 4
+  Unit Name: Legion Indomitus Sergeant
+  Unit Type: Infantry
+  W: 2
+  WS: 4
+- A: 1
+  BS: 4
+  FOC Slot: FAST ATTACK
+  I: 4
+  LD: 7
+  M: 14
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (X), Relentless, Firing Protocols (2), Hammer of
+    Wrath (1)
+  Sub Type: Skirmish
+  T: 4
+  Unit Name: Legion Spatha Attack Bike
+  Unit Type: Cavalry
+  W: 1
+  WS: 4
+- A: 1
+  BS: 2
+  FOC Slot: FAST ATTACK
+  I: 1
+  LD: 5
+  M: None
+  S: 1
+  SV+: 3+
+  SV++: None
+  Special Rules: Sentry Protocols, Bulky (4)
+  Sub Type: Automated Artillery
+  T: 4
+  Unit Name: Tarantula Sentry Gun
+  Unit Type: Infantry
+  W: 2
+  WS: 1

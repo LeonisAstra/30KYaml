@@ -1,0 +1,16 @@
+IW:
+- AP: 3
+  Range: Combat
+  Special Rules: Melee, Haywire
+  Str: User
+  Weapon Name: Graviton Mace
+- AP: 2
+  Range: Combat
+  Special Rules: Melee, Unwieldy, Two-handed, Haywire
+  Str: '+2'
+  Weapon Name: Graviton Crusher
+- AP: 2
+  Range: Combat
+  Special Rules: Melee, Brutal(2), Haywire
+  Str: '+2'
+  Weapon Name: Graviton Maul

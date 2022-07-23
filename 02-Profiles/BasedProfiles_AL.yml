@@ -1,0 +1,69 @@
+AL:
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (Alpha Legion), Relentless, Bulky (2), It Will
+    Not Die (5+), Stubborn, Hydran Exemplars
+  Sub Type: Heavy, Line
+  T: 4
+  Unit Name: Lernaean
+  Unit Type: Infantry
+  W: 2
+  WS: 4
+- A: 3
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 9
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (Alpha Legion), Relentless, Bulky (2), It Will
+    Not Die (5+), Stubborn, Hydran Exemplars
+  Sub Type: Heavy, Line, Character
+  T: 4
+  Unit Name: Harrower
+  Unit Type: Infantry
+  W: 3
+  WS: 4
+- A: 1
+  BS: 5
+  FOC Slot: FAST ATTACK
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Alpha Legion), Relentless, Precision Shot (4+),
+    Preferred Enemy (Independent Character), Infiltrate, Scout
+  Sub Type: Skirmish
+  T: 4
+  Unit Name: Headhunter
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 3
+  BS: 5
+  FOC Slot: FAST ATTACK
+  I: 4
+  LD: 9
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Alpha Legion), Relentless, Precision Shot (4+),
+    Preferred Enemy (Independent Character), Infiltrate, Scout
+  Sub Type: Skirmish, Character
+  T: 4
+  Unit Name: Headhunter Prime
+  Unit Type: Infantry
+  W: 1
+  WS: 4

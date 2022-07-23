@@ -1,0 +1,136 @@
+SW:
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 2+
+  SV++: None
+  Special Rules: Legiones Astartes (Space Wolves), Cult of Morkai, The Dreams of the
+    Death Wolf, Counter-attack (1), Stubborn
+  Sub Type: Heavy
+  T: 4
+  Unit Name: Deathsworn
+  Unit Type: Infantry
+  W: 2
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (Space Wolves), Fear (1), Relentless, Counter-attack
+    (1), Stubborn, Hammer of Wrath (2), Lordsbane, Bulky (2)
+  Sub Type: Heavy
+  T: 4
+  Unit Name: Varagyr
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 3
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 9
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (Space Wolves), Fear (1), Relentless, Counter-attack
+    (1), Stubborn, Hammer of Wrath (2), Lordsbane, Bulky (2)
+  Sub Type: Heavy, Character
+  T: 4
+  Unit Name: Thegn
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 1
+  BS: 4
+  FOC Slot: TROOPS
+  I: 4
+  LD: 7
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Space Wolves), Relentless, Counter-attack (1),
+    Heart of the Legion
+  Sub Type: Skirmish, Line
+  T: 4
+  Unit Name: Grey Slayer
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: TROOPS
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Space Wolves), Relentless, Counter-attack (1),
+    Heart of the Legion
+  Sub Type: Skirmish, Line, Character
+  T: 4
+  Unit Name: Huscarl
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 1
+  BS: 4
+  FOC Slot: TROOPS
+  I: 4
+  LD: 7
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Space Wolves), Relentless, Counter-attack (1),
+    Heart of the Legion
+  Sub Type: Skirmish, Line
+  T: 4
+  Unit Name: Grey Stalker
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: TROOPS
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Space Wolves), Relentless, Counter-attack (1),
+    Heart of the Legion
+  Sub Type: Skirmish, Line, Character
+  T: 4
+  Unit Name: Huscarl
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 1
+  BS: None
+  FOC Slot: ATTACHED
+  I: 3
+  LD: 5
+  M: 7
+  S: 3
+  SV+: 6+
+  SV++: None
+  Special Rules: '*Pack Retinue'
+  Sub Type: Light, Skirmish
+  T: 3
+  Unit Name: Fenrisian Wolf
+  Unit Type: Infantry
+  W: 1
+  WS: 3

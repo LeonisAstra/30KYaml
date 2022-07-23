@@ -1,0 +1,41 @@
+DG:
+- AP: None
+  Range: Template
+  Special Rules: Pistol 1, Fleshbane, Gets Hot
+  Str: 3
+  Weapon Name: Alchem Pistol
+- AP: 5
+  Range: Template
+  Special Rules: Assault 1, Fleshbane, Gets Hot
+  Str: 4
+  Weapon Name: Alchem Flamer
+- AP: 5
+  Range: Template
+  Special Rules: Assault 1, Fleshbane, Gets Hot
+  Str: 4
+  Weapon Name: Alchem Combi-flamer (secondary)
+- AP: 4
+  Range: Template
+  Special Rules: Assault 1, Fleshbane, Gets Hot
+  Str: 5
+  Weapon Name: Heavy Alchem Flamer
+- AP: 4
+  Range: Template
+  Special Rules: Heavy 1, Torrent (18"), Fleshbane, Gets Hot
+  Str: 6
+  Weapon Name: Alchem Cannon
+- AP: 4
+  Range: 18"
+  Special Rules: Assault 2
+  Str: 6
+  Weapon Name: Assault Grenade Launcher ~ Krak
+- AP: 5
+  Range: 18"
+  Special Rules: Assault 4, Poisoned (3+), Ignores Cover
+  Str: 1
+  Weapon Name: Assault Grenade Launcher ~ Toxin
+- AP: 4
+  Range: Template
+  Special Rules: Assault 1, Poisoned (3+)
+  Str: 1
+  Weapon Name: Death Cloud Projector

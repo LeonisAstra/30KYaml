@@ -1,0 +1,48 @@
+DA:
+- AP: 4
+  Range: 12"
+  Special Rules: Assault 3, Gets Hot, Twin-linked, Breaching (4+)
+  Str: 6
+  Weapon Name: Plasma Repeater
+- AP: 4
+  Range: Template
+  Special Rules: Assault 1, Breaching (4+)
+  Str: 6
+  Weapon Name: Plasma Burner
+- AP: None
+  Range: 24"
+  Special Rules: Heavy 1, Blast (3"), Concussive (1)
+  Str: 4
+  Weapon Name: Stasis Missile
+- AP: 4
+  Range: Template
+  Special Rules: Assault 1, Breaching (6+)
+  Str: 4
+  Weapon Name: Plasma-caster
+- AP: 4
+  Range: Template
+  Special Rules: Assault 1, Breaching (4+), Torrent (9")
+  Str: 6
+  Weapon Name: Plasma Incinerator
+- AP: 2
+  Range: 18"
+  Special Rules: Heavy 1, Blast (3"), Barrage, Poisoned (3+), Crawling Fire, Lingering
+    Death
+  Str: 5
+  Weapon Name: Athanax Pattern Phosphex Canister Launcher
+- AP: 4
+  Range: 24"
+  Special Rules: Heavy 8, Poisoned (4+), Breaching (4+), Pinning
+  Str: 1
+  Weapon Name: Tyrhenius Pattern Nerve Induction Shredder
+- AP: 2
+  Range: 24"
+  Special Rules: Heavy 2, Lance, Shock Pulse
+  Str: 8
+  Weapon Name: Magaron Pattern Atomantic Pulse Cannon
+- AP: 4
+  Range: Template
+  Special Rules: Heavy 1, *Graviton Collapse, Torsion Crusher, Ignores Cover, Concussive
+    (1)
+  Str: '*'
+  Weapon Name: Cytheron Pattern Graviton Flux Projector

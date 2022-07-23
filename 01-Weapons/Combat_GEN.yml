@@ -1,0 +1,161 @@
+GEN:
+- AP: None
+  Range: Combat
+  Special Rules: Melee
+  Str: User
+  Weapon Name: Basic Close Combat Weapon
+- AP: None
+  Range: Combat
+  Special Rules: Melee, Shred
+  Str: User
+  Weapon Name: Chainsword
+- AP: None
+  Range: Combat
+  Special Rules: Melee, Shred, Two-Handed
+  Str: '+2'
+  Weapon Name: Heavy Chainsword
+- AP: None
+  Range: Combat
+  Special Rules: Melee, Shred
+  Str: '+1'
+  Weapon Name: Chainaxe
+- AP: 2
+  Range: Combat
+  Special Rules: Melee, Armourbane(Melee), Unwieldy
+  Str: x2
+  Weapon Name: Chainfist
+- AP: 2
+  Range: Combat
+  Special Rules: Melee, Armourbane(Melee), Murderous Strike(5+)
+  Str: '10'
+  Weapon Name: Gravis Chainfist
+- AP: None
+  Range: Combat
+  Special Rules: Melee, Two-handed, Shred
+  Str: '+1'
+  Weapon Name: Chain Bayonet
+- AP: None
+  Range: Combat
+  Special Rules: Melee, Breaching(5+), Duellist's Edge(1)
+  Str: User
+  Weapon Name: Charnabal Sabre
+- AP: None
+  Range: Combat
+  Special Rules: Melee, Breaching(6+), Duellist's Edge(1)
+  Str: '+2'
+  Weapon Name: Charnabal Tabar
+- AP: None
+  Range: Combat
+  Special Rules: Melee, Breaching(5+), Duellist's Edge(2), Two-handed
+  Str: '+1'
+  Weapon Name: Charnabal Glaive
+- AP: 3
+  Range: Combat
+  Special Rules: Melee, Rending(6+), Force
+  Str: User
+  Weapon Name: Force Sword
+- AP: 2
+  Range: Combat
+  Special Rules: Melee, Unwieldy, Force
+  Str: '+1'
+  Weapon Name: Force Axe
+- AP: 3
+  Range: Combat
+  Special Rules: Melee, Force
+  Str: '+2'
+  Weapon Name: Force Maul
+- AP: 3
+  Range: Combat
+  Special Rules: Melee, Reach(1), Force
+  Str: '+1'
+  Weapon Name: Force Staff
+- AP: 3
+  Range: Combat
+  Special Rules: Melee, Rending(6+)
+  Str: User
+  Weapon Name: Power Sword
+- AP: 2
+  Range: Combat
+  Special Rules: Melee, Unwieldy
+  Str: '+1'
+  Weapon Name: Power Axe
+- AP: 3
+  Range: Combat
+  Special Rules: Melee
+  Str: '+2'
+  Weapon Name: Power Maul
+- AP: 3
+  Range: Combat
+  Special Rules: Melee, Reach(1)
+  Str: '+1'
+  Weapon Name: Power Lance
+- AP: 2
+  Range: Combat
+  Special Rules: Melee, Unwieldy, Specialist Weapon
+  Str: x2
+  Weapon Name: Power Fist
+- AP: 2
+  Range: Combat
+  Special Rules: Melee, Brutal(3)
+  Str: '9'
+  Weapon Name: Gravis Power Fist
+- AP: 2
+  Range: Combat
+  Special Rules: Melee, Unwieldy, Brutal(2), Specialist Weapon
+  Str: x2
+  Weapon Name: Thunder Hammer
+- AP: 3
+  Range: Combat
+  Special Rules: Melee, Shred, Rending(6+), Specialist Weapon
+  Str: User
+  Weapon Name: Lightning Claw
+- AP: 2
+  Range: Combat
+  Special Rules: Melee, Murderous Strike(6+), Specialist Weapon
+  Str: '+1'
+  Weapon Name: Paragon Blade
+- AP: 2
+  Range: Combat
+  Special Rules: Melee, Unwieldy
+  Str: '8'
+  Weapon Name: Servo-arm
+- AP: 2
+  Range: Combat
+  Special Rules: Melee, Unwieldy, Shred, Armourbane(Melee)
+  Str: '+1'
+  Weapon Name: Machinator Array
+- AP: 1
+  Range: Combat
+  Special Rules: Melee, Unwieldy, Cumbersome
+  Str: '7'
+  Weapon Name: Lascutter
+- AP: 1
+  Range: Combat
+  Special Rules: Melee, Detonation, Unwieldy, Armourbane(Melee), Instant Death
+  Str: '8'
+  Weapon Name: Melta Bomb
+- AP: 2
+  Range: Combat
+  Special Rules: Melee, Brutal(3)
+  Str: '10'
+  Weapon Name: Leviathan Siege Claw
+- AP: 2
+  Range: Combat
+  Special Rules: Melee, Armourbane(3)
+  Str: '12'
+  Weapon Name: Leviathan Siege Drill
+- AP: 4
+  Range: Combat
+  Special Rules: Melee, Two-handed, Haywire
+  Str: '+1'
+  Weapon Name: Corposant Stave
+- AP: None
+  Range: Combat
+  Special Rules: Melee, Two-handed
+  Str: '+1'
+  Weapon Name: Bayonet
+- AP: 3
+  Range: Combat
+  Special Rules: Melee, Deflagrate
+  Str: 1
+  Weapon Name: Aether-shock Maul

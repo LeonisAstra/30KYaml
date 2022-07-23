@@ -1,0 +1,101 @@
+RG:
+- A: 2
+  BS: 5
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Raven Guard), Relentless, Scout, Fatal Strike
+  Sub Type: Skirmish,
+  T: 4
+  Unit Name: Mor Deythan
+  Unit Type: Infantry
+  W: 2
+  WS: 4
+- A: 3
+  BS: 5
+  FOC Slot: ELITES
+  I: 4
+  LD: 9
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Raven Guard), Relentless, Scout, Fatal Strike
+  Sub Type: Skirmish, Character
+  T: 4
+  Unit Name: Mor Deythan Shade
+  Unit Type: Infantry
+  W: 2
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: FAST ATTACK
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Raven Guard), Deep Strike, Precision Strikes (6+),
+    Sudden Strike (1)
+  Sub Type: None
+  T: 4
+  Unit Name: Dark Fury
+  Unit Type: Infantry
+  W: 2
+  WS: 4
+- A: 3
+  BS: 4
+  FOC Slot: FAST ATTACK
+  I: 4
+  LD: 9
+  M: 7
+  S: 4
+  SV+: 2+
+  SV++: None
+  Special Rules: Legiones Astartes (Raven Guard), Deep Strike, Precision Strikes (6+),
+    Sudden Strike (1)
+  Sub Type: Character
+  T: 4
+  Unit Name: Chooser of the Slain
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (Raven Guard), Stubborn, Bulky (2), Corax's Shame,
+    Deep Strike
+  Sub Type: Heavy
+  T: 4
+  Unit Name: Deliverers
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 3
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 9
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (Raven Guard), Stubborn, Bulky (2), Corax's Shame,
+    Deep Strike
+  Sub Type: Heavy, Character
+  T: 4
+  Unit Name: Deliverers Chieftain
+  Unit Type: Infantry
+  W: 2
+  WS: 5

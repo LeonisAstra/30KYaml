@@ -1,0 +1,69 @@
+SAL:
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 2+
+  SV++: None
+  Special Rules: Legiones Astartes (Salamanders), It Will Not Die (5+), Mantle of
+    Ash
+  Sub Type: None
+  T: 4
+  Unit Name: Pyroclast
+  Unit Type: Infantry
+  W: 2
+  WS: 4
+- A: 3
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 9
+  M: 7
+  S: 4
+  SV+: 2+
+  SV++: None
+  Special Rules: Legiones Astartes (Salamanders), It Will Not Die (5+), Mantle of
+    Ash
+  Sub Type: Character
+  T: 4
+  Unit Name: Pyroclast Warden
+  Unit Type: Infantry
+  W: 2
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 9
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (Salamanders), Relentless, Bulky (2), Stubborn,
+    Forge-craft of Nocturne, It Will Not Die (5+), Favoured of Vulkan
+  Sub Type: Heavy
+  T: 4
+  Unit Name: Firedrake
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 3
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 9
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (Salamanders), Relentless, Bulky (2), Stubborn,
+    Forge-craft of Nocturne, It Will Not Die (5+), Favoured of Vulkan
+  Sub Type: Heavy, Character
+  T: 4
+  Unit Name: Firedrake Master
+  Unit Type: Infantry
+  W: 2
+  WS: 5

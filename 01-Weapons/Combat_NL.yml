@@ -1,0 +1,21 @@
+NL:
+- AP: 3
+  Range: Combat
+  Special Rules: Melee, Shred, Breaching (6+)
+  Str: '+1'
+  Weapon Name: Chainblade
+- AP: 3
+  Range: Combat
+  Special Rules: Melee, Two-handed, Shred, Breaching (6+)
+  Str: '+2'
+  Weapon Name: Chainglaive
+- AP: 3
+  Range: Combat
+  Special Rules: Melee, Two-handed, Shred, Breaching (6+)
+  Str: x2
+  Weapon Name: Headsman's Axe
+- AP: 2
+  Range: Combat
+  Special Rules: Melee, Shred, Murderous Strike (6+), Unwieldy, Specialist Weapon
+  Str: x2
+  Weapon Name: Escaton Power Claw

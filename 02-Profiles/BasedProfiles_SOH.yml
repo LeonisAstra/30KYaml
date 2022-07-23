@@ -1,0 +1,86 @@
+SOH:
+- A: 3
+  BS: 5
+  FOC Slot: ELITES
+  I: 4
+  LD: 9
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (Sons of Horus), Relentless, Bulky (2), Justaerin
+    Retinue, Furious Charge (1), Chosen Warriors, Stubborn
+  Sub Type: Heavy
+  T: 4
+  Unit Name: Justaerin
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Sons of Horus), Relentless, Chosen Warriors, Counter-attack,
+    Precision Shots (6+), Precision Strikes (6+)
+  Sub Type: None
+  T: 4
+  Unit Name: Reaver
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 3
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Sons of Horus), Relentless, Chosen Warriors, Counter-attack,
+    Precision Shots (6+), Precision Strikes (6+)
+  Sub Type: Character
+  T: 4
+  Unit Name: Reaver Chieftain
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Sons of Horus), Relentless, Chosen Warriors, Counter-attack
+    (1), Precision Shots (6+), Precision Strikes (6+)
+  Sub Type: None
+  T: 4
+  Unit Name: Reaver Aggressor
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Sons of Horus), Relentless, Chosen Warriors, Counter-attack
+    (1), Precision Shots (6+), Precision Strikes (6+)
+  Sub Type: Character
+  T: 4
+  Unit Name: Reaver Aggressor Chieftain
+  Unit Type: Infantry
+  W: 2
+  WS: 5

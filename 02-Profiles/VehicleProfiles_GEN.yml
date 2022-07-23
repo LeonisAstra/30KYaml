@@ -1,0 +1,687 @@
+GEN:
+- BS: 4
+  FOC Slot: HQ
+  FRONT: 11
+  HP: 3
+  M: 14
+  REAR: 11
+  SIDE: 11
+  Special Rules: Legiones Astartes (X), Support Squad
+  Sub Type: Transport
+  Transport: 6
+  Unit Name: Legion Damocles Command Rhino
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: DEDICATED TRANSPORT
+  FRONT: 11
+  HP: 3
+  M: 14
+  REAR: 10
+  SIDE: 11
+  Special Rules: Legiones Astartes (X), Repair, Infantry Transport
+  Sub Type: Transport
+  Transport: 12
+  Unit Name: Legion Rhino Transport
+  Unit Type: Vehicle
+- BS: 2
+  FOC Slot: DEDICATED TRANSPORT
+  FRONT: 12
+  HP: 3
+  M: None
+  REAR: 12
+  SIDE: 12
+  Special Rules: Legiones Astartes (X), Inertial Guidance System, Impact-reactive
+    Doors, Orbital Assault Vehicle, Deep Strike, Infantry Transport
+  Sub Type: Transport
+  Transport: 10
+  Unit Name: Legion Drop Pod
+  Unit Type: Vehicle
+- BS: 2
+  FOC Slot: DEDICATED TRANSPORT
+  FRONT: 12
+  HP: 3
+  M: None
+  REAR: 12
+  SIDE: 12
+  Special Rules: Legiones Astartes (X), Inertial Guidance System, Impact-reactive
+    Doors, Orbital Assault Vehicle, Deep Strike, Dreadnought Transport
+  Sub Type: Transport
+  Transport: '*'
+  Unit Name: Legion Dreadnought Drop Pod
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: DEDICATED TRANSPORT
+  FRONT: 12
+  HP: 3
+  M: 8
+  REAR: 10
+  SIDE: 12
+  Special Rules: Legiones Astartes (X), Infantry Transport, Subterranean Assault
+  Sub Type: Transport
+  Transport: 12
+  Unit Name: Legion Termite Assault Drill
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: FAST ATTACK
+  FRONT: 12
+  HP: 3
+  M: 16
+  REAR: 10
+  SIDE: 11
+  Special Rules: Legiones Astartes (X)
+  Sub Type: Fast
+  Transport: None
+  Unit Name: Legion Sabre
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: FAST ATTACK
+  FRONT: 12
+  HP: 4
+  M: 18
+  REAR: 12
+  SIDE: 12
+  Special Rules: Legiones Astartes (X), Power of the Machine Spirit, Assault Vehicle,
+    Deep Strike
+  Sub Type: Flyer, Hover, Transport
+  Transport: 22
+  Unit Name: Legion Storm Eagle Gunship
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: FAST ATTACK
+  FRONT: 11
+  HP: 3
+  M: 20
+  REAR: 11
+  SIDE: 11
+  Special Rules: Legiones Astartes (X), Talons of the Legion
+  Sub Type: Flyer
+  Transport: None
+  Unit Name: Legion Xiphon Interceptor
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: FAST ATTACK
+  FRONT: 12
+  HP: 3
+  M: 15
+  REAR: 12
+  SIDE: 12
+  Special Rules: Legiones Astartes (X), Deep Strike, Dreadnought Transport, Inertial
+    Guidance System, Heat Blast
+  Sub Type: Flyer, Hover, Transport
+  Transport: 12
+  Unit Name: Legion Dreadclaw Drop Pod
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: HEAVY SUPPORT
+  FRONT: 13
+  HP: 3
+  M: 14
+  REAR: 10
+  SIDE: 12
+  Special Rules: Legiones Astartes (X)
+  Sub Type: .nan
+  Transport: None
+  Unit Name: Legion Predator
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: HEAVY SUPPORT
+  FRONT: 13
+  HP: 4
+  M: 16
+  REAR: 12
+  SIDE: 12
+  Special Rules: Legiones Astartes (X)
+  Sub Type: .nan
+  Transport: None
+  Unit Name: Legion Sicaran
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: HEAVY SUPPORT
+  FRONT: 13
+  HP: 4
+  M: 16
+  REAR: 12
+  SIDE: 12
+  Special Rules: Legiones Astartes (X)
+  Sub Type: .nan
+  Transport: None
+  Unit Name: 'Legion Sicaran Arcus '
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: HEAVY SUPPORT
+  FRONT: 13
+  HP: 4
+  M: 16
+  REAR: 12
+  SIDE: 12
+  Special Rules: Legiones Astartes (X)
+  Sub Type: .nan
+  Transport: None
+  Unit Name: Legion Sicaran Punisher
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: HEAVY SUPPORT
+  FRONT: 13
+  HP: 4
+  M: 16
+  REAR: 12
+  SIDE: 12
+  Special Rules: Legiones Astartes (X)
+  Sub Type: .nan
+  Transport: None
+  Unit Name: Legion Sicaran Venator
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: HEAVY SUPPORT
+  FRONT: 13
+  HP: 4
+  M: 16
+  REAR: 12
+  SIDE: 12
+  Special Rules: Legiones Astartes (X)
+  Sub Type: .nan
+  Transport: None
+  Unit Name: Legion Sicaran Omega
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: HEAVY SUPPORT
+  FRONT: 14
+  HP: 5
+  M: 10
+  REAR: 14
+  SIDE: 14
+  Special Rules: Legiones Astartes (X)
+  Sub Type: Reinforced
+  Transport: None
+  Unit Name: Legion Kratos
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: HEAVY SUPPORT
+  FRONT: 14
+  HP: 5
+  M: 12
+  REAR: 14
+  SIDE: 14
+  Special Rules: Legiones Astartes (X), Power of the Machine Spirit, Assault Vehicle
+  Sub Type: Transport, Reinforced
+  Transport: 12
+  Unit Name: Legion Land Raider Proteus Carrier
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: HEAVY SUPPORT
+  FRONT: 14
+  HP: 5
+  M: 12
+  REAR: 14
+  SIDE: 14
+  Special Rules: Legiones Astartes (X), Power of the Machine Spirit, Scout
+  Sub Type: Transport, Reinforced
+  Transport: 8
+  Unit Name: 'Legion Land Raider Proteus Explorator '
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: HEAVY SUPPORT
+  FRONT: 13
+  HP: 4
+  M: 12
+  REAR: 10
+  SIDE: 13
+  Special Rules: Legiones Astartes (X)
+  Sub Type: Reinforced
+  Transport: None
+  Unit Name: Legion Vindicator
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: HEAVY SUPPORT
+  FRONT: 14
+  HP: 6
+  M: 12
+  REAR: 14
+  SIDE: 14
+  Special Rules: Legiones Astartes (X), Power of the Machine Spirit, Assault Vehicle
+  Sub Type: Transport, Reinforced
+  Transport: 26
+  Unit Name: Legion Land Raider Spartan
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: HEAVY SUPPORT
+  FRONT: 13
+  HP: 4
+  M: 12
+  REAR: 10
+  SIDE: 12
+  Special Rules: Legiones Astartes (X)
+  Sub Type: .nan
+  Transport: None
+  Unit Name: Legion Scorpius
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: HEAVY SUPPORT
+  FRONT: 12
+  HP: 5
+  M: 8
+  REAR: 10
+  SIDE: 12
+  Special Rules: Legiones Astartes (X), Move Through Cover
+  Sub Type: Bombard
+  Transport: None
+  Unit Name: Legion Arquitor
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: HEAVY SUPPORT
+  FRONT: 12
+  HP: 4
+  M: 18
+  REAR: 12
+  SIDE: 12
+  Special Rules: Legiones Astartes (X), Power of the Machine Spirit, Deep Strike,
+    Strafing Run (1)
+  Sub Type: Flyer, Hover
+  Transport: None
+  Unit Name: Legion Fire Raptor Gunship
+  Unit Type: Vehicle
+- BS: 2
+  FOC Slot: HEAVY SUPPORT
+  FRONT: 12
+  HP: 3
+  M: None
+  REAR: 12
+  SIDE: 12
+  Special Rules: Legiones Astartes (X), Deep Strike, Impact-reactive Doors, Orbital
+    Assault Vehicle, Area Denial Drop
+  Sub Type: .nan
+  Transport: None
+  Unit Name: Legion Deathstorm Drop Pod
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: HEAVY SUPPORT
+  FRONT: 12
+  HP: 5
+  M: 16
+  REAR: 12
+  SIDE: 12
+  Special Rules: Legiones Astartes (X), Deep Strike, Dreadnought Transport, Assault
+    Vehicle, Inertial Guidance System, Heat Blast
+  Sub Type: Flyer, Hover, Transport
+  Transport: 22
+  Unit Name: Legion Kharybdis
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: LORD OF WAR
+  FRONT: 14
+  HP: 6
+  M: 16
+  REAR: 13
+  SIDE: 14
+  Special Rules: Legiones Astartes (X), Reactor Blast
+  Sub Type: Bombard, Reinforced
+  Transport: None
+  Unit Name: Legion Cerberus
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: LORD OF WAR
+  FRONT: 14
+  HP: 6
+  M: 10
+  REAR: 13
+  SIDE: 14
+  Special Rules: Legiones Astartes (X), Crushing Weight
+  Sub Type: Bombard, Reinforced
+  Transport: None
+  Unit Name: Legion Typhon
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: LORD OF WAR
+  FRONT: 14
+  HP: 12
+  M: 12
+  REAR: 12
+  SIDE: 13
+  Special Rules: Legiones Astartes (X)
+  Sub Type: Super-Heavy
+  Transport: None
+  Unit Name: Legion Glaive
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: LORD OF WAR
+  FRONT: 14
+  HP: 12
+  M: 12
+  REAR: 12
+  SIDE: 13
+  Special Rules: Legiones Astartes (X)
+  Sub Type: Super-Heavy
+  Transport: None
+  Unit Name: Legion Fellblade
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: LORD OF WAR
+  FRONT: 14
+  HP: 12
+  M: 12
+  REAR: 12
+  SIDE: 13
+  Special Rules: Legiones Astartes (X)
+  Sub Type: Super-Heavy
+  Transport: None
+  Unit Name: Legion Falchion
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: LORD OF WAR
+  FRONT: 12
+  HP: 9
+  M: 18
+  REAR: 12
+  SIDE: 12
+  Special Rules: Legiones Astartes (X), Power of the Machine Spirit, Assault Vehicle,
+    Transport Bay
+  Sub Type: Flyer, Hover, Lumbering, Transport
+  Transport: 32
+  Unit Name: Legion Thunderhawk
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: LORD OF WAR
+  FRONT: 14
+  HP: 12
+  M: 16
+  REAR: 12
+  SIDE: 13
+  Special Rules: Legiones Astartes (X), Power of the Machine Spirit, Assault Vehicle,
+    Transport Bay, Auxiliary Vehicle Bay, Void Shields (2)
+  Sub Type: Flyer, Hover, Lumbering, Transport
+  Transport: 52
+  Unit Name: Legion Sokar Stormbird
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: LORD OF WAR
+  FRONT: 14
+  HP: 12
+  M: 10
+  REAR: 14
+  SIDE: 14
+  Special Rules: Legiones Astartes (X), Assault Vehicle, Transport Bay, Void Shields
+    (2)
+  Sub Type: Super-Heavy, Transport
+  Transport: 42
+  Unit Name: Legion Mastodon
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: FAST ATTACK
+  FRONT: 11
+  HP: 3
+  M: 22
+  REAR: 10
+  SIDE: 10
+  Special Rules: Legiones Astartes (X), Deep Strike
+  Sub Type: Flyer
+  Transport: None
+  Unit Name: Legion Avenger
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: FAST ATTACK
+  FRONT: 12
+  HP: 3
+  M: 22
+  REAR: 10
+  SIDE: 11
+  Special Rules: Legiones Astartes (X), Deep Strike
+  Sub Type: Flyer
+  Transport: None
+  Unit Name: Legion Thunderbolt
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: FAST ATTACK
+  FRONT: 11
+  HP: 3
+  M: 26
+  REAR: 10
+  SIDE: 11
+  Special Rules: Legiones Astartes (X), Deep Strike
+  Sub Type: Flyer
+  Transport: None
+  Unit Name: Legion Primaris-Lightning
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: HEAVY SUPPORT
+  FRONT: 14
+  HP: 5
+  M: 12
+  REAR: 14
+  SIDE: 14
+  Special Rules: Legiones Astartes (X), Power of the Machine Spirit, Assault Vehicle
+  Sub Type: Transport, Reinforced
+  Transport: 12
+  Unit Name: Legion Land Raider Phobos
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: HEAVY SUPPORT
+  FRONT: 14
+  HP: 5
+  M: 12
+  REAR: 14
+  SIDE: 14
+  Special Rules: Legiones Astartes (X), Power of the Machine Spirit, Ferromantic Invulnerability,
+    Galvanic Traction Drive
+  Sub Type: Transport, Reinforced
+  Transport: 6
+  Unit Name: Legion Land Raider Achilles
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: HEAVY SUPPORT
+  FRONT: 13
+  HP: 4
+  M: 10
+  REAR: 10
+  SIDE: 12
+  Special Rules: Legiones Astartes (X)
+  Sub Type: Bombard
+  Transport: None
+  Unit Name: Legion Basilisk
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: HEAVY SUPPORT
+  FRONT: 13
+  HP: 4
+  M: 10
+  REAR: 10
+  SIDE: 12
+  Special Rules: Legiones Astartes (X)
+  Sub Type: Bombard
+  Transport: None
+  Unit Name: Legion Medusa
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: HEAVY SUPPORT
+  FRONT: 11
+  HP: 3
+  M: 12
+  REAR: 10
+  SIDE: 11
+  Special Rules: Legiones Astartes (X)
+  Sub Type: None
+  Transport: None
+  Unit Name: Legion Whirlwind
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: HEAVY SUPPORT
+  FRONT: 13
+  HP: 4
+  M: 14
+  REAR: 11
+  SIDE: 13
+  Special Rules: Legiones Astartes (X), Assault Vehicle, Deep Strike
+  Sub Type: Flyer, Hover, Transport
+  Transport: 12
+  Unit Name: Legion Caestus
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: HEAVY SUPPORT
+  FRONT: 13
+  HP: 5
+  M: 14
+  REAR: 12
+  SIDE: 13
+  Special Rules: Legiones Astartes (X), Independent Fire Control (unknown special
+    rule)
+  Sub Type: Reinforced
+  Transport: None
+  Unit Name: Legion Malcador
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: HEAVY SUPPORT
+  FRONT: 13
+  HP: 4
+  M: 8
+  REAR: 13
+  SIDE: 12
+  Special Rules: Legiones Astartes (X), Open Crew Compartment
+  Sub Type: Slow, Reinforced
+  Transport: None
+  Unit Name: Legion Minotaur
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: LORD OF WAR
+  FRONT: 13
+  HP: 12
+  M: 10
+  REAR: 12
+  SIDE: 13
+  Special Rules: Legiones Astartes (X)
+  Sub Type: Super-Heavy
+  Transport: None
+  Unit Name: Legion Stormblade
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: LORD OF WAR
+  FRONT: 12
+  HP: 9
+  M: 18
+  REAR: 12
+  SIDE: 12
+  Special Rules: Legiones Astartes (X), Power of the Machine Spirit, Assault Vehicle,
+    Transport Bay, Two Auxiliary Vehicle Bay
+  Sub Type: Flyer, Hover, Lumbering, Transport
+  Transport: 22
+  Unit Name: Legion Thunderhawk Transporter
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: LORD OF WAR
+  FRONT: 12
+  HP: 5
+  M: 18
+  REAR: 10
+  SIDE: 11
+  Special Rules: Legiones Astartes (X), Deep Strike
+  Sub Type: Flyer, Lumbering
+  Transport: None
+  Unit Name: Legion Marauder
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: LORD OF WAR
+  FRONT: 13
+  HP: 12
+  M: 10
+  REAR: 12
+  SIDE: 13
+  Special Rules: Legiones Astartes (X)
+  Sub Type: Super-Heavy
+  Transport: None
+  Unit Name: 'Legion Baneblade '
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: LORD OF WAR
+  FRONT: 13
+  HP: 12
+  M: 10
+  REAR: 12
+  SIDE: 13
+  Special Rules: Legiones Astartes (X)
+  Sub Type: Super-Heavy, Transport
+  Transport: 10
+  Unit Name: Legion Banehammer
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: LORD OF WAR
+  FRONT: 13
+  HP: 12
+  M: 10
+  REAR: 12
+  SIDE: 13
+  Special Rules: Legiones Astartes (X)
+  Sub Type: Super-Heavy, Transport
+  Transport: 10
+  Unit Name: Legion Stormlord
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: LORD OF WAR
+  FRONT: 13
+  HP: 12
+  M: 10
+  REAR: 12
+  SIDE: 13
+  Special Rules: Legiones Astartes (X)
+  Sub Type: Super-Heavy
+  Transport: None
+  Unit Name: Legion Shadowsword
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: LORD OF WAR
+  FRONT: 13
+  HP: 12
+  M: 10
+  REAR: 12
+  SIDE: 13
+  Special Rules: Legiones Astartes (X)
+  Sub Type: Super-Heavy
+  Transport: None
+  Unit Name: Legion Stormsword
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: LORD OF WAR
+  FRONT: 13
+  HP: 6
+  M: 10
+  REAR: 12
+  SIDE: 12
+  Special Rules: Legiones Astartes (X)
+  Sub Type: Super-Heavy
+  Transport: None
+  Unit Name: Legion Macharius Heavy Tank
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: LORD OF WAR
+  FRONT: 13
+  HP: 6
+  M: 10
+  REAR: 10
+  SIDE: 11
+  Special Rules: Legiones Astartes (X), Volatile Plasma Containment, Exposed Plasma
+    Conduits
+  Sub Type: Super-Heavy
+  Transport: None
+  Unit Name: Legion Macharius Omega Heavy Tank
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: LORD OF WAR
+  FRONT: 13
+  HP: 8
+  M: 10
+  REAR: 12
+  SIDE: 12
+  Special Rules: Legiones Astartes (X)
+  Sub Type: Super-heavy, Transport
+  Transport: 35
+  Unit Name: Legion Crassus
+  Unit Type: Vehicle
+- BS: 4
+  FOC Slot: LORD OF WAR
+  FRONT: 13
+  HP: 8
+  M: 10
+  REAR: 12
+  SIDE: 12
+  Special Rules: Legiones Astartes (X)
+  Sub Type: Super-Heavy
+  Transport: None
+  Unit Name: Legion Praetor
+  Unit Type: Vehicle

@@ -1,0 +1,36 @@
+WB:
+- AP: 4
+  Range: 12"
+  Special Rules: Pistol 1, Breaching (4+), Pinning
+  Str: 6
+  Weapon Name: Warpfire Pistol
+- AP: 4
+  Range: 24"
+  Special Rules: Assault 2, Breaching (4+), Pinning
+  Str: 6
+  Weapon Name: Warpfire Blaster
+- AP: 4
+  Range: 36"
+  Special Rules: Heavy 1, Blast (3"), Breaching (4+), Pinning
+  Str: 6
+  Weapon Name: Warpfire Cannon
+- AP: 5
+  Range: 24"
+  Special Rules: Rapid Fire
+  Str: 4
+  Weapon Name: Boltspitter
+- AP: 4
+  Range: 48"
+  Special Rules: Heavy 6, Twin-linked
+  Str: 5
+  Weapon Name: Greater Boltspitter
+- AP: 1
+  Range: 6"
+  Special Rules: Pistol 1, Armourbane (Melta)
+  Str: 8
+  Weapon Name: Inferno Pistol
+- AP: 4
+  Range: Template
+  Special Rules: Assault 1, Torrent (6"), Pinning
+  Str: 4
+  Weapon Name: Akkadic Hand Flamer

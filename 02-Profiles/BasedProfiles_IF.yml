@@ -1,0 +1,99 @@
+IF:
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 2+
+  SV++: None
+  Special Rules: Legiones Astartes (Imperial Fists), Furious Charge (1), Crusader
+  Sub Type: None
+  T: 4
+  Unit Name: Brethren
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 3
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 9
+  M: 7
+  S: 4
+  SV+: 2+
+  SV++: None
+  Special Rules: Legiones Astartes (Imperial Fists), Furious Charge (1), Crusader
+  Sub Type: Character
+  T: 4
+  Unit Name: Champion
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 1
+  BS: 4
+  FOC Slot: FAST ATTACK
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: 5++
+  Special Rules: Legiones Astartes (Imperial Fists), Shield Wall, Lock-step
+  Sub Type: Heavy
+  T: 4
+  Unit Name: Phalanx Warder
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: FAST ATTACK
+  I: 4
+  LD: 9
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: 5++
+  Special Rules: Legiones Astartes (Imperial Fists), Shield Wall, Lock-step
+  Sub Type: Heavy, Character
+  T: 4
+  Unit Name: Warder Sergeant
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: HQ
+  I: 4
+  LD: 8
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (Imperial Fists), Stubborn, Relentless, Bulky (2),
+    Iron Bulwark, Huscarl Retinue, Deep Strike
+  Sub Type: Heavy
+  T: 4
+  Unit Name: Huscarl
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 2
+  BS: 4
+  FOC Slot: HQ
+  I: 4
+  LD: 9
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (Imperial Fists), Stubborn, Relentless, Bulky (2),
+    Iron Bulwark, Huscarl Retinue, Deep Strike
+  Sub Type: Heavy, Character
+  T: 4
+  Unit Name: Huscarl-master
+  Unit Type: Infantry
+  W: 2
+  WS: 5

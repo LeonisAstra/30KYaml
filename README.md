@@ -9,5 +9,10 @@ Copyright infringement is not intended and any/all copyrighted material included
 Data is pulled from the "30K Cheat Sheet" managed by Ollanius#9837, Deadlycinna#9642, and LordAdorable#6514, with initial work created by [Flaymaster](https://www.instagram.com/the_flaymaster). This repository currently uses the *2022.07.07* release of the sheet.
 
 
+## Requirements:
+```
+conda install pandas numpy openpyxl
+```
+
 ## Update Log:
 - [2022.07.22] Initial release of the repository. 

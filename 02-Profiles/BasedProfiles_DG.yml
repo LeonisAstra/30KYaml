@@ -1,0 +1,86 @@
+DG:
+- A: 3
+  BS: 5
+  FOC Slot: ELITES
+  I: 4
+  LD: 9
+  M: 7
+  S: 4
+  SV+: 2+
+  SV++: 5++
+  Special Rules: Legiones Astartes (Death Guard), Relentless, Deathshroud Retinue,
+    Bulky (2), Battle-hardened, Stubborn, Chosen Warriors
+  Sub Type: None
+  T: 4
+  Unit Name: Deathshroud
+  Unit Type: Infantry
+  W: 3
+  WS: 5
+- A: 2
+  BS: 4
+  FOC Slot: HEAVY SUPPORT
+  I: 4
+  LD: 8
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (Death Guard), Relentless, Bulky (2), Shrouded
+    in Death, Firing Protocols (2), Shrouded (6+), Stubborn
+  Sub Type: Heavy
+  T: 4
+  Unit Name: Grave Warden
+  Unit Type: Infantry
+  W: 2
+  WS: 4
+- A: 3
+  BS: 4
+  FOC Slot: HEAVY SUPPORT
+  I: 4
+  LD: 9
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (Death Guard), Relentless, Bulky (2), Shrouded
+    in Death, Firing Protocols (2), Shrouded (6+), Stubborn
+  Sub Type: Heavy, Character
+  T: 4
+  Unit Name: Chem-master
+  Unit Type: Infantry
+  W: 2
+  WS: 4
+- A: 1
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 7
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Death Guard), Stubborn, Counter-attack (1), Bitter
+    Duty
+  Sub Type: Heavy
+  T: 4
+  Unit Name: Mortus Poisoner
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Death Guard), Stubborn, Counter-attack (1), Bitter
+    Duty
+  Sub Type: Heavy, Character
+  T: 4
+  Unit Name: Poison-master
+  Unit Type: Infantry
+  W: 1
+  WS: 4

@@ -1,0 +1,109 @@
+GEN:
+- BS: 2
+  FOC Slot: FORTIFICATION
+  FRONT: 13
+  HP: 3
+  M: None
+  REAR: 13
+  SIDE: 13
+  Special Rules: Battlements
+  Sub Type: Building
+  Transport: 10
+  Unit Name: Firestorm Redoubt
+  Unit Type: Fortification
+- BS: 2
+  FOC Slot: FORTIFICATION
+  FRONT: 13
+  HP: 2
+  M: None
+  REAR: 13
+  SIDE: 13
+  Special Rules: None
+  Sub Type: Emplacement
+  Transport: None
+  Unit Name: Vengeance Weapon Battery
+  Unit Type: Fortification
+- BS: None
+  FOC Slot: FORTIFICATION
+  FRONT: 12
+  HP: 3
+  M: None
+  REAR: 12
+  SIDE: 12
+  Special Rules: Void Shields (1), Void Shield Projector
+  Sub Type: Emplacement
+  Transport: None
+  Unit Name: Void Shield Generator
+  Unit Type: Fortification
+- BS: None
+  FOC Slot: FORTIFICATION
+  FRONT: 12
+  HP: 4
+  M: None
+  REAR: 12
+  SIDE: 12
+  Special Rules: Battlements, Landing Zone Beacon
+  Sub Type: Emplacement
+  Transport: None
+  Unit Name: Skyshield Landing Pad
+  Unit Type: Fortification
+- BS: 2
+  FOC Slot: FORTIFICATION
+  FRONT: 13
+  HP: 5
+  M: None
+  REAR: 13
+  SIDE: 13
+  Special Rules: Battlements, Multi-part Fortification
+  Sub Type: Building
+  Transport: 12
+  Unit Name: Fortress of Redemption Bunker Annex
+  Unit Type: Fortification
+- BS: None
+  FOC Slot: FORTIFICATION
+  FRONT: 13
+  HP: 5
+  M: None
+  REAR: 13
+  SIDE: 13
+  Special Rules: Battlements, Multi-part Fortification
+  Sub Type: Emplacement
+  Transport: None
+  Unit Name: Fortress of Redemption Tower
+  Unit Type: Fortification
+- BS: None
+  FOC Slot: FORTIFICATION
+  FRONT: 13
+  HP: 6
+  M: None
+  REAR: 13
+  SIDE: 13
+  Special Rules: Battlements, Infantry Transport, Orbital Defences
+  Sub Type: Massive, Building
+  Transport: 30
+  Unit Name: Aquila Strongpoint
+  Unit Type: Fortification
+- BS: 3
+  FOC Slot: FORTIFICATION
+  FRONT: 14
+  HP: 10
+  M: None
+  REAR: 14
+  SIDE: 14
+  Special Rules: Battlements, Infantry Transport, Garrison Vault
+  Sub Type: Massive, Building
+  Transport: 50
+  Unit Name: Primus Redoubt
+  Unit Type: Fortification
+- BS: 2
+  FOC Slot: FORTIFICATION
+  FRONT: 12
+  HP: 3
+  M: None
+  REAR: 12
+  SIDE: 12
+  Special Rules: Hammerfall Strike
+  Sub Type: Emplacement
+  Transport: None
+  Unit Name: Hammerfall Bunker
+  Unit Type: Fortification

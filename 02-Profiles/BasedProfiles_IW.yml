@@ -1,0 +1,101 @@
+IW:
+- A: 3
+  BS: 3
+  FOC Slot: ELITES
+  I: 3
+  LD: 8
+  M: 8
+  S: 7
+  SV+: 3+
+  SV++: 5++
+  Special Rules: Legiones Astartes (Iron Warrior), Relentless, Hammer of Wrath (3),
+    Moving Bulwark, The Shield of the Iron Tyrant
+  Sub Type: Cybernetica, Heavy
+  T: 7
+  Unit Name: Domitar-ferrum
+  Unit Type: Automata
+  W: 5
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: HEAVY SUPPORT
+  I: 4
+  LD: 8
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (Iron Warrior), Relentless, Bulky (2), Firing Protocol
+    (2), Inexorable
+  Sub Type: Heavy
+  T: 4
+  Unit Name: Tyrant
+  Unit Type: Infantry
+  W: 2
+  WS: 4
+- A: 3
+  BS: 4
+  FOC Slot: HEAVY SUPPORT
+  I: 4
+  LD: 9
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (Iron Warrior), Relentless, Bulky (2), Firing Protocol
+    (2), Inexorable
+  Sub Type: Heavy, Character
+  T: 4
+  Unit Name: Siege Master
+  Unit Type: Infantry
+  W: 2
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 9
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (Iron Warrior), Relentless, Stubborn, Hatred (Automata),
+    Those Once Honoured, Bulky (2), Chosen Warriors
+  Sub Type: Heavy
+  T: 4
+  Unit Name: Dominator
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 1
+  BS: 5
+  FOC Slot: HEAVY SUPPORT
+  I: 4
+  LD: 7
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Iron Warriors)
+  Sub Type: Heavy
+  T: 4
+  Unit Name: Iron Havoc
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 2
+  BS: 5
+  FOC Slot: HEAVY SUPPORT
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Iron Warriors)
+  Sub Type: Heavy, Character
+  T: 4
+  Unit Name: Iron Havoc Sergeant
+  Unit Type: Infantry
+  W: 1
+  WS: 4

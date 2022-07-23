@@ -1,0 +1,135 @@
+EC:
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 4
+  S: 4
+  SV+: 2+
+  SV++: 5++
+  Special Rules: Legiones Astartes (Emperor's Children), Relentless, Bulky (2), Stubborn,
+    Skill Unmatched, Living Icon, Phoenix Retinue
+  Sub Type: Character
+  T: 4
+  Unit Name: Phoenix Terminator
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 3
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 9
+  M: 4
+  S: 4
+  SV+: 2+
+  SV++: 5++
+  Special Rules: Legiones Astartes (Emperor's Children), Relentless, Bulky (2), Stubborn,
+    Skill Unmatched, Living Icon, Phoenix Retinue
+  Sub Type: Character
+  T: 4
+  Unit Name: Phoenix Champion
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 2
+  BS: 5
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 2+
+  SV++: None
+  Special Rules: Legiones Astartes (Emperor's Children), Relentless, Chosen Warriors,
+    Counter-attack (1), Skill Unmatched
+  Sub Type: None
+  T: 4
+  Unit Name: Palatine Warrior
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 3
+  BS: 5
+  FOC Slot: ELITES
+  I: 4
+  LD: 9
+  M: 7
+  S: 4
+  SV+: 2+
+  SV++: None
+  Special Rules: Legiones Astartes (Emperor's Children), Relentless, Chosen Warriors,
+    Counter-attack (1), Skill Unmatched
+  Sub Type: Character
+  T: 4
+  Unit Name: Palatine Prefector
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 1
+  BS: 4
+  FOC Slot: HEAVY SUPPORT
+  I: 4
+  LD: 10
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Emperor's Children), Fearless, Traitor
+  Sub Type: Heavy
+  T: 4
+  Unit Name: Chora
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: HEAVY SUPPORT
+  I: 4
+  LD: 10
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Emperor's Children), Fearless, Traitor
+  Sub Type: Heavy, Character
+  T: 4
+  Unit Name: Orchestrator
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 1
+  BS: 5
+  FOC Slot: HEAVY SUPPORT
+  I: 4
+  LD: 7
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Emperor's Children), Precision Fire, Designated
+    Quarry, Fortified Position
+  Sub Type: Heavy
+  T: 4
+  Unit Name: Sun Killer
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 2
+  BS: 5
+  FOC Slot: HEAVY SUPPORT
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Emperor's Children), Precision Fire, Designated
+    Quarry, Fortified Position
+  Sub Type: Heavy, Character
+  T: 4
+  Unit Name: Novaetor
+  Unit Type: Infantry
+  W: 1
+  WS: 4

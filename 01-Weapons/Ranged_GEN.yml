@@ -1,0 +1,776 @@
+GEN:
+- AP: 4
+  Range: 48"
+  Special Rules: Heavy 8, Rending(6+), Exoshock(6+)
+  Str: 7
+  Weapon Name: Accelerator Autocannon
+- AP: 3
+  Range: 60"
+  Special Rules: Heavy 3, Pinning, Guided Fire
+  Str: 6
+  Weapon Name: Aiolos Missile Launcher
+- AP: 4
+  Range: 48
+  Special Rules: Heavy 4, Rending(5+), Sunder, Twin-linked
+  Str: 7
+  Weapon Name: Anvilus Autocannon Battery
+- AP: 4
+  Range: 24
+  Special Rules: Heavy 2, Sunder, Rending(5+), Twin-Linked
+  Str: 7
+  Weapon Name: Anvilus Snub Cannon
+- AP: 2
+  Range: 48"
+  Special Rules: Heavy 2, Sunder, Exoshock(5+), Twin-linked
+  Str: 10
+  Weapon Name: Arachnus Heavy Lascannon Battery
+- AP: 4
+  Range: 12"
+  Special Rules: Pistol 1, Rending(3+), Master-crafted
+  Str: 6
+  Weapon Name: Archaeotech Pistol
+- AP: 2
+  Range: 36"
+  Special Rules: Heavy 5, Twin-linked
+  Str: 8
+  Weapon Name: Arcus Missile Launcher ~ Arcus Warheads
+- AP: 2
+  Range: 48"
+  Special Rules: Heavy 5, Skyfire, Twin-linked
+  Str: 7
+  Weapon Name: Arcus Missile Launcher ~ Skyspear Warheads
+- AP: 4
+  Range: 36"
+  Special Rules: Heavy 1, Large Blast(5"), Ignores Cover, Pinning
+  Str: 5
+  Weapon Name: Arcus Missile Launcher ~ Pyrax Warheads
+- AP: 4
+  Range: 36"
+  Special Rules: Heavy 4, Twin-linked, Neutron-flux, Breaching(5+)
+  Str: 7
+  Weapon Name: Arcus Missile Launcher ~ Neutron Flux Warheads
+- AP: None
+  Range: 12"
+  Special Rules: Assault 2, Concussive(1)
+  Str: 4
+  Weapon Name: Astartes Shotgun
+- AP: 4
+  Range: 48"
+  Special Rules: Heavy 2, Rending(6+)
+  Str: 7
+  Weapon Name: Autocannon
+- AP: 3
+  Range: 36"
+  Special Rules: Heavy 7
+  Str: 6
+  Weapon Name: Avenger Bolt Cannon
+- AP: 5
+  Range: 12"
+  Special Rules: Pistol 1
+  Str: 4
+  Weapon Name: Bolt Pistol
+- AP: 5
+  Range: 24"
+  Special Rules: Rapid Fire
+  Str: 4
+  Weapon Name: Bolter
+- AP: 2
+  Range: 48"
+  Special Rules: Heavy 1, Skyfire, Guided Fire, One Shot
+  Str: 8
+  Weapon Name: Boreas Air Defence System
+- AP: 5
+  Range: 24"
+  Special Rules: Rapid Fire, Twin-linked
+  Str: 4
+  Weapon Name: Combi-bolter
+- AP: None
+  Range: Up to 18"
+  Special Rules: Heavy 1, Blast(3"), Blind
+  Str: 7
+  Weapon Name: Conversion Beam Cannon ~ Close
+- AP: 4
+  Range: More than 18"-42"
+  Special Rules: Heavy 1, Blast(3"), Blind
+  Str: 9
+  Weapon Name: Conversion Beam Cannon ~ Medium
+- AP: 1
+  Range: More than 42"-72"
+  Special Rules: Heavy 1, Blast(3"), Blind
+  Str: 12
+  Weapon Name: Conversion Beam Cannon ~ Far
+- AP: 6
+  Range: 48"
+  Special Rules: Heavy 1, Large Blast(5"), Pinning
+  Str: 4
+  Weapon Name: Cyclone Missile Launcher ~ Frag
+- AP: 3
+  Range: 48"
+  Special Rules: Heavy 2, Twin-linked
+  Str: 8
+  Weapon Name: Cyclone Missile Launcher ~ Krak
+- AP: 3
+  Range: 48"
+  Special Rules: Heavy 2, Skyfire, Twin-linked
+  Str: 7
+  Weapon Name: Cyclone Missile Launcher ~ Flak
+- AP: 1
+  Range: 18"
+  Special Rules: Heavy 4, Armorbane(Melta)
+  Str: 8
+  Weapon Name: Cyclonic Melta Lance
+- AP: 4
+  Range: 18"
+  Special Rules: Heavy 9, Pinning, Deathstorm, Limited Ammunition
+  Str: 6
+  Weapon Name: Deathstorm Missile Launcher
+- AP: 3
+  Range: 24"
+  Special Rules: Ordnance 1, Blast(3"), Sunder, Rending(6+), Brutal(3)
+  Str: 12
+  Weapon Name: Demolisher Cannon
+- AP: 2
+  Range: 12"
+  Special Rules: Pistol 1, Instant Death, Gets Hot
+  Str: 5
+  Weapon Name: Disintegrator Pistol
+- AP: 2
+  Range: 24"
+  Special Rules: Rapid Fire, Instant Death, Gets Hot
+  Str: 5
+  Weapon Name: Disintegrator Pistol
+- AP: 3
+  Range: 24"
+  Special Rules: Ordnance 1, Large Blast(5"), Rending(4+), Sunder
+  Str: 12
+  Weapon Name: Dreadhammer Siege Cannon
+- AP: 4
+  Range: 36"-240"
+  Special Rules: Ordnance 1, Barrage, Large Blast (5"), Pinning
+  Str: 9
+  Weapon Name: Earthshaker Cannon (brb)
+- AP: 4
+  Range: 60"
+  Special Rules: Heavy 1, Large Blast(5"), Rending(4+)
+  Str: 7
+  Weapon Name: Executioner Plasma Destroyer
+- AP: 3
+  Range: 100"
+  Special Rules: Ordnance 1, Massive Blast(7")
+  Str: 8
+  Weapon Name: Fellblade Accelerator Cannon ~ HE Shell
+- AP: 2
+  Range: 100"
+  Special Rules: Ordnance 1, Armorbane(Ranged), Exoshock(4+), Blast(3")
+  Str: 10
+  Weapon Name: Fellblade Accelerator Cannon ~ Ae Shell
+- AP: 5
+  Range: Template
+  Special Rules: Assault 1
+  Str: 4
+  Weapon Name: Flamer
+- AP: 4
+  Range: Template
+  Special Rules: Heavy 1, Torrent(18")
+  Str: 6
+  Weapon Name: Flamestorm Cannon
+- AP: 4
+  Range: 18"
+  Special Rules: Heavy 1, Large Blast(5"), *Graviton Collapse, Torsion Crusher, Ignores
+    Cover, Concussive(1)
+  Str: '*'
+  Weapon Name: Grav-flux Bombard
+- AP: 4
+  Range: 48"
+  Special Rules: Heavy 3, Rending(6+), Twin-linked
+  Str: 7
+  Weapon Name: Gravis Autocannon
+- AP: 4
+  Range: 48"
+  Special Rules: Heavy 4, Rending(6+), Twin-linked
+  Str: 7
+  Weapon Name: Gravis Autocannon Battery
+- AP: 4
+  Range: 48"
+  Special Rules: Heavy 6, Twin-linked
+  Str: 5
+  Weapon Name: Gravis Bolt Cannon
+- AP: 4
+  Range: 48"
+  Special Rules: Heavy 8, Twin-linked
+  Str: 5
+  Weapon Name: Gravis Heavy Bolter Battery
+- AP: 2
+  Range: 48"
+  Special Rules: Heavy 2, Sunder
+  Str: 9
+  Weapon Name: Gravis Lascannon
+- AP: 1
+  Range: 24"
+  Special Rules: Heavy 2, Armorbane(Melta), Twin-linked
+  Str: 8
+  Weapon Name: Gravis Melta Cannon
+- AP: 4
+  Range: 36"
+  Special Rules: Heavy 1, Large Blast(5"), Breaching(4+), Gets Hot
+  Str: 7
+  Weapon Name: Gravis Plasma Cannon
+- AP: 4
+  Range: 36"
+  Special Rules: Heavy 1, Large Blast(5"), Concussive(1), *Graviton Pulse, Haywire
+  Str: '*'
+  Weapon Name: Graviton Cannon
+- AP: 4
+  Range: 18"
+  Special Rules: Heavy 1, Blast(3"), Concussive(1), *Graviton Pulse, Haywire
+  Str: '*'
+  Weapon Name: Graviton Gun
+- AP: 4
+  Range: 24"
+  Special Rules: Ordnance 1, Massive Blast(7"), Barrage, Concussive(1), *Graviton
+    Pulse, Haywire
+  Str: '*'
+  Weapon Name: Graviton-charge Cannon
+- AP: None
+  Range: Template
+  Special Rules: Pistol 1
+  Str: 3
+  Weapon Name: Hand Flamer
+- AP: 5
+  Range: 48"
+  Special Rules: Heavy 1, Blast(3"), Twin-linked
+  Str: 5
+  Weapon Name: Havoc Launcher
+- AP: 4
+  Range: 36"
+  Special Rules: Heavy 4
+  Str: 5
+  Weapon Name: Heavy Bolter
+- AP: 4
+  Range: Template
+  Special Rules: Assault 1
+  Str: 5
+  Weapon Name: Heavy Flamer
+- AP: 4
+  Range: 36"
+  Special Rules: Heavy 6, Breaching(4+)
+  Str: 7
+  Weapon Name: Hellfire Plasma Cannonade ~ Sustained Fire
+- AP: 4
+  Range: 36"
+  Special Rules: Heavy 1, Rending(4+), Gets Hot, Large Blast(5")
+  Str: 8
+  Weapon Name: Hellfire Plasma Cannonade ~ Maximal Fire
+- AP: 2
+  Range: 72"
+  Special Rules: Heavy 1, Sunder, One Shot
+  Str: 9
+  Weapon Name: Hellstrike Missile
+- AP: 3
+  Range: 48"
+  Special Rules: Heavy 1, One Shot
+  Str: 8
+  Weapon Name: Hunter-killer Missile
+- AP: 4
+  Range: 24"
+  Special Rules: Heavy 6, Rending(6+)
+  Str: 6
+  Weapon Name: Kheres Assault Cannon
+- AP: 6
+  Range: 18"
+  Special Rules: Assault 3, Ignores Cover
+  Str: 3
+  Weapon Name: Kraken Bolter ~ Tempest Rounds
+- AP: 4
+  Range: 24"
+  Special Rules: Assault 1, Breaching(4+)
+  Str: 5
+  Weapon Name: Kraken Bolter ~ Scorpius Rounds
+- AP: 4
+  Range: 36"
+  Special Rules: Heavy 1, LArge Blast(5"), Pinning
+  Str: 8
+  Weapon Name: Kraken Bolter ~ HE Shells
+- AP: 2
+  Range: 36"
+  Special Rules: Heavy 2, Sunder
+  Str: 8
+  Weapon Name: Kratos Battlecannon ~ AP Shells
+- AP: 1
+  Range: 24"
+  Special Rules: Heavy 1, Armorbane(Ranged), Gets Hot
+  Str: 10
+  Weapon Name: Kratos Battlecannon ~ Flashburn Shells
+- AP: 2
+  Range: 48"
+  Special Rules: Heavy 1, Sunder
+  Str: 9
+  Weapon Name: Lascannon
+- AP: 2
+  Range: 48"
+  Special Rules: Heavy 2, Twin-linked, sunder
+  Str: 9
+  Weapon Name: Lascannon Array
+- AP: 1
+  Range: 8"
+  Special Rules: Assault 1, Armorbane(Ranged)
+  Str: 10
+  Weapon Name: Lascutter (ranged)
+- AP: 1
+  Range: 36"
+  Special Rules: Ordnance 2, Twin-linked, Exoshock(6+)
+  Str: 9
+  Weapon Name: Laser Destroyer
+- AP: 4
+  Range: 24"
+  Special Rules: Heavy 6, Rending(5+), Sunder
+  Str: 7
+  Weapon Name: Leviathan Storm Cannon
+- AP: 4
+  Range: None
+  Special Rules: Bomb 1, Apocalyptic Barrage(6), One Shot
+  Str: 8
+  Weapon Name: Macro-bomb Cluster
+- AP: 1
+  Range: 36"
+  Special Rules: Ordnance 3, Twin-linked, Exoshock(6+)
+  Str: 9
+  Weapon Name: Magna Laser Destroyer
+- AP: 1
+  Range: 36"
+  Special Rules: Heavy 3, Armorbane(Melta), Twin-linked
+  Str: 8
+  Weapon Name: Magna-melta Cannon
+- AP: 1
+  Range: 36"
+  Special Rules: Heavy 4, Armorbane(Melta)
+  Str: 8
+  Weapon Name: Melta Blast-gun
+- AP: 1
+  Range: 6"
+  Special Rules: Heavy 3, Armorbane(Melta)
+  Str: 8
+  Weapon Name: Melta Cutters
+- AP: 1
+  Range: 12"
+  Special Rules: Assault 1, Armorbane(Melta)
+  Str: 8
+  Weapon Name: Meltagun
+- AP: 6
+  Range: 48"
+  Special Rules: Heavy 1, Blast(3"), Pinning
+  Str: 4
+  Weapon Name: Missile Launcher ~ Frag
+- AP: 3
+  Range: 48"
+  Special Rules: Heavy 1
+  Str: 8
+  Weapon Name: Missile Launcher ~ Krak
+- AP: 3
+  Range: 48"
+  Special Rules: Heavy 1, Skyfire
+  Str: 7
+  Weapon Name: Missile Launcher ~ Flak
+- AP: 5
+  Range: 18"
+  Special Rules: Assault 2, Harrower
+  Str: 4
+  Weapon Name: Mortifer Bolter
+- AP: 4
+  Range: 36"
+  Special Rules: Ordnance 1, Barrage, Large Blast(5"), Pinning, Rending(6+)
+  Str: 10
+  Weapon Name: Morbus Bombard
+- AP: 1
+  Range: 24"
+  Special Rules: Heavy 1, Armorbane(Melta), Twin-linked
+  Str: 8
+  Weapon Name: Multi-melta
+- AP: 5
+  Range: 72"
+  Special Rules: Heavy 1, Rending(5+), Sniper, Pinning
+  Str: 5
+  Weapon Name: Nemesis Bolter
+- AP: 1
+  Range: 36"
+  Special Rules: Ordnance 2, Concussive(3), Shock Pulse, Gets Hot
+  Str: 10
+  Weapon Name: Neutron Beam Laser
+- AP: 1
+  Range: 24"
+  Special Rules: Heavy 1, Concussive(3), Feedback, Shock Pulse, Gets Hot
+  Str: 10
+  Weapon Name: Neutron Blaster
+- AP: 1
+  Range: 72"
+  Special Rules: Ordnance 4, Concussive(3), Feedback, Shock Pulse, Gets Hot
+  Str: 10
+  Weapon Name: Neutron Laser Battery
+- AP: 1
+  Range: 120"
+  Special Rules: Destroyer 1, Large Blast(5"), Shock Pulse, Ignores Cover
+  Str: 10
+  Weapon Name: Neutron-wave Cannon
+- AP: 4
+  Range: 36"
+  Special Rules: Heavy 8, Breaching(4+), Twin-linked
+  Str: 7
+  Weapon Name: Omega Plasma Array ~ Sustained Fire
+- AP: 4
+  Range: 36"
+  Special Rules: Heavy 2, Rending(4+), Gets Hot, Plasma Burn, Twin-linked
+  Str: 9
+  Weapon Name: Omega Plasma Array ~ Maximal Fire
+- AP: 2
+  Range: 6"
+  Special Rules: Assault 1, One Use, Blast(3"), Poisoned(3+), Crawling Fire, Lingering
+    death
+  Str: 5
+  Weapon Name: Phosphex Bomb
+- AP: 3
+  Range: 12"-24"
+  Special Rules: Heavy 1, Barrage, Blast(3"), Poisoned(3+), Crawling Fire, Lingering
+    Death
+  Str: 4
+  Weapon Name: Phosphex Canister Shot (rapier)
+- AP: 2
+  Range: 18"
+  Special Rules: Heavy 1, Barrage, Blast(3"), Poisoned(3+), Crawling Fire, Lingering
+    Death
+  Str: 5
+  Weapon Name: Phosphex Discharger
+- AP: 2
+  Range: 24"
+  Special Rules: Ordnance 1, Blast(3"), Poisoned(3+), Crawling Fire, Lingering Death
+  Str: 5
+  Weapon Name: Phosphex Shell (arquitor Morbus Bombard)
+- AP: 4
+  Range: 18"
+  Special Rules: Assault 2, Breaching(4+), Gets Hot
+  Str: 7
+  Weapon Name: Plasma Blaster
+- AP: 4
+  Range: 36"
+  Special Rules: Heavy 1, Blast(3"), Breaching(4+), Gets Hot
+  Str: 7
+  Weapon Name: Plasma Cannon
+- AP: 4
+  Range: 24"
+  Special Rules: Rapid Fire, Breaching(4+), Gets Hot
+  Str: 7
+  Weapon Name: Plasma Gun
+- AP: 4
+  Range: 12"
+  Special Rules: Pistol 1, Breaching(4+), Gets Hot
+  Str: 7
+  Weapon Name: Plasma Pistol
+- AP: 4
+  Range: 48"
+  Special Rules: Heavy 4, Rending(6+)
+  Str: 8
+  Weapon Name: Predator Cannon
+- AP: 5
+  Range: 12"-60"
+  Special Rules: Heavy 1, Barrage, Large Blast(5"), Shred
+  Str: 5
+  Weapon Name: Quad Launcher ~ Frag
+- AP: 4
+  Range: 36"
+  Special Rules: Heavy 4, Sunder
+  Str: 8
+  Weapon Name: Quad Launcher ~ Shatter
+- AP: 5
+  Range: 12"-60"
+  Special Rules: Heavy 1, Barrage, Large Blast(5"), Ignores Cover, Pinning, Shred
+  Str: 4
+  Weapon Name: Quad Launcher ~ Incendiary
+- AP: 4
+  Range: 12"-36"
+  Special Rules: Heavy 1, Barrage, Large Blast(5"), Rending(6+), Pinning, Shell Shock(1)
+  Str: 2
+  Weapon Name: Quad Launcher ~ Splinter
+- AP: 3
+  Range: 48"
+  Special Rules: Heavy 1, Blast(3"), Fleshbane, Rad-phage
+  Str: 4
+  Weapon Name: Rad Missile (missile Launcher)
+- AP: 4
+  Range: 36"
+  Special Rules: Heavy 2, Rending(6+), Twin-linked
+  Str: 7
+  Weapon Name: Reaper Autocannon
+- AP: 2
+  Range: 60"
+  Special Rules: Heavy 3, Exoshock(6+), Ignores Cover, Twin-linked
+  Str: 8
+  Weapon Name: Rotary Missile Launcher
+- AP: None
+  Range: 30"
+  Special Rules: Assault 4, Pinning, Shell Shock(1)
+  Str: 3
+  Weapon Name: Rotor Cannon
+- AP: 4
+  Range: 36"
+  Special Rules: Heavy 1, Rending(6+), One Shot
+  Str: 7
+  Weapon Name: Sabre Missile
+- AP: 4
+  Range: 48"
+  Special Rules: Heavy 1, Barrage, Large Blast(5"), Rocket Barrage
+  Str: 8
+  Weapon Name: Scorpius Missile Launcher
+- AP: 1
+  Range: 12"
+  Special Rules: Heavy 5, Armorbane(Melta), Twin-linked
+  Str: 8
+  Weapon Name: Siege Melta Array
+- AP: 4
+  Range: 48"
+  Special Rules: Heavy 5, Skyfire, Twin-linked
+  Str: 7
+  Weapon Name: Skyreaper Battery
+- AP: 4
+  Range: 72"
+  Special Rules: Ordnance 1, Massive Blast(7"), Rending(6+), Limited Ammunition
+  Str: 7
+  Weapon Name: Spicula Rocket System
+- AP: 4
+  Range: 60"
+  Special Rules: Heavy 1, Sunder, One Shot
+  Str: 7
+  Weapon Name: Tempest Rocket
+- AP: 4
+  Range: 72"
+  Special Rules: Brutal(4), Destroyer 1, Massive Blast(7"), Rending(6+)
+  Str: 8
+  Weapon Name: Thunderhawk Cannon
+- AP: 5
+  Range: Template
+  Special Rules: Assault 1, Poisoned(3+), Rending(6+)
+  Str: 4
+  Weapon Name: Toxiferran Flamer
+- AP: 2
+  Range: 96"
+  Special Rules: Destroyer 1, Large Blast(5"), Ignores Cover
+  Str: 12
+  Weapon Name: Turbo-laser Destructor
+- AP: 4
+  Range: 48"
+  Special Rules: Heavy 2, Large Blast(5")
+  Str: 5
+  Weapon Name: Vengeance Launcher
+- AP: 1
+  Range: 120"
+  Special Rules: Destroyer 1, Large Blast(5"), Ignores Cover
+  Str: 14
+  Weapon Name: Volcano Cannon (legion Book)
+- AP: 1
+  Range: 120"
+  Special Rules: Destroyer 1, Large Blast(5")
+  Str: 10
+  Weapon Name: Volcano Cannon (brb)
+- AP: 5
+  Range: 30"
+  Special Rules: Heavy 3, Deflagrate
+  Str: 6
+  Weapon Name: Volkite Caliver
+- AP: 5
+  Range: 45"
+  Special Rules: Heavy 12, Deflagrate, Pinning
+  Str: 7
+  Weapon Name: Volkite Cardanelle
+- AP: 3
+  Range: 45"
+  Special Rules: Heavy 1, Heavy Beam, Deflagrate
+  Str: 8
+  Weapon Name: Volkite Carronade
+- AP: 5
+  Range: 15"
+  Special Rules: Assault 2, Deflagrate
+  Str: 5
+  Weapon Name: Volkite Charger
+- AP: 5
+  Range: 45"
+  Special Rules: Heavy 5, Deflagrate
+  Str: 6
+  Weapon Name: Volkite Culverin
+- AP: 5
+  Range: 45"
+  Special Rules: Heavy 6, Deflagrate, Twin-linked
+  Str: 6
+  Weapon Name: Volkite Dual-culverin
+- AP: 5
+  Range: 45"
+  Special Rules: Heavy 8, Deflagrate, Twin-linked, Pinning
+  Str: 7
+  Weapon Name: Volkite Falconet
+- AP: 5
+  Range: 45"
+  Special Rules: Heavy 8, Deflagrate
+  Str: 6
+  Weapon Name: Volkite Macro-saker
+- AP: 5
+  Range: 25"
+  Special Rules: Heavy 6, Deflagrate
+  Str: 6
+  Weapon Name: Volkite Saker
+- AP: 5
+  Range: 10"
+  Special Rules: Pistol 2, Deflagrate
+  Str: 5
+  Weapon Name: Volkite Serpenta
+- AP: 5
+  Range: 24"
+  Special Rules: Rapid fire
+  Str: 4
+  Weapon Name: Bolter (primary)
+- AP: 5
+  Range: Template
+  Special Rules: Assault 1
+  Str: 4
+  Weapon Name: -flamer (secondary)
+- AP: 1
+  Range: 12"
+  Special Rules: Assault 1, Armourbane(Melta), One Shot
+  Str: 8
+  Weapon Name: -meltagun (secondary)
+- AP: 4
+  Range: 24"
+  Special Rules: Rapid Fire, Breaching(4+), Gets Hot, One Shot
+  Str: 7
+  Weapon Name: -plasma Gun(secondary)
+- AP: 5
+  Range: 15"
+  Special Rules: Assault 2, Deflagrate
+  Str: 5
+  Weapon Name: -volkite Charger (secondary)
+- AP: 6
+  Range: 24"
+  Special Rules: Assault 1, Blast(3"), Pinning
+  Str: 3
+  Weapon Name: Grenade Launcher (secondary) ~ Frag
+- AP: 4
+  Range: 24"
+  Special Rules: Assault 1
+  Str: 5
+  Weapon Name: Grenade Launcher (secondary) ~ Krak
+- AP: 2
+  Range: 24"
+  Special Rules: Rapid fire, Instant Death, Gets Hot, One Shot
+  Str: 5
+  Weapon Name: -disintegrator (secondary)
+- AP: 6
+  Range: 48"
+  Special Rules: Heavy 1, Large Blast (5"), Pinning
+  Str: 4
+  Weapon Name: Gravis Missile Launcher ~ Frag
+- AP: 3
+  Range: 48"
+  Special Rules: Heavy 2
+  Str: 8
+  Weapon Name: Gravis Missile Launcher ~ Krak
+- AP: 4
+  Range: 24"
+  Special Rules: Assault 3, Rending (6+)
+  Str: 6
+  Weapon Name: Proteus Assault Cannon
+- AP: 4
+  Range: 36"
+  Special Rules: Heavy 1, Blast (3"), Breaching (4+), Gets Hot, One Use
+  Str: 7
+  Weapon Name: Sunfury Missile
+- AP: 1
+  Range: 36"
+  Special Rules: Heavy 1, Armourbane (Ranged), One Use
+  Str: 8
+  Weapon Name: Kraken Penetrator Missile
+- AP: 5
+  Range: 24"
+  Special Rules: Heavy 1, Large Blast (5"), Shred
+  Str: 5
+  Weapon Name: Achillus Quad Launcher ~ Shard
+- AP: 4
+  Range: 24"
+  Special Rules: Heavy 4, Sunder
+  Str: 8
+  Weapon Name: Achillus Quad Launcher ~ Strike
+- AP: 4
+  Range: 240"
+  Special Rules: Ordnance 1, Barrage, Large Blast (5"), Shed, Pinning
+  Str: 9
+  Weapon Name: Earthshaker Cannon (legacy)
+- AP: 4
+  Range: 36"
+  Special Rules: Ordnance 1, Barrage, Large Blast (5"), Pinning, Rending(6+)
+  Str: 9
+  Weapon Name: Medusa Mortar
+- AP: 4
+  Range: 48"
+  Special Rules: Ordnance 1, Barrage, Large Blast (5")
+  Str: 6
+  Weapon Name: Whirlwind Missile Launcher ~ Talonis HE Missile
+- AP: 4
+  Range: 48"
+  Special Rules: Ordnance 1, Barrage, Blast (3"), Breaching (4+)
+  Str: 7
+  Weapon Name: Whirlwind Missile Launcher ~ Thermios AP Missile
+- AP: 3
+  Range: 48"
+  Special Rules: Ordnance 1, Twin-linked, Skyfire
+  Str: 7
+  Weapon Name: Whirlwind Missile Launcher ~ Icarios AA Missile
+- AP: 3
+  Range: 72"
+  Special Rules: Ordnance 1, Massive Blast (7"), Breaching (4+)
+  Str: 9
+  Weapon Name: Plasma Blastgun
+- AP: 5
+  Range: None
+  Special Rules: Bomb 1, Blast (3"), One Use
+  Str: 5
+  Weapon Name: Fragmentation Bomb
+- AP: 4
+  Range: 72"
+  Special Rules: Ordnance 1, Large Blast (5"), Rending (6+), Pinning
+  Str: 8
+  Weapon Name: Baneblade Cannon
+- AP: 4
+  Range: 24"
+  Special Rules: Ordnance 1, Massive Blast (7"), Pinning, Shell Shock (2)
+  Str: 8
+  Weapon Name: Tremor Cannon
+- AP: 3
+  Range: 60"
+  Special Rules: Heavy 15, Pinning, Shell Shock (1)
+  Str: 6
+  Weapon Name: Vulcan Mega-bolter
+- AP: 3
+  Range: 24"
+  Special Rules: Ordnance 1, Large Blast (5"), Sunder, Rending (5+), Brutal (3)
+  Str: 12
+  Weapon Name: Hellhammer Cannon
+- AP: 4
+  Range: 24"
+  Special Rules: Heavy 1, Blast (3"), Twin-linked, Pinning
+  Str: 8
+  Weapon Name: Macharius Battlecannon
+- AP: 2
+  Range: 36"
+  Special Rules: Heavy 2, Sunder, Brutal (2), Twin-linked
+  Str: 9
+  Weapon Name: Macharius Vanquisher Cannon
+- AP: 4
+  Range: 24"
+  Special Rules: Heavy 10, Breaching (6+), Pinning, Twin-linked
+  Str: 6
+  Weapon Name: Macharius Rotary Bolt Cannon
+- AP: 3
+  Range: 36"
+  Special Rules: Ordnance 1, Massive Blast (7"), Breaching (4+), Gets Hot
+  Str: 9
+  Weapon Name: Omega Pattern Plasma Blastgun
+- AP: 4
+  Range: 72"
+  Special Rules: Ordnance 1, Barrage, Massive Blast (5"), Pinning, Rending (6+)
+  Str: 7
+  Weapon Name: Praetor Launcher

@@ -1,0 +1,11 @@
+UM:
+- AP: 2
+  Range: Combat
+  Special Rules: Melee
+  Str: USER
+  Weapon Name: Legatine Axe
+- AP: 3
+  Range: Combat
+  Special Rules: "Melee, Rending (5+), Duellist\u2019s Edge (1)"
+  Str: User
+  Weapon Name: Argean Power Sword

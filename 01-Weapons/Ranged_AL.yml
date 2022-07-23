@@ -1,0 +1,16 @@
+AL:
+- AP: 4
+  Range: 18"
+  Special Rules: Rapid Fire, Breaching (6+)
+  Str: 5
+  Weapon Name: Banestrike Bolter
+- AP: 4
+  Range: 18"
+  Special Rules: Rapid Fire, Twin-linked, Breaching (6+)
+  Str: 5
+  Weapon Name: Banestrike Combi-bolter
+- AP: None
+  Range: 8"
+  Special Rules: Assault 6, Poison (3+), One Shot
+  Str: 1
+  Weapon Name: Venom Spheres

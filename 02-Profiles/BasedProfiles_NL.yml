@@ -1,0 +1,120 @@
+NL:
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Night Lords), Fear (1), Precision Strikes (6+),
+    Infiltrate, Bloody Murder, Preferred Enemy (Infantry)
+  Sub Type: Skirmish
+  T: 4
+  Unit Name: Executioner
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 3
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 9
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Night Lords), Fear (1), Precision Strikes (6+),
+    Infiltrate, Bloody Murder, Preferred Enemy (Infantry)
+  Sub Type: Skirmish, Character
+  T: 4
+  Unit Name: Headsman
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Night Lords), Relentless, Sudden Strike (1), Bloody
+    Murder, Fear (1), Night Vision
+  Sub Type: Skirmish
+  T: 4
+  Unit Name: Night Raptor
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 3
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 9
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Night Lords), Relentless, Sudden Strike (1), Bloody
+    Murder, Fear (1), Night Vision
+  Sub Type: Skirmish, Character
+  T: 4
+  Unit Name: Huntmaster
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 2+
+  SV++: 5++
+  Special Rules: Legiones Astartes (Night Lords), Relentless, Bulky (2), Chosen Warriors,
+    Stubborn, Lords of the Night, Deep Strike, Fear (1)
+  Sub Type: None
+  T: 4
+  Unit Name: Contekar
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 7
+  M: 7
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (Night Lords), Relentless, Inexorable, Deek Strike,
+    Cloaked in Murder, Sworn Loyalty Bulky (2), Fear (1)
+  Sub Type: None
+  T: 4
+  Unit Name: Atramentar
+  Unit Type: Infantry
+  W: 2
+  WS: 4
+- A: 3
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (Night Lords), Relentless, Inexorable, Deek Strike,
+    Cloaked in Murder, Sworn Loyalty Bulky (2), Fear (1)
+  Sub Type: Character
+  T: 4
+  Unit Name: Atramentar Trucidor
+  Unit Type: Infantry
+  W: 2
+  WS: 4

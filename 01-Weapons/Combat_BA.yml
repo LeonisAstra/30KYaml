@@ -1,0 +1,41 @@
+BA:
+- AP: 3
+  Range: Combat
+  Special Rules: Melee, Two-handed, Rending (6+), Brutal (2)
+  Str: '+1'
+  Weapon Name: Blade Of Perdition
+- AP: 2
+  Range: Combat
+  Special Rules: Melee, Unwieldy, Two-handed, Brutal (2)
+  Str: '+2'
+  Weapon Name: Axe Of Perdition
+- AP: 3
+  Range: Combat
+  Special Rules: Melee, Reach (1), Two-handed, Brutal (2)
+  Str: '+1'
+  Weapon Name: Spear Of Perdition
+- AP: 3
+  Range: Combat
+  Special Rules: Melee, Two-handed, Brutal (2)
+  Str: '+3'
+  Weapon Name: Maul Of Perdition
+- AP: 3
+  Range: Combat
+  Special Rules: Melee, Reach (1), Two-handed, Rending (5+)
+  Str: '+1'
+  Weapon Name: Falling-star Power Spear
+- AP: 3
+  Range: Combat
+  Special Rules: Melee, Shred, Sudden Strike (1)
+  Str: USER
+  Weapon Name: Sunrise Blade
+- AP: 3
+  Range: Combat
+  Special Rules: Melee, Rending (5+), Sunder
+  Str: USER
+  Weapon Name: Sunset Blade
+- AP: 2
+  Range: Combat
+  Special Rules: Melee, Shred, Brutal (2)
+  Str: USER
+  Weapon Name: Talon Of Perdition

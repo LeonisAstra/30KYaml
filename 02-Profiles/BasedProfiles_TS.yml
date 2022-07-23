@@ -1,0 +1,135 @@
+TS:
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (Thousand Sons), Relentless, Bulky (2), Stubborn
+  Sub Type: Heavy, Psyker
+  T: 4
+  Unit Name: Sekhmet
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 3
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 9
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (Thousand Sons), Relentless, Bulky (2), Stubborn
+  Sub Type: Heavy, Character, Psyker
+  T: 4
+  Unit Name: Sekhmet Inceptor
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 3
+  BS: 5
+  FOC Slot: ELITES
+  I: 4
+  LD: 9
+  M: 8
+  S: 7
+  SV+: 2+
+  SV++: 5++
+  Special Rules: Legiones Astartes (Thousand Sons), Dreadnought Talon, Adamantium
+    Will (4+)
+  Sub Type: Psyker
+  T: 7
+  Unit Name: Contemptor-Osiron Dreadnought
+  Unit Type: Dreadnought
+  W: 6
+  WS: 5
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 3
+  LD: 8
+  M: 7
+  S: 6
+  SV+: 3+
+  SV++: 5++
+  Special Rules: Legiones Astartes (Thousand Sons), Hammer of Wrath (1), Adamantium
+    Will (4+)
+  Sub Type: Psy-Automata, Psyker
+  T: 6
+  Unit Name: Castellax-achea
+  Unit Type: Automata
+  W: 4
+  WS: 3
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Thousand Sons), Chosen Warriors, Warriors of the
+    Khenetai
+  Sub Type: Psyker
+  T: 4
+  Unit Name: Khenetai Blade
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 3
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 9
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Thousand Sons), Chosen Warriors, Warriors of the
+    Khenetai
+  Sub Type: Character, Psyker
+  T: 4
+  Unit Name: Khenetai Blademaster
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 1
+  BS: 5
+  FOC Slot: FAST ATTACK
+  I: 4
+  LD: 7
+  M: 8
+  S: 4
+  SV+: 4+
+  SV++: None
+  Special Rules: Legiones Astartes (Thousand Sons), Scout, Infiltrate, Move Through
+    Cover, Relentless, Shrouded (6+)
+  Sub Type: Light, Psyker, Skirmish
+  T: 4
+  Unit Name: Ammitara Intercessor
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 2
+  BS: 5
+  FOC Slot: FAST ATTACK
+  I: 4
+  LD: 8
+  M: 8
+  S: 4
+  SV+: 4+
+  SV++: None
+  Special Rules: Legiones Astartes (Thousand Sons), Scout, Infiltrate, Move Through
+    Cover, Relentless, Shrouded (6+)
+  Sub Type: Light, Psyker, Skirmish, Character
+  T: 4
+  Unit Name: Ammitara Fate
+  Unit Type: Infantry
+  W: 1
+  WS: 4

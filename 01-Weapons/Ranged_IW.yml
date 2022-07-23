@@ -1,0 +1,36 @@
+IW:
+- AP: None
+  Range: 10"
+  Special Rules: Pistol 1, Pinning
+  Str: 4
+  Weapon Name: Shrapnel Pistol
+- AP: None
+  Range: 18"
+  Special Rules: Rapid fire, Pinning
+  Str: 4
+  Weapon Name: Shrapnel Bolter
+- AP: 6
+  Range: 24"
+  Special Rules: Heavy 4, Pinning
+  Str: 5
+  Weapon Name: Shrapnel Cannon
+- AP: 6
+  Range: 36"
+  Special Rules: Heavy 5, Twin-linked, Pinning
+  Str: 5
+  Weapon Name: Gravis Shrapnel Cannon
+- AP: 6
+  Range: 48"
+  Special Rules: Heavy 4, Pinning
+  Str: 4
+  Weapon Name: Tyrant Rocket Launcher ~ Frag
+- AP: 3
+  Range: 48"
+  Special Rules: Heavy 2
+  Str: 8
+  Weapon Name: Tyrant Rocket Launcher ~ Krak
+- AP: 3
+  Range: 48"
+  Special Rules: Heavy 2, Skyfire
+  Str: 7
+  Weapon Name: Tyrant Rocket Launcher ~ Flak

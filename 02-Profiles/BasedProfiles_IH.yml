@@ -1,0 +1,67 @@
+IH:
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 5++
+  Special Rules: Legiones Astartes (Iron Hands), Feel No Pain (5+), Relentless, Stubborn,
+    Bulky (2)
+  Sub Type: Heavy
+  T: 4
+  Unit Name: Gorgon Terminator
+  Unit Type: Infantry
+  W: 2
+  WS: 4
+- A: 3
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 9
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 5++
+  Special Rules: Legiones Astartes (Iron Hands), Feel No Pain (5+), Relentless, Stubborn,
+    Bulky (2)
+  Sub Type: Heavy, Character
+  T: 4
+  Unit Name: Gorgon Hammerbearer
+  Unit Type: Infantry
+  W: 2
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 10
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Iron Hands), Feel No Pain (5+), Bitter Duty, Stubborn
+  Sub Type: Heavy
+  T: 4
+  Unit Name: Immortal
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 3
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 10
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Iron Hands), Feel No Pain (5+), Bitter Duty, Stubborn
+  Sub Type: Heavy, Character
+  T: 4
+  Unit Name: Immortal Sergeant
+  Unit Type: Infantry
+  W: 1
+  WS: 4

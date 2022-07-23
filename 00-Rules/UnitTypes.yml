@@ -1,0 +1,309 @@
+Legacy:
+- Description: An Infantry unit may only include or be joined by models of the Infantry
+    or Primarch Unit Type, unless a special rule states otherwise.
+  Name: Infantry
+- Description: "Cavalry models cannot be Pinned.\n Cavalry models are not slowed down\
+    \ by Difficult Terrain, even when Charging. However, Cavalry models treat all\
+    \ Difficult Terrain as Dangerous Terrain instead.\n Cavalry models move 3D6\"\
+    \ when Falling Back, rather than 2D6\".\n No model that is not also of the Cavalry\
+    \ Unit Type may join a unit that includes a Cavalry model."
+  Name: Cavalry
+- Description: "All Automata models have the Fearless special rule.\n Successful Wounds\
+    \ inflicted by attacks with the Poisoned or Fleshbane special rules must be re-rolled\
+    \ against models of the Automata Unit Type.\n A unit that includes one or more\
+    \ models with the Automata Unit Type may not make Reactions.\n No model that is\
+    \ not also of the Automata Unit Type may join a unit that includes an Automata\
+    \ model."
+  Name: Automata
+- Description: "Successful Wounds scored by attacks with the Poisoned or Fleshbane\
+    \ special rules must be re-rolled against models of the Dreadnought Unit Type.\n\
+    \ All Dreadnought models have the Fearless special rule.\n A model with the Dreadnought\
+    \ Unit Type may fire all weapons they are equipped with in each Shooting Attack\
+    \ they make, including as part of a Reaction.\n A model of the Dreadnought type\
+    \ may fire Heavy and Ordnance weapons and counts as Stationary even if it moved\
+    \ in the preceding Movement phase, and may declare Charges as normal regardless\
+    \ of any Shooting Attacks made in the same turn.\n No model that is not also of\
+    \ the Dreadnought Unit Type may join a unit that includes a Dreadnought model."
+  Name: Dreadnought
+- Description: "All Daemon models have their Strength and Toughness modified by a\
+    \ value determined by the current Game Turn: +1 on Game Turns 1 & 2, +/-0 on Game\
+    \ Turns 3 & 4, -1 on Game Turns 5 & 6, and -2 on Game Turns 7+.\n All Daemon models\
+    \ have the Fear special rule.\n Any Hits inflicted on a model of the Daemon Unit\
+    \ Type by a weapon with the Force special rule gain the Instant Death special\
+    \ rule as well.\n All Daemon models are immune to the effects of the Fear special\
+    \ rule, automatically pass Pinning and Regroup tests and cannot choose to fail\
+    \ a Morale check due to the Our Weapons Are Useless special rule. When a Daemon\
+    \ unit fails a Morale check it does not Fall Back as per the standard rules, but\
+    \ instead suffers D3 automatic Wounds with no Saves of any kind allowed.\n No\
+    \ model that is not also of the Daemon Unit Type may join a unit that includes\
+    \ a Daemon model."
+  Name: Daemon
+- Description: "All Primarchs have the following special rules: Independent Character,\
+    \ Eternal Warrior, Fearless, It Will Not Die (5+), Bulky (4), and Relentless.\
+    \ In addition, all models with the Primarch unit type always count as Character\
+    \ models.\n Primarchs are not affected by special rules that negatively modify\
+    \ their Characteristics (other than\n Wounds) and, in addition, Primarchs always\
+    \ resolve Snap Shots at their normal BS.\n Any Hits inflicted by a Primarch, as\
+    \ part of either Shooting Attacks or in close combat, are allocated by the Primarch\u2019\
+    s controlling player and not the controlling player of the target unit. These\
+    \ Hits should form a separate Wound Pool.\n If an army includes any Primarch models,\
+    \ then one of those models must be chosen as the army\u2019s Warlord."
+  Name: Primarch
+- Description: "A model with the Fortification Unit Type is a Terrain Piece that is\
+    \ selected as part of a player\u2019s army and included as part of their Army\
+    \ Roster, and counts as a unit under that player\u2019s control for all purposes\
+    \ (including Sudden Death Victories and Objectives). \n A model with this Unit\
+    \ Type that is selected as part of a player\u2019s army is always \u2018claimed\u2019\
+    \ and remains under that player\u2019s control at all times (see page 223 of Warhammer:\
+    \ The Horus Heresy \u2013 Age of Darkness Rulebook). \n A model with the Fortification\
+    \ Unit Type can never be Pinned and never take Morale checks or Leadership tests.\
+    \ \n A model with the Fortification Unit Type can never hold or deny objectives.\
+    \ \n A model with the Fortification Unit Type can never make a Reaction of any\
+    \ type. \n A model with the Fortification Unit Type can never declare a Charge\
+    \ or make attacks in the Assault Phase (but can be the target of a Charge or attacks\
+    \ by other models in the Assault Phase). \n A model with the Fortification Unit\
+    \ Type may attack with all weapons it has in each Shooting Phase, targeting a\
+    \ single enemy unit unless another special rule allows it to do otherwise. \n\
+    \ A model that has the Fortification Unit Type may not join other units, or be\
+    \ joined by any other model, including other models with the Fortification Unit\
+    \ Type. Each model with the Fortification Unit Type is always considered a separate\
+    \ unit (excepting only Multi-part fortifications, see page 225 of Warhammer: The\
+    \ Horus Heresy \u2013 Age of Darkness Rulebook)."
+  Name: Fortification
+- Description: A unit that includes at least one model with the Line sub-type counts
+    as both a Scoring and Denial unit.
+  Name: Line
+- Description: "A unit that includes only models with the Antigrav sub-type may ignore\
+    \ the effects of any and all terrain it passes over during movement, including\
+    \ passing over vertical terrain and Impassable Terrain without penalty or restriction.\
+    \ However, such units may not begin or end their movement in Impassable Terrain,\
+    \ and if beginning or ending their movement in Dangerous Terrain must take Dangerous\
+    \ Terrain tests as normal.\n Models with the Antigrav sub-type may never benefit\
+    \ from Cover Saves of any kind."
+  Name: Antigrav
+- Description: "If a unit that includes any models with the Artillery sub-type has\
+    \ no models without the Artillery sub-type,\n then all models in the unit are\
+    \ removed from play as casualties immediately.\n A unit that includes one or more\
+    \ models with the Artillery sub-type may not Run, declare or otherwise\n make\
+    \ Charge moves, or make Reactions.\n A unit that includes one or more models with\
+    \ the Artillery sub-type may never hold or deny Objectives.\n A unit that includes\
+    \ one or more models with the Artillery sub-type may not make Sweeping Advances\
+    \ and, if targeted by a Sweeping Advance, automatically fails any Sweeping Advance\
+    \ rolls made without rolling any dice and is destroyed."
+  Name: Artillery
+- Description: "A unit that includes any models with the Monstrous sub-type cannot\
+    \ be Pinned.\n A model with the Monstrous sub-type may fire all weapons they are\
+    \ equipped with in each Shooting Attack they make, including as part of a Reaction.\n\
+    \ A model with the Monstrous sub-type may fire Heavy and Ordnance weapons and\
+    \ counts as Stationary even if it moved in the preceding Movement phase, and may\
+    \ declare Charges as normal regardless of any Shooting Attacks made in the same\
+    \ turn.\n No model that is not also Monstrous may join a unit that includes a\
+    \ Monstrous model."
+  Name: Monstrous
+- Description: "A unit that includes only models with the Heavy sub-type may re-roll\
+    \ failed Armour Saves against Template and Blast weapons.\n A unit that includes\
+    \ any models with the Heavy sub-type may not Run and when making a Movement during\
+    \ a Reaction based on its Initiative Characteristic, reduces the distance moved\
+    \ by -1."
+  Name: Heavy
+- Description: "A unit that includes only models with the Light sub-type gains a +1\
+    \ modifier to its Initiative when determining how far that unit may Run (this\
+    \ bonus stacks with other bonuses to Run distance, such as the Fleet (X) special\
+    \ rule) and when moving as part of a Reaction.\n A unit that includes only models\
+    \ with the Light sub-type may make Shooting Attacks after having Run, but makes\
+    \ all such attacks as Snap Shots. Models or weapons that cannot attack as Snap\
+    \ Shots may not attack.\n Models with the Light sub-type may never claim a Cover\
+    \ Save in the same turn that it makes a Run move."
+  Name: Light
+- Description: "An army may not include more than a single instance of a unit with\
+    \ this Sub-type. For example, if Unit A and Unit B both have the Unique sub-type\
+    \ then a single army could include one of Unit A and one of Unit B, but no more\
+    \ than one of either unit.\n A model or unit composed entirely of models with\
+    \ the Unique sub-type may not select any options other than those included on\
+    \ its Army List Profile (this includes Legion specific Wargear for models with\
+    \ the Legiones Astartes (X) special rule)."
+  Name: Unique
+- Description: "A unit that includes only models with the Skirmish sub-type has a\
+    \ unit coherency range of 3\" rather than 2\".\n A unit that includes only models\
+    \ with the Skirmish sub-type increases all Cover Saves granted by terrain by one\
+    \ (i.e., from 6+ to 5+). This only increases existing Cover Saves and does not\
+    \ grant one when in terrain that does not normally grant a Cover Save. This rule\
+    \ cannot increase a Cover Save to better than 2+."
+  Name: Skirmish
+- Description: When a model with the Vehicle Unit Type and Bombard sub-type moves
+    at Combat Speed it may fire any number of Ordnance weapons and may also fire any
+    non-Ordnance weapons normally, ignoring the restrictions of Combat Speed. However,
+    when moving at Cruising Speed it may only fire a single Defensive weapon.
+  Name: Bombard
+- Description: "A model with the Reinforced sub-type ignores the effects of any Crew\
+    \ Shaken result on the Vehicle Damage table. \n A model with the Reinforced sub-type\
+    \ does not have to make Snap Shots due to the effects of the Crew Stunned result\
+    \ on the Vehicle Damage table (but still cannot move or pivot until the end of\
+    \ its next turn)."
+  Name: Reinforced
+- Description: In all cases, to use a Psychic Attack, Weapon, or Power, a model must
+    posses the Psyker sub-type.
+  Name: Psyker
+- Description: All models in a unit under the effect of this Hexagrammaton Unit Sub-type
+    may re-roll failed To Hit rolls of '1' when targeting an enemy model with the
+    Vehicle Unit Type. Additionally, a model with this Unit Sub-type and the Vehicle
+    Unit Type makes all Snap Shots at BS 2 instead of BS 1.
+  Name: Ironwing
+- Description: All models in a unit under the effect of this Hexagrammaton Unit Sub-type
+    gain a bonus of +1 To Wound when attacking a unit that contains at least one model
+    with the Independent Character special rule.
+  Name: Firewing
+- Description: All models in a unit under the effect of this Hexagrammaton Unit Sub-type,
+    other than models with the Vehicle Unit Type, add +1 to the distance moved when
+    the unit Runs, and models with the Cavalry Unit Type may also re-roll any failed
+    Shrouded Damage Mitigation rolls. Models with this Unit Sub-type and the Vehicle
+    Unit Type instead add +2 to their Movement Characteristic when moving at Cruising
+    Speed.
+  Name: Ravenwing
+- Description: All models in a unit under the effect of this Hexagrammaton Unit Sub-type
+    gain a bonus of+1 To Hit when rolling To Hit as part of a Shooting Attack (including
+    during a Reaction) with a bolter, combi-bolter or bolt pistol.
+  Name: Stormwing
+- Description: 'All models in a unit under the effect of this Hexagranmmaton Unit
+    Sub-type gain a bonus of +1 To Hit when rolling To Hit in an assault with one
+    of the following weapons: chainsword, force sword, power sword, Terranic greatsword,
+    Calibanite warblade, Charnabal sabre, and Paragon blades or close combat weapons
+    modeled as swords. In addition, a model with the Vehicle Unit Type gains a +1
+    bonus to the Strength of all Hits inflicted as part of a Ram Attack (up to a maximum
+    of Strength 10).'
+  Name: Deathwing
+- Description: All models in a unit under the effect of this Hexagrammaton Unit Sub-type
+    reduce the Strength of all attacks made against them with Flame, Plasma, Volkite
+    and Phosphex weapons by -1, and force all attacks made against them with the Poisoned
+    (X) special rule to increase the roll needed to Wound by 1 (to a maximum of 6+)
+  Name: Dreadwing
+- Description: "All models with the Corrupted Unit Sub-type gain the Fear (1) special\
+    \ rule.\n Any Hits inflicted on a model with the Corrupted Unit Sub-type by a\
+    \ weapon with the Force or Psychic Focus special rule gain the Instant Death special\
+    \ rule.\n Any unit composed entirely of models with the Corrupted Unit Sub-type\
+    \ is immune to the effects of the Fear (X) special rule, automatically passes\
+    \ Regroup tests and cannot choose to fail a Morale check due to the Our Weapons\
+    \ Are Useless special rule. When a unit composed entirely of models with the Corrupted\
+    \ Unit Sub-type fails a Morale check it does not Fall Back as per the standard\
+    \ rules. but instead suffers D3 automatic Wounds with no saves or Damage Mitigation\
+    \ rolls of any kind allowed.\n No models that does not also have the Corrupted\
+    \ Unit Sub-type or the Daemon Unit Type may join a unit that includes one or more\
+    \ models with the Corrupted Unit Sub-type."
+  Name: Corrupted
+- Description: "Models with the Psy-automata Sub-type that are not within 6\" of a\
+    \ friendly model with the Psyker Sub-type and both the Legiones Astartes (Thousand\
+    \ Sons) and Independent Character special rules are subject to the Programmed\
+    \ Behaviour provision:\n During both the controlling player's Shooting phase and\
+    \ the Charge sub-phase, a Psy-automata unit must attempt a Shooting Attack and/or\
+    \ Charge if there is an enemy unit within range, and must target the closest enemy\
+    \ unit possible that is within its line of sight and is a valid target for a Shooting\
+    \ Attack or Charge. If two or more targets are equally close then the controlling\
+    \ player chooses which will be the target of a Shooting Attack or Charge.\n A\
+    \ model with the Psy-automata Sub-type may fire all weapons they are equipped\
+    \ with in each Shooting Attack they make, including as part of a Reaction where\
+    \ eligible (this rule on its own does not allow Automata units to make Reactions).\n\
+    \ Models with the Psy-automata Sub-type may fire Heavy and Ordnance weapons and\
+    \ count as Stationary even if they moved in the preceding Movement phase, and\
+    \ may declare Charges as normal regardless of any Shooting Attacks made in the\
+    \ same turn.\n Models with the Psy-automata Sub-type may fire Heavy and Ordnance\
+    \ weapons and count as Stationary even they moved in the preceding Movement phase,\
+    \ and may declare charges as normal regardless of any Shooting Attacks made in\
+    \ the same turn.\n Models with the Psy-automata Sub-type ignore any penalties\
+    \ to their Initiative Characteristic when Charging into or through Difficult Terrain\
+    \ or Dangerous Terrain.\n  When using a Psychic Weapon to make a Shooting Attack\
+    \ from within 12\" of a Castellax-Achea model, a model with the Psyker Sub-type\
+    \ and with the Legiones Astartes (Thousand Sons) special rule may use the Castellax-Achea\
+    \ model as the origin point of the attack, drawing line of sight and range from\
+    \ it rather than themselves."
+  Name: Psy-automata
+- Description: "Models with the Cybernetica Unit Sub-type are subject to the Programmed\
+    \ Behaviour provision. During both the controlling player's Shooting phase and\
+    \ the Charge sub-phase, an Automata unit must attempt a Shooting Attack and/or\
+    \ Charge if there is an enemy unit within range, and must target the closest enemy\
+    \ unit possible that is within its line of sight and is a valid target for a Shooting\
+    \ Attack or Charge. If two or more targets are equally close then the controlling\
+    \ player chooses which will be the target of a Shooting Attack or Charge.\n A\
+    \ model with the Cybernetica Unit Sub-type may fire all weapons they are equipped\
+    \ with in each Shooting Attack they make, including as part of a Reaction where\
+    \ eligible (this Tule on its own does not allow units to make Reactions if they\
+    \ would otherwise be prevented from doing so).\n Models with the Cybernetica Unit\
+    \ Sub-type may ire Heavy and Ordnance weapons and count as Stationary even if\
+    \ they moved in the preceding Movement phase, and may declare Charges as normal\
+    \ regardless of any Shooting Attacks made in the same turn.\n Models with the\
+    \ Cybernetica Unit Sub-type ignore any penalties to their Initiative Characteristic\
+    \ when Charging into or through Difficult Terrain or Dangerous Terrain."
+  Name: Cybernetica
+- Description: "A unit that includes one or more models with the Automated Artillery\
+    \ Sub-type may not Run, declare or otherwise make Charge moves, or make Reactions.\n\
+    \ A unit that includes one or more models with the Automated Artillery Sub-type\
+    \ may not make Sweeping Advances and if targeted by a Sweeping Advance automatically\
+    \ fails without rolling any dice and is destroyed.\n A unit that includes one\
+    \ or more models with this Unit Sub-type may never hold or deny an Objective."
+  Name: Automated Artillery
+- Description: "Successful Wounds scored by attacks with the Poisoned or Fleshbane\
+    \ special rules must be re-rolled against models of the Shackled Artificia Unit\
+    \ Type.\n All models with the Shackled Artificia Unit Type have the Fearless,\
+    \ Rage (2) and Hatred (Everything) special rules.\n A model with the Shackled\
+    \ Artificia Unit Type may fire all weapons they are equipped with in each Shooting\
+    \ Attack they make, including as part of a Reaction.\n A model with the Shackled\
+    \ Artificia Unit Type may fire Heavy and Ordnance weapons and counts as Stationary\
+    \ even if it moved in the preceding Movement phase, and may declare Charges as\
+    \ normal regardless of any Shooting Attacks made in the same turn.\n No model\
+    \ that is not also of the Shackled Artificia Unit Type may join a unit that includes\
+    \ a model with the Shackled Artificia Unit Type.\n Models with the Shackled Artificia\
+    \ Unit Type can never count as scoring units, no matter the Force Organisation\
+    \ chart being used or the particular rules of the mission involved. However, they\
+    \ do count as Denial units."
+  Name: Shackled Artificia
+- Description: "A model with the Building Sub-type has an Armour Value instead of\
+    \ Toughness Characteristic and a reduced profile to reflect its limited capabilities.\
+    \ Page 224 of Warhammer: The Horus Heresy \u2013 Age of Darkness Rulebook presents\
+    \ rules for making attacks with or against models with this Unit Subtype. \n A\
+    \ model with the Building Sub-type uses all of the rules for the Transport Sub-type\
+    \ and other models with either the Infantry or Primarch Unit Types may Embark\
+    \ or Disembark upon them (see page 224 of Warhammer: The Horus Heresy \u2013 Age\
+    \ of Darkness Rulebook). \n A model with this Unit Sub-type may never Move or\
+    \ be Moved by any special rule or effect \u2013 if it is forced to Move then it\
+    \ instead suffers the effects of the Total Collapse result on the Building Damage\
+    \ table."
+  Name: Building
+- Description: "A model with the Emplacement Sub-type has an Armour Value instead\
+    \ of Toughness Characteristic and a reduced profile to reflect its limited capabilities.\
+    \ Page 224 of Warhammer: The Horus Heresy \u2013 Age of Darkness Rulebook presents\
+    \ rules for making attacks against models with this Unit Sub-type. \n A model\
+    \ with this Unit Sub-type may never Move or be Moved by any special rule or effect\
+    \ \u2013 if it is forced to Move then it instead suffers the effects of the Total\
+    \ Collapse result on the Building Damage table"
+  Name: Emplacement
+- Description: "A model (friendly or enemy) in base contact with a model with the\
+    \ Barricade Unit Sub-type and at least 25% obscured from the attacking unit gains\
+    \ a 5+ Cover Save. \n Any models (friendly or enemy) that are in base contact\
+    \ with the same model with the Barricade Unit Sub-type are considered to be in\
+    \ base contact with each other. \n A unit that declares a Charge targeting an\
+    \ enemy unit that has at least one model in base contact with a model with the\
+    \ Barricade Unit Sub-type is considered to have charged through Difficult Terrain.\
+    \ \n A model with the Barricade Sub-type has neither a Toughness Characteristic\
+    \ or Armour Value and cannot be damaged, or wounded and never rolls on either\
+    \ the Vehicle or Building Damage tables. \n A model with the Barricade Sub-type\
+    \ is never counted as a unit for the purposes of any Objective or for the purposes\
+    \ of the Sudden Death Victory rule. \n A model with this Unit Sub-type may never\
+    \ Move or be Moved by any special rule or effect \u2013 if it is forced to Move\
+    \ then it is instead removed as a casualty. \n A model with the Barricade Sub-type\
+    \ may never make Shooting Attacks and may only have Emplacement Mounted weapons\
+    \ (see page 224 of Warhammer: The Horus Heresy \u2013 Age of Darkness Rulebook)."
+  Name: Barricade
+- Description: "When rolling on the Building Damage table for a model with the Massive\
+    \ Sub-type, ignore any result other than a Total Collapse (but the model still\
+    \ suffers a point of Hull Point of damage for each Penetrating Hit. If the result\
+    \ of rolling on the Building Damage table is Total Collapse, the model with the\
+    \ Massive Sub-type suffers an additional D3 Hull Point damage. When reduced to\
+    \ 0 Hull Points, a model with the Massive Sub-type is destroyed, any weapons and\
+    \ wargear on the Building are also destroyed and it also suffers a Catastrophic\
+    \ Collapse. Any models Embarked upon a model with the Massive Sub-type that suffers\
+    \ a Catastrophic Collapse are immediately removed as casualties and the model\
+    \ with the Massive Sub-type now counts as Ruins and may not be Embarked upon.\
+    \ \n When selecting an army, the combined points value of all models with the\
+    \ Massive Sub-type, Lords of War Battlefield Role or Primarch Unit Type combined\
+    \ may not exceed 25% of the army\u2019s total points limit, unless otherwise specified\
+    \ by the mission or Force Organisation chart in use."
+  Name: Massive

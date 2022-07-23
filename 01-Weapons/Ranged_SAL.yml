@@ -1,0 +1,31 @@
+SAL:
+- AP: 4
+  Range: Template
+  Special Rules: Pistol 1, Dragon's Breath
+  Str: 4
+  Weapon Name: Dragon's Breath Pistol
+- AP: 4
+  Range: Template
+  Special Rules: Assault 1, Dragon's Breath
+  Str: 5
+  Weapon Name: Dragon's Breath Flamer
+- AP: 4
+  Range: Template
+  Special Rules: Assault 1, Dragon's Breath
+  Str: 6
+  Weapon Name: Dragon's Breath Heavy Flamer
+- AP: 4
+  Range: Template
+  Special Rules: Heavy 1, Torrent (18"), Dragon's Breath
+  Str: 7
+  Weapon Name: Dragon's Breath Cannon
+- AP: 4
+  Range: Template
+  Special Rules: Assault 1, Dragon's Breath
+  Str: 6
+  Weapon Name: Pyroclast Flame Projector ~ Dispersed
+- AP: 1
+  Range: 12"
+  Special Rules: Assault 1, Armourbane (Melta)
+  Str: 8
+  Weapon Name: Pyroclast Flame Projector ~ Focussed

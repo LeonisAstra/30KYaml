@@ -1,0 +1,36 @@
+TS:
+- AP: 4
+  Range: I0"
+  Special Rules: Pistol 1, Rending (6+), Achean Force
+  Str: 6
+  Weapon Name: "\xC6ther-fire Pistol"
+- AP: 4
+  Range: I8"
+  Special Rules: Assault 2, Rending (6+), Achean Force
+  Str: 6
+  Weapon Name: "\xC6ther-fire Blaster"
+- AP: 4
+  Range: 24"
+  Special Rules: Heavy 1, Blast (3"), Rending (6+), Achean Force
+  Str: 6
+  Weapon Name: "\xC6ther-fire Cannon"
+- AP: 4
+  Range: 36"
+  Special Rules: Heavy 1, Large Blast (5"), Rending (6+), Achean Force
+  Str: 6
+  Weapon Name: "\xC6ther-fire Magna-cannon"
+- AP: 5
+  Range: 8"
+  Special Rules: Pistol 1, Shred
+  Str: 4
+  Weapon Name: Asphyx Bolt Pistol
+- AP: 5
+  Range: I8"
+  Special Rules: Rapid Fire, Shred
+  Str: 4
+  Weapon Name: Asphyx Bolter
+- AP: 4
+  Range: 24"
+  Special Rules: Heavy 4, Shred
+  Str: 6
+  Weapon Name: Asphyx Bolt Cannon

@@ -1,0 +1,31 @@
+WB:
+- AP: 3
+  Range: Combat
+  Special Rules: Melee, Rending (6+), Murderous Strike (6+)
+  Str: User
+  Weapon Name: Tainted Blade
+- AP: 2
+  Range: Combat
+  Special Rules: Melee, Unwieldy, Murderous Strike (6+)
+  Str: '+1'
+  Weapon Name: Tainted Axe
+- AP: 3
+  Range: Combat
+  Special Rules: Melee, Murderous Strike (6+)
+  Str: '+2'
+  Weapon Name: Tainted Maul
+- AP: 2
+  Range: Combat
+  Special Rules: Melee, Brutal (2), Murderous Strike (5+)
+  Str: 9
+  Weapon Name: Tainted Claw
+- AP: 3
+  Range: Combat
+  Special Rules: Melee, Rending (6+), Murderous Strike (6+)
+  Str: User
+  Weapon Name: Tainted Talons
+- AP: 3
+  Range: Combat
+  Special Rules: Melee, Shred
+  Str: '+1'
+  Weapon Name: Axe-rake

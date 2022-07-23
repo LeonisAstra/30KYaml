@@ -1,0 +1,11 @@
+EC:
+- AP: 3
+  Range: Combat
+  Special Rules: Melee, Rending(6+), Murderous Strike(6+)
+  Str: User
+  Weapon Name: Phoenix Rapier
+- AP: 3
+  Range: Combat
+  Special Rules: Melee, Reach(1), Murderous Strike(6+), Breaching(6+), Two-handed
+  Str: '+2'
+  Weapon Name: Phoenix Power Spear

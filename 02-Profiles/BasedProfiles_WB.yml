@@ -1,0 +1,103 @@
+WB:
+- A: 3
+  BS: 4
+  FOC Slot: ELITES
+  I: 5
+  LD: 9
+  M: 8
+  S: 5
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Word Bearers), Relentless, Chosen Warriors, Rage
+    (2), Feel No Pain (5+), Bulky (2), Traitor
+  Sub Type: Corrupted
+  T: 5
+  Unit Name: Dark Brethren
+  Unit Type: Infantry
+  W: 3
+  WS: 5
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Word Bearers), Stubborn, Crusader, Bitter Duty,
+    Scorched Earth
+  Sub Type: Heavy
+  T: 4
+  Unit Name: Incendiary
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 3
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 9
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Word Bearers), Stubborn, Crusader, Bitter Duty,
+    Scorched Earth
+  Sub Type: Heavy, Character
+  T: 4
+  Unit Name: Iconoclast
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 3
+  BS: 3
+  FOC Slot: ELITES
+  I: 5
+  LD: 10
+  M: 8
+  S: 7
+  SV+: 2+
+  SV++: None
+  Special Rules: Legiones Astartes (Word Bearers), It Will Not Die (5+), Rampage (2),
+    Shroud of Dark Fire, Accursed, Pathfinder, Move Through Cover, Traitor
+  Sub Type: Corrupted
+  T: 7
+  Unit Name: Mhara Gal Dreadnought
+  Unit Type: Dreadnought
+  W: 8
+  WS: 6
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 7
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Word Bearers), Chosen Warriors, Grim Purpose,
+    Flesh Harvesters, Traitor
+  Sub Type: None
+  T: 4
+  Unit Name: Procurant
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 7
+  M: 7
+  S: 4
+  SV+: 2+
+  SV++: None
+  Special Rules: Legiones Astartes (Word Bearers), Chosen Warriors, Grim Purpose,
+    Flesh Harvesters, Traitor
+  Sub Type: Character
+  T: 4
+  Unit Name: Procurator
+  Unit Type: Infantry
+  W: 1
+  WS: 4

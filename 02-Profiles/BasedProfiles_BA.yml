@@ -1,0 +1,119 @@
+BA:
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 2+
+  SV++: None
+  Special Rules: Legiones Astartes (Blood Angels), Furious Charge (1), Set the Sky
+    Aflame
+  Sub Type: None
+  T: 4
+  Unit Name: Dawnbreaker
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 3
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 9
+  M: 7
+  S: 4
+  SV+: 2+
+  SV++: None
+  Special Rules: Legiones Astartes (Blood Angels), Furious Charge (1), Set the Sky
+    Aflame
+  Sub Type: Character
+  T: 4
+  Unit Name: Dawnbreaker Champion
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 10
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (Blood Angels), Relentless, Bulky (2), Deep Strike,
+    The Blood is Forever, Stubborn
+  Sub Type: Heavy
+  T: 4
+  Unit Name: Crimson Paladin
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 3
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 10
+  M: 6
+  S: 4
+  SV+: 2+
+  SV++: 4++
+  Special Rules: Legiones Astartes (Blood Angels), Relentless, Bulky (2), Deep Strike,
+    The Blood is Forever, Stubborn
+  Sub Type: Heavy, Character
+  T: 4
+  Unit Name: Crimson Exemplar
+  Unit Type: Infantry
+  W: 2
+  WS: 5
+- A: 2
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 8
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Blood Angels), Counter-attack (1), Stubborn, Bitter
+    Duty
+  Sub Type: Heavy
+  T: 4
+  Unit Name: Erelim
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 9
+  BS: 4
+  FOC Slot: ELITES
+  I: 4
+  LD: 9
+  M: 7
+  S: 4
+  SV+: 3+
+  SV++: None
+  Special Rules: Legiones Astartes (Blood Angels), Counter-attack (1), Stubborn, Bitter
+    Duty
+  Sub Type: Heavy, Character
+  T: 4
+  Unit Name: Arch-Erelim
+  Unit Type: Infantry
+  W: 1
+  WS: 4
+- A: 3
+  BS: 5
+  FOC Slot: FAST ATTACK
+  I: 4
+  LD: 9
+  M: 8
+  S: 7
+  SV+: 2+
+  SV++: 5++
+  Special Rules: Legiones Astartes (Blood Angels)
+  Sub Type: None
+  T: 7
+  Unit Name: Contemptor-Incaendius Dreadnought
+  Unit Type: Dreadnought
+  W: 6
+  WS: 5
