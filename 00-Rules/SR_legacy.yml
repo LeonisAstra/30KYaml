@@ -1,4 +1,16 @@
 Legacy:
+- Description: "A Solar Auxilia Artillery Battery must have at least one Auxilia Gunner\
+    \ per Artillery Platform in order for all Artillery Platforms to make Shooting\
+    \ Attacks in the Shooting phase. If, at the start of any of the controlling player\u2019\
+    s Shooting phases, the Solar Auxilia Artillery Battery contains fewer Auxilia\
+    \ Gunners than Artillery Platforms, then only a number of Artillery Platforms\
+    \ equal to the number of Auxilia Gunners may make Shooting Attacks in that Shooting\
+    \ phase. In addition, as long as there are at least as many Auxilia Gunners in\
+    \ the unit as there are Artillery Platforms, then the unit cannot be Pinned, automatically\
+    \ passing any Pinning tests it is called upon to take without any dice being rolled\
+    \ (this benefit is lost immediately once the number of Auxilia Gunners is reduced\
+    \ to less than the number of Artillery Platforms in the unit)"
+  Name: Auxilia Static Artillerists
 - Description: "Once per battle, a unit that includes any models with weapons with\
     \ this special rule may declare a Blade Charge at the start of any of the controlling\
     \ player\u2019s Assault phases. For the duration of that Phase, the attacks made\
@@ -73,6 +85,18 @@ Legacy:
     special rule are ignored when resolving attacks made against a model with this
     special rule.
   Name: Ferromantic Invulnerability
+- Description: "If a model with the Field Repair (X) special rule is within 3\" of\
+    \ one or more friendly damaged Vehicles during the Shooting phase, they can attempt\
+    \ to Repair one damaged Vehicle instead of firing all weapons or using any other\
+    \ abilities that would be used instead of making a Shooting Attack. To attempt\
+    \ a Repair, roll a D6. If the result is equal to or more than the value listed\
+    \ in brackets as part of this special rule then one of the following options may\
+    \ be applied to any one Vehicle model within 3\" of the Solar Auxilia Trojan Support\
+    \ Vehicle:\n\u2022 Restore a lost Hull Point.\n\u2022 Repair a Weapon Destroyed\
+    \ result.\n\u2022 Repair an Immobilised result.\nIf a Weapon Destroyed result\
+    \ is repaired, that weapon may not be used to attack in the same phase as it is\
+    \ repaired, but may be used to attack as normal in any phase after that."
+  Name: Field Repair (X)
 - Description: A model with this special rule must re-roll failed Dangerous Terrain
     tests.
   Name: Galvanic Traction Drive
@@ -107,6 +131,9 @@ Legacy:
     \ then the opposing player deploys that unit as if it was part of a Disordered\
     \ drop."
   Name: Landing Zone Beacon
+- Description: "A model with this special rule may be included in an army with any\
+    \ faction as a non-Compulsory \nHQ choice and may never be selected as the Warlord."
+  Name: "Militaris Attach\xE9"
 - Description: All component parts of a Fortress of Redemption (listed under Composition)
     must be deployed using the rules for Multi-part Fortifications.
   Name: Multi-part Fortification
@@ -141,11 +168,6 @@ Legacy:
     \ leave the Fenrisian Wolf Pack during play. A Fenrisian Wolf Pack may not be\
     \ selected as part of an army without a Leader."
   Name: Pack Retinue
-- Description: "A unit that includes any models with this special rule must make a\
-    \ Shooting Attack targeting the enemy unit which has the closest model in line\
-    \ of sight to any model in the attacking unit in the controlling player\u2019\
-    s Shooting phase."
-  Name: Sentry Protocols
 - Description: When rolling To Hit for a model with this special rule as part of an
     attack with a weapon that has the Melee type on any turn in which they are part
     of a successful Charge against an enemy unit, add +1 to the result of the roll

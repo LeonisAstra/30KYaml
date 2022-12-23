@@ -58,6 +58,13 @@ Compendium:
     \ listed for the unit to which it is attached, but does not gain access to any\
     \ additional Wargear options available to the unit to which it is assigned."
   Name: Apothecarion Detachment
+- Description: A model with the Knight or Titan Unit Sub-types that has weapons with
+    this special rule may make the Overwatch Reaction when it is triggered by models
+    that do not have the Knight, Titan, Super-heavy, or Lumbering Flyer Unit Sub-types,
+    or that have fewer than 8 Wounds. When making Shooting Attacks as part of the
+    Overwatch Reaction, the Reacting model may only make Shooting Attacks with weapons
+    with this special rule
+  Name: Ardex-defensor
 - Description: "Before the start of the first turn, when placing units into Reserve,\
     \ a player must assign all models with this special rule in the army to Reserve\
     \ to perform an Area Denial Drop. At the beginning of the controlling player's\
@@ -96,6 +103,11 @@ Compendium:
     \ as normal (if the models deployed as part of the Area Denial Drop are allowed\
     \ to make Charges)."
   Name: Area Denial Drop
+- Description: When deployed onto the battlefield (either at the start of the battle
+    or when arriving from Reserves) all models in the unit must be placed within unit
+    coherency, but afterwards operate independently and are not treated as a single
+    unit.
+  Name: Armiger Talons
 - Description: A weapon or model with this version of the Armourbane special rule
     only gains the benefits of the Armourbane special rule when attacking in close
     combat.
@@ -132,6 +144,18 @@ Compendium:
     \ 11 or more on the facing targeted, a model with th\xECs special rule may add\
     \ +1 to the Strength of the weapon used to make the attack."
   Name: Augurs Of Weakness
+- Description: A Solar Auxilia Rapier Battery must have on Auxilia Gunner per Rapier
+    Carrier in order forall Rapier Carriers to make Shooting Attacks in the Shooting
+    phase. If at the start of any of the controlling player's Shooting Phases, the
+    Solar Auxilia Rapier Battery contains fewer Auxilia Gunners than Rapier Carriers
+    then only anumber of Rapier Carriers equal to the number of Auxilia Gunners make
+    make Shooting Attacks in that Shooting phase. In addition, as long as there are
+    at least as many Auxilia Gunners in the unit as there are Rapier Carriers, then
+    the unit cannot be Pinned, automatically passing any Pinning test it is called
+    upon to take without any dice being rolled (this benefit is immediately lost once
+    the number of Auxilia Gunners is reduced to less than the number of Rapier Carriers
+    in the unit).
+  Name: Auxilia Artillerists
 - Description: Models with the Vehicle Unit Type may Embark a model with this special
     rule, Embarking and Disembarking as per the normal rules for Embarking/ Disembarking.
     A model with this special rule may carry one model with the Vehicle Unit Type
@@ -188,15 +212,17 @@ Compendium:
   Name: Battle-hardened (X)
 - Description: "If a model with the Battlesmith (X) special rule is in base contact\
     \ with, or Embarked upon, one or more damaged Vehicles, Dreadnoughts or Automata\
-    \ during the Shooting phase, they can attempt to repair one of them instead of\
-    \ firing a weapon. Roll a D6. If the result is equal to or more than the value\
-    \ listed in brackets as part of this rule then one of the following options may\
-    \ be applied to any one Vehicle, Dreadnought or Automata the model is in base\
-    \ contact with or Embarked upon:\n \u2022 Restore a lost Hull Point.\n \u2022\
-    \ Restore a lost Wound.\n \u2022 Repair a Weapon Destroyed result.\n \u2022 Repair\
-    \ an Immobilised result.\n If a Weapon Destroyed result is repaired, that weapon\
-    \ can be fired in the following Shooting phase. The Battlesmith cannot use this\
-    \ ability if they are Pinned or Falling Back."
+    \ during the Shooting phase, they can attempt to repair one of them. If they do\
+    \ so, the model that attempted the repair cannot shoot any \nweapons or use any\
+    \ other abilities that would be used instead of making a Shooting Attack.Roll\
+    \ a D6. If the result is equal to or more than the value listed in brackets as\
+    \ part of this rule then one of the following options may be applied to any one\
+    \ Vehicle, Dreadnought or Automata the model is in base contact with or Embarked\
+    \ upon:\n \u2022 Restore a lost Hull Point.\n \u2022 Restore a lost Wound.\n \u2022\
+    \ Repair a Weapon Destroyed result.\n \u2022 Repair an Immobilised result.\n If\
+    \ a Weapon Destroyed result is repaired, that weapon can be fired in the following\
+    \ Shooting phase. The Battlesmith cannot use this ability if they are Pinned or\
+    \ Falling Back."
   Name: Battlesmith (X)
 - Description: A unit that contains at least one model with this special rule must
     declare a Charge if able when they begin the Assault phase within 12" of an enemy
@@ -205,6 +231,28 @@ Compendium:
     special rule to Charge a different unit to one that they made a Shooting Attack
     against in the previous Shooting phase.
   Name: Bearers Of The Blood Hand
+- Description: "At the start of the battle, once both armies have set up all their\
+    \ models, including any units with the Infiltrator special rule, a player that\
+    \ controls any models with this special rule may select one of the effects listed\
+    \ below as part of this special rule. All units with the Kyropatris field generator\
+    \ item of Wargear in the Detachment that includes the model with this special\
+    \ rule gain the chosen effect for the duration of the battle. Note that only a\
+    \ single bonus may be given to the units, regardless of how many models with this\
+    \ special rule are present in the Detachment. If an army includes multiple Detachments\
+    \ that include any models with this special rule, the controlling player must\
+    \ select an effect for each such Detachment and may select the same or different\
+    \ effects for each Detachment:\n \u2022 Pain Suppression Override:Affected models\
+    \ gain the Feel No Pain (5+) special rule.\n \u2022 Explorator Synaesthesis:Models\
+    \ in affected units gain the Move Through Cover special rule.\n \u2022 Deconstructive\
+    \ Confluence: Models in affected units gain the Wrecker special rule.\n \u2022\
+    \ Extinction Interlock:Models in the affected units gain the Preferred Enemy (Infantry)\
+    \ special rule"
+  Name: Binaric Stratagems
+- Description: Whenever an Eversor Assassin is reduced to zero Wounds, but immediatly
+    before the model is removed from the battlefield, every model, both friendly and
+    enemt, within d^" suffers a S4 AP3 hit with the Fleshbane special rule. These
+    hits count as a Shooting Attack originating froma weapon with the 'Flame' type.
+  Name: Biological Overload
 - Description: A unit that includes any models with this special rule may not be joined
     by any model that does not also have this special rule (this includes Legion Techmarines
     and Legion Apothecaries, which may not be assigned to a unit with this special
@@ -268,6 +316,11 @@ Compendium:
     \ of from the firing model.\n Hits from Apocalyptic Mega-blast weapons made against\
     \ Vehicles are always resolved against their Side Armour Value."
   Name: Blast
+- Description: A Blast-shield is a Barricade and provides a 5+ Cover Save for models
+    obscured by it. In addition, any Wounds inflicted by attacks with the Blast special
+    rule targeting a model that claims a Cover Save due to a Blast-shield must be
+    re-rolled.
+  Name: Blast-shield
 - Description: Any unit hit by one or more models or weapons with this special rule
     must take an Initiative test at the end of the current Phase. If the Test is passed,
     there is no further effect. If the Initiative test is failed, all models in the
@@ -276,6 +329,16 @@ Compendium:
     Test. Any model that does not have an Initiative Characteristic (for example,
     Vehicles, Buildings, etc) is unaffected by this special rule.
   Name: Blind
+- Description: "So long as a unit with this special rule contains at least five models\
+    \ with galvanic casters, once per battle during the controlling player\u2019s\
+    \ Shooting phase, the unit may make a Blind Barrage instead of making a Shooting\
+    \ Attack. Select a friendly unit with a model within 18\" and within line of sight\
+    \ of the unit making the Blind Barrage. That friendly unit gains the Shrouded\
+    \ (4+) special rule until the beginning of the controlling player\u2019s next\
+    \ player turn. Models with the Vehicle Unit Type, the Knight Unit Sub-type, the\
+    \ Titan Unit Sub-type, or the Monstrous Unit Sub-type may not be the target of\
+    \ a Blind Barrage."
+  Name: Blind Barrage
 - Description: When a unit composed entirely of models with this special rule declares
     a Charge targeting a unit that is Pinned or Falling Back, the Charge roll gains
     an additional +1 modifier, and if the Charge is successful then all models in
@@ -309,6 +372,9 @@ Compendium:
     \ models when attempting to Embark on a Transport Vehicle or when deciding if\
     \ they outnumber an enemy unit."
   Name: Bulky (X)
+- Description: A model with this special rule never suffers any penalties to its Leadership
+    Characteristic from the Anathema Unit Sub-type.
+  Name: Cerebral Pacifier
 - Description: "When using a model with this special rule to make a Shooting Attack\
     \ using only Pistol type weapons, the controlling player may declare a Chain Fire\
     \ attack instead of making the model's normal Shooting Attacks during their own\
@@ -335,6 +401,20 @@ Compendium:
     \ be used if available).\n \u2022 A Chain Fire attack may never be made as part\
     \ of any Reaction."
   Name: Chain Fire
+- Description: "A Chieftain Squad in a Detachment that includes at least one model\
+    \ with both the Master of the Legion and Legiones Astartes (Sons of Horus) special\
+    \ rules may be selected as a Retinue Squad instead of as an HQ choice. The model\
+    \ with both the Master of the Legion and Legiones Astartes (Sons of Horus) special\
+    \ rules is referred to as the Retinue Squad\u2019s Leader for the purposes of\
+    \ this special rule (if the Detachment includes more than one model with both\
+    \ the Master of the Legion and Legiones Astartes (Sons of Horus) special rules\
+    \ then the controlling player selects one as the unit\u2019s Leader). A Chieftain\
+    \ Squad selected as a Retinue Squad does not use up a Force Organisation slot\
+    \ and is considered part of the same unit as the model selected as its Leader.\
+    \ A Chieftain Squad selected as a Retinue Squad must be deployed with the model\
+    \ selected as its Leader deployed as part of the unit and the Leader may not voluntarily\
+    \ leave the Retinue Squad during play."
+  Name: Chieftain Retinue
 - Description: A model with this special rule may issue and accept Challenges as if
     it had the Character type. Note that this does not allow a model with this special
     rule to use any other special rules associated with the Character type.
@@ -419,6 +499,23 @@ Compendium:
     roll a D6. On a 6, the Vehicle suffers an Explodes result on the Vehicle Damage
     table.
   Name: Deadly Cargo
+- Description: A unit composed entirely of models with this special rule that fails
+    a Morale check, due to enemy Shooting Attacks, losing a combat in the Assault
+    phase, or due to a special rule that forces a Morale check, does not Fall Back
+    and is treated as if it had passed the Morale check.  However, the unit's controlling
+    play must immediately select a single model in the unit and remove it from play
+    as a casualty - no Armour Saves or Damage Mitigation rolls may be made for the
+    selected model.  After one or more models has been removed froma unit due to this
+    special rule in a given player turn, the unit from which the model was removed
+    increases the Attacks Characteristic of all models in the unit by 1 for the duration
+    of the next player turn.
+  Name: Death Frenzy
+- Description: When Engaged ina Challenge, a model with this special rule may choose
+    to increase their Weapon Skill and Initative Characteristic to match that of their
+    opponent for the duration of the Challenge. Additionally, a model with this special
+    rule must always issue a challenge when Engaged in a combat with a unit that contains
+    a model with the Character Unit Sub-type.
+  Name: Death's Artisan
 - Description: A Deathshroud Terminator Squad may be selected as a Retinue Squad in
     a Detachment that includes at least one model with both the Master of the Legion
     and Legiones Astartes (Death Guard) special rules, instead of as an Elites choice.
@@ -463,6 +560,14 @@ Compendium:
     during play. A Deathwing Companion Detachment may not be selected as part of an
     army without a Leader.
   Name: Deathwing Retinue
+- Description: "During any Fight sub-phase, the controlling player of a model with\
+    \ this special rule may choose to have the model with this special rule make a\
+    \ single attack with the profile below instead of attacking normally (while using\
+    \ this option, the model with this special rule may not gain bonus attacks for\
+    \ Charging, additional weapons or from any other special rule).\nDecapitation\
+    \ Strike \u2013 Strength 2, AP 1, Melee, Unwieldy, Fleshbane, Murderous Strike\
+    \ (2+)"
+  Name: Decapitation Strike
 - Description: A unit made up entirely of models with this special rule may perform
     a Deep Strike Assault as described on page 310. Certain Faction or unit special
     rules may present other options for the deployment of units with the Deep Strike
@@ -477,6 +582,18 @@ Compendium:
     \ and do not benefit from any other special rules possessed by the attacking model,\
     \ such as Preferred Enemy (X) or Precision Strikes (X)."
   Name: Deflagrate
+- Description: 'When a model with this special rule is called upon to make attacks
+    during an Assault, instead of rolling To Hit as normal it instead inflicts one
+    automatic Hit using the profiule below on any one enemy model it is in base contact
+    with (chosen by the player that controls the model with this special rule). Once
+    this Hit is resolved, the model with this special rule is automatically removed
+    as a casualty (the removal of this model does not add any Wounds to the total
+    used to determine which side has won the Assault).
+
+
+    Demo Charge - Strength 10, AP 1, Melee, Armourbane (Melee), Instant Death, Brutal
+    (2)'
+  Name: Demolition Vehicle
 - Description: "At the start of the battle, once both armies have set up all their\
     \ models, including any units with the Infiltrator special rule, a single enemy\
     \ unit with the Gargantuan, Super-heavy, Knight or Titan Unit Sub-type may be\
@@ -496,6 +613,17 @@ Compendium:
     single attack in the Fight sub-phase, regardless of its Attacks Characteristic
     and any bonus attacks from Charging or other special rules.
   Name: Detonation
+- Description: A unit or model with this special rule may be placed into Combat Air
+    Patrol at the start of the battle, before any models are deployed onto the battlefield.
+    Models assigned to Combat Air Patrol are not deployed onto the battlefield and
+    remain in Reserves - however, no Reserves rolls are made for these models. Instead,
+    the controlling player gains access to the Combat Air Patrol Advanced Reaction.
+  Name: Divisio Aeronautica Air Superiority
+- Description: When making Shooting Attacks, djinn-sight reduces the benefits of any
+    Cover Save the target unit has by -2 (a 4+ becoming a 6+, a 5+ being ignored entirely,
+    and so on). Additionally, Infiltrators may not be set up within 24" of units with
+    this special rule, regardless of line of sight.
+  Name: Djinn-sight
 - Description: 'When attacking using the Wall of Death special rule (see the Template
     rules on page 248 of the Horus Heresy: Age of Darkness rulebook), a weapon with
     this special rule inflicts D6 Hits instead of D3.'
@@ -517,10 +645,41 @@ Compendium:
     of this special rule, then assume the value is 1 (thus adding +1 Initiative to
     that model).
   Name: "Duellist\u2019s Edge (X)"
+- Description: 'An attack that has this special rule does not roll to Wound using
+    the normal rules, instead roll to Wound by comparing the Attack''s Strength to
+    the target''s Strength Characteristic, using the Strength Characteristic in place
+    of Toughness on the To Wound table. If any Attacks with this special rule inflict
+    Wounds, do not make Armour Saves or Damage Mitigation Rolls for those Wounds -
+    instead for each Wound inflicted by an Attack with this special rule, reduce the
+    Movement Characteristic of all models in the target unit by the number in brackets
+    that is included as part of this special rule (to a minimum of 1) until the end
+    of the controlling player''s next turn. The Wounds caused by Attacks with this
+    special rule are then discarded and neither reduce the target model''s Wound Characteristic,
+    nor cause any models to be removed as casualties (this does not affect Wounds
+    inflicted by Attacks without this special rule as part of the same Shooting Attack).
+
+    Attacks with this special rule have no effect on models with the Vehicle or Primarch
+    Unit Types, or on any models that starts the battle with 6 or more Wounds.  Do
+    not roll To Wound if Hits from an attack with this special rule are allocated
+    to such a model and simply discard those Hits. Similarly, models of these Types
+    are not affected by the modifiers to Movement inflicted by the Entangle special
+    rule, regardless of whether other models in the same unit are affected.'
+  Name: Entangle (X)
 - Description: If a model with this special rule suffers an unsaved Wound from an
     attack that inflicts Instant Death, it only reduces its Wounds by 1, instead of
     automatically reducing its Wounds to 0.
   Name: Eternal Warrior
+- Description: At the start of any combat in the Assault phase, before the beginning
+    of Initative step 10, the controlling player of a model with this special rule
+    may declare its use.  When used, roll a D6 and select a single enemy model in
+    base contact with a model that has this special rule (include a model that is
+    Engaged in a Challenge with that model) - that enemy model must reduce its Weapon
+    Skill to 1 for the remainder of the current clayer turn.  If the dice roll results
+    in a result of a 2-6 then there is no further effect, but if the dice roll results
+    ina result of 1 then the model with this special rule suffers a single Wound against
+    which no Armour Saves, Cover Saves, or Invulnerable Saves may be taken (Damage
+    Mitigation rolls may be taken as normal).
+  Name: Ex Oblivio
 - Description: "If this weapon successfully scores a Penetrating Hit on a target,\
     \ roll a D6. If the result of that roll is equal to or higher than the value in\
     \ brackets after the rule, a second automatic Penetrating Hit is inflicted on\
@@ -577,11 +736,10 @@ Compendium:
     \ pass Pinning tests, Regroup tests and Morale checks. In addition, models with\
     \ the Fearless special rule ignore the effects of the Fear special rule. \n However,\
     \ units containing one or more models with the Fearless special rule cannot use\
-    \ any Reactions that grant a Cover Save, Armour Save, Invulnerable Save or Damage\
-    \ Mitigation roll of any kind, and cannot choose to fail a Morale check due to\
-    \ the Our Weapons Are Useless special rule (see page 188). If a unit has become\
-    \ Pinned and then gains the Fearless special rule, all the effects of being Pinned\
-    \ are immediately cancelled."
+    \ any Reactions that grant a Cover Save, Armour Save, Invulnerable Save, and cannot\
+    \ choose to fail a Morale check due to the Our Weapons Are Useless special rule\
+    \ (see page 188). If a unit has become Pinned and then gains the Fearless special\
+    \ rule, all the effects of being Pinned are immediately cancelled."
   Name: Fearless
 - Description: If a weapon with this special rule fails its Armour Penetration roll
     against a target with an Armour Value or fails a To Wound roll against any other
@@ -598,6 +756,9 @@ Compendium:
     \ \u2013 treat it as having been saved. On any other result the Wound is taken\
     \ as normal."
   Name: Feel No Pain (X)
+- Description: A single Detachment may not include both an Archmagos Prime and an
+    Archmagos Prime on Abeyant.
+  Name: Feudal Hierarchy
 - Description: When making an attack with a Heavy weapon, a Castellan may increase
     the number of attacks made with that weapon by +1 when making a Shooting Attack
     (for example, a Castellan making a Shooting Attack with a Heavy 3 weapon would
@@ -610,6 +771,14 @@ Compendium:
     of a single Shooting Attack, a model with the Firing Protocols (2) special rule
     may attack with up to two different weapons.
   Name: Firing Protocols (X)
+- Description: "A model with this special rule may increase its Movement Distance\
+    \ by 4\" in any Movement phase, but if it does so it may not make any Shooting\
+    \ Attacks in the subsequent Shooting phase. Note this model may still Charge in\
+    \ the Assault phase. In addition, when declaring a Charge after making a Shooting\
+    \ Attack, a model with this special rule may Charge a unit that it did not target\
+    \ in that turn\u2019s Shooting phase, provided that the target of the Charge meets\
+    \ all other criteria of a valid Charge target."
+  Name: Flank Speed
 - Description: "A unit composed entirely of models with this special rule gains a\
     \ bonus to all Run moves, any distance moved as part of a Reaction and as a modifier\
     \ to all rolls made to determine Charge Distances equal to the value in brackets\
@@ -647,6 +816,14 @@ Compendium:
     \ without occupying a Fortification Force Organisation slot, but the cost in points\
     \ must be counted towards the army total."
   Name: Fortified Postion
+- Description: At the start of the Assault phase, a model with this special rule may
+    choose to temporarily increase it Attacks Characteristic by the amount listed
+    in brackets until the end of the turn. When rolling To Hit for a model that has
+    had its Attacks Characteristic increased in this manner, for each unmodified result
+    of 1 the attacking model immediately suffers a Wound unless and Armour Save can
+    be made.  Wounds inclifed in this manner do not count for the purposes of combat
+    resolution.
+  Name: Frenzon Rage
 - Description: "In a turn in which a model with this special rule Charges into combat,\
     \ it adds a bonus to its Strength Characteristic until the end of the Assault\
     \ phase. The bonus added to the model\u2019s Strength is equal to the value in\
@@ -663,6 +840,9 @@ Compendium:
     of shots fired when making a Shooting Attack with a bolter (this does not include
     combi-bolters, bolt pistols or other bolt weapons).
   Name: Fury Of The Legion
+- Description: A model with this special rule must re-roll failed Dangerous Terrain
+    tests.
+  Name: Galvanic Traction Drive
 - Description: "When firing a weapon that Gets Hot, roll To Hit as normal. For each\
     \ unmodified To Hit roll of 1, the firing model immediately suffers a single Wound\
     \ with an AP value equal to that of the weapon that was used to attack (Armour\
@@ -684,6 +864,18 @@ Compendium:
     \ if the To Hit re-roll is a 1; it may also re-roll Gets Hot results of 1 for\
     \ weapons that do not roll To Hit."
   Name: Gets Hot
+- Description: "A model with this special rule ignores all Psychic Powers and Cybertheurgic\
+    \ Rites and Attacks made by Psychic and Cybertheurgic Weapons. In addition, a\
+    \ model with this special rule ignores the effects of the Haywire and Disruption\
+    \ (X) special rules. In all cases, weapons which benefit from these special rules\
+    \ must attempt to damage a model with this special rule normally using the attack\u2019\
+    s Strength value. In addition, all friendly Mechanicum units with at least one\
+    \ model within 24\" of a model with this special rule gain the Fearless special\
+    \ rule."
+  Name: God-engine
+- Description: Any successful Charge that targets a unit containing a model with a
+    weapon with this special rule is always counted as a Disordered Charge.
+  Name: Grav Wave
 - Description: Instead of rolling To Wound normally with a weapon with this special
     rule, the controlling player of any model Hit by it must roll equal to or under
     that model's Strength Characteristic on 2D6 or it suffers a Wound (Armour Saves
@@ -699,11 +891,26 @@ Compendium:
     \ the area. This area now counts as both Difficult Terrain and Dangerous Terrain\
     \ until the end of the next Game Turn."
   Name: Graviton Pulse
+- Description: Before firing a weapon with this special rule, roll a D6. On a 1, the
+    firing unit suffers a single Wound against which no Saves or Damage Mitigation
+    rolls may be made. A model with the Vehicle Unit Type instead suffers 1 Hull Point
+    against which no Saves or Damage Mitigation rolls may be made. On a 2-5, the weapon
+    fires normally. On a result of a 6, the attack is carried out with the Vortex
+    special rule.
+  Name: Graviton Singularity
+- Description: A unit that includes one or more models with this special rule may
+    make use of the Greuso Protocol Advanced Reaction.
+  Name: Greuso Protocol
 - Description: A unit that includes any models with this special rule may not be joined
     by any model that does not also have this special rule (this includes Legion Techmarines
     and Legion Apothecaries, which may not be assigned toa unit with this special
     rule unless they also have this special rule).
   Name: Grim Purpose
+- Description: At the start of any Assault phase, a Leadership test may be made for
+    this unit by the controlling player against a Leadership of 7. If this test is
+    passed, models in this unit gain the Feel No Pain (6+) special rule and improve
+    their Weapon Skill characteristic to '5' for the duration of that Assault phase.
+  Name: Guided By Prophecy
 - Description: Any attacks made using a weapon with this special rule do not require
     line of sight, but must still be within range.
   Name: Guided Fire
@@ -762,6 +969,11 @@ Compendium:
     \ a Penetrating Hit, Dreadnoughts and Automata suffer 1 Wound. No Saves or Damage\
     \ Mitigation rolls may be taken against Wounds inflicted by this result."
   Name: Haywire
+- Description: If a model with this special rule suffers an Explodes result on the
+    Vehicle Damage table as a result of a Melee or Shooting Attack, the Explodes result
+    causes nearby units to suffer a Str 8, AP 4 Hit for each model within D6+6" instead
+    of the usual damage and area of effect.
+  Name: Hazardous Munitions
 - Description: "When a unit that includes at least one model with this special rule\
     \ has at least half of its models within 6\" of an Objective then all models in\
     \ the unit gain the Feel No Pain (6+) and Stubborn special rules. If any model\
@@ -806,6 +1018,9 @@ Compendium:
     \ with the Deflagrate special rule, in addition to any other effects. Any Wounds\
     \ caused are allocated by the controller of the target unit."
   Name: Heavy Beam
+- Description: A model with this special rule has an Invulnerable Save of 6+ against
+    Shooting Attacks.
+  Name: Heavy Structure
 - Description: "A unit that contains at least one model with this special rule that\
     \ is locked in combat can choose to leave close combat at the end of any Assault\
     \ phase. If the unit wishes to do so, it must take an Initiative test. \n If the\
@@ -862,6 +1077,19 @@ Compendium:
     bonus of +1 to all To Hit rolls made against models with the chosen variant of
     the Legiones Astartes (X) special rule.
   Name: Hydran Exemplars
+- Description: 'A unit that suffers one or more Hits from a weapon with this special
+    rule must reduce their Leadership characteristic by -1 until the end of their
+    controlling player''s next turn. A unit can only be affected by a single instance
+    of the Hydra''s Wail special rule at a time. ln addition, units affected by this
+    special rule do not gain the benefits of any wargear that models in that unit
+    have that includes ''augury'' or ''vox'' in its name until the start of the Active
+    player''s next turn.
+
+    A weapon with this special rule may not be used to make Shooting Attacks as part
+    of a Reaction and may not be
+
+    used to make Snap Shots.'
+  Name: Hydra's Wail
 - Description: This model gains +1 Leadership (to a maximum of 10) on any turn in
     which it, or a unit it is part of, is Charged by one or more enemy units.
   Name: Icons Of Resolve
@@ -923,6 +1151,19 @@ Compendium:
     \ been the target of an ongoing effect), benefits and penalties from that effect\
     \ are not shared."
   Name: Independent Character
+- Description: After a model with this special rule (or a unit composed entirely of
+    models with this special rule) has resolved a Shooting Attack targeting an enemy
+    unit, any weapoins that were not used to attack (either due to being out of line
+    of sight or range of the enemy uni, or because the controlling player voluntarily
+    opted not to attack with them) may make a number of Secondary Shooting Attacks
+    using thise weapons that did not fire as part of its initial Shooting Attack.
+    Each weapon not fired as part of the initial Shooting Attack may be fired once,
+    either in a single Secondary Shooting Attack, each in a seperate Secondary Shooting
+    Attack targeting a different enemy unit or any combination - however, each weapon
+    may only be used to attack once and in no more than one Secondary Shooting Attack.
+    All Secondary Shooting Attacks obey all the normal rules for range and line of
+    sight and are with a modifier or -1 on all To Hit rolls.
+  Name: Independent Fire Control
 - Description: When deployed as the first model placed during a Deep Strike Assault,
     or other deployment that requires a model with this special rule to scatter, the
     distance the model scatters is reduced by half and if it scatters into Impassable
@@ -1015,9 +1256,34 @@ Compendium:
     rule, nor may a model that does not have the Kharash special rule join a unit
     that includes any models with that special rule.
   Name: Kharash
+- Description: "When any models with this special rule are used to make Melee Attacks\
+    \ against an enemy unit that includes any models with the Independent Character\
+    \ special rule or the Primarch Unit Type, all failed To Hit rolls of \u20181\u2019\
+    \ may be re-rolled. When a model with this special rule that is Engaged in a Challenge\
+    \ is used to make Melee Attacks against a model with the Independent Character\
+    \ special rule or the Primarch Unit Type, all failed To Hit rolls may be re-rolled."
+  Name: Kingslayers
 - Description: Weapons with the Lance special rule count Vehicle Armour Values that
     are higher than 12 as 12.
   Name: Lance
+- Description: "Models with this special rule gain the following benefits in various\
+    \ situations that involved \u2018Nemesis\u2019 units (seethe Nemesis unit entry\
+    \ below):\n\u2022 All models with the special rule gain +1 Attacks when locked\
+    \ in combat with a Nemesis Unit.\n\u2022 A unit composed entirely of models with\
+    \ this special rule gains an additional bonus of +1 to all Charge rolls made when\
+    \ all targets of the Charge are Nemesis Units\n\u2022 When rolling to Hit while\
+    \ Engaged with a Nemesis unit, a model with this special rule will never need\
+    \ to roll better than 4+ to score a Hit \u2013 unless the Nemesis unit is composed\
+    \ entirely of models with the Primarch Unit Type, or the attacking model is in\
+    \ a Challenge with a model that has the Primarch Unit Type.\n\nNemesis Units\n\
+    A \u2018Nemesis\u2019 unit is defined as any enemy unit that fulfils at least\
+    \ one of the following conditions:\n\u2022 The unit includes one or more models\
+    \ with as least one of the following Unit Type or Unit Sub-types:\n-Primarch,\
+    \ Dreadnought, Monstrous, Reinforced, Bombard, Daemon, Corrupted, Super-heavy,\
+    \ Unique or Knight\n\u2022 The majority of the models in the unit have a value\
+    \ of 5 or more in any one of the following Characteristics:\n- Weapon Skill, Ballistic\
+    \ Skill, Wounds or Initiative.\n\u2022 The unit includes an enemy Warlord"
+  Name: Legio Custodes
 - Description: A Legion Rapier Battery must have one Legion Gunner per Rapier Carrier
     in order for all Rapier Carriers to make Shooting Attacks in the Shooting phase.
     If, at the start of any of the controlling player's Shooting phases, the Legion
@@ -1061,6 +1327,32 @@ Compendium:
     rule as the Legion Forge Lord it shares a Detachment with, but may not select
     any Legion specific Wargear or other options.
   Name: Legiones Thallaxes
+- Description: 'No Wounds may be allocated to a Numerologist, regardless of the attacking
+    model''s rules or effects, as long as there is another model without the Life
+    Warded special rule in the unit. If the Numerologist is Engaged in a Challenge
+    then thia rule does not apply. However, if the Numerologist''s controlling player
+    chooses to refuse a Challenge for a unit that includes a model with the Life Warded
+    special rule then !he opposing player loses the option to stop one
+
+    model from participating in the combat.
+
+    Additionally, a unit that includes any models with this special rule may not be
+    joined by any model that does not also have this special rule (this inf ludes
+    Legion Techmarines and Legion Apothecaries, which may not be assigned to a unit
+    with this special rule unless they also have this special rule).'
+  Name: Life Warded
+- Description: "After normal To Hit rolls for a weapon with this special rule have\
+    \ been made, count the number of Hit inflicted on a roll of equal to or more than\
+    \ the value listed in the brackets as part of this rule. Immediately resolve a\
+    \ number of additional To Hit rolls on the same unit using the attacking models\u2019\
+    \ WS equal to the number of Hits counted earlier \u2013 any Hits scored roll To\
+    \ Wound as normal using the profile of the weapon with this special rule or a\
+    \ weapon chosen from those available to the model with this special rule if the\
+    \ rule is not applied to a specific weapon. These additional attacks do not themselves\
+    \ benefit from the Lightning Blows (X) special rule, but do benefit from any other\
+    \ special rules possessed by the attacking models such as Preferred Enemy (x)\
+    \ or Precision Strike (X)."
+  Name: Lightning Blows (X)
 - Description: After all Shooting Attacks for a weapon with this special rule have
     been fully resolved, roll a D6, adding +1 if the weapon has fired before in the
     same battle, if the of this roll is 6 or more then the weapon may no longer be
@@ -1115,6 +1407,10 @@ Compendium:
 - Description: A model with this special ule may only be included in an army that
     has the Loyalist Allegiance.
   Name: Loyalist
+- Description: When making Shooting Attacks against targets with the Super-heavy Vehicle,
+    Knight or Titan Unit Types or the Monstrous Sub-type, a model with this special
+    rule counts all of its ranged weapons as twin-linked.
+  Name: Macro-extinction Targeting Protocols
 - Description: If a weapon with this special rule is used to make a Shooting Attack
     part of any Reaction it gains the Gets Hot special rule for that Shooting Attack.
   Name: Malfunction
@@ -1160,6 +1456,40 @@ Compendium:
 - Description: Weapons with the Master-crafted special rule allow the bearer to re-roll
     one failed roll To Hit per turn with that weapon.
   Name: Master-crafted
+- Description: A model attacking with a weapon or profile with this special rule may
+    only make a single attack, regardless of the value of its Attack Characteristic,
+    any other special rules or whether it has Charged or is wielding more than one
+    weapon.
+  Name: Measured Strike
+- Description: "An Auxilia Medicae Detachment is selected as any other unit, using\
+    \ up a single Force Organisation slot and bough in the same manner. However, before\
+    \ the first turn begin and any models are deployed to the battlefield, all model\
+    \ in an Auxilia Medicae Detachment must be assigned to another unit from the same\
+    \ Detachment of the army they were selected as part of. Auxilia Medicae may only\
+    \ be assigned to units composed entirely of models with the Infantry Unit Type.\
+    \ No Auxilia Medicae may be assigned to any unit that includes one or more models\
+    \ with the Independent Character special rule or Unique Sub-type (but such models\
+    \ may join a unit that includes an Auxilia Medicae as normal during either deployment\
+    \ or any following turn, no more than one Auxilia Medicae may be assigned to any\
+    \ given unit. Once assigned to a unit, the Auxilia Medicae is considered part\
+    \ of that unit and may not leave it under any circumstances - if that unit is\
+    \ removed as a casualty, then the Auxilia Medicae is removed as well. \n In battles\
+    \ using Victory points, no Victory points are ever scored for removing a Auxilia\
+    \ Medicae as a casualty. When assigned to a unit, a Auxilia Medicae gains all\
+    \ of the special rules (with the exception of those that specifically forbid it,\
+    \ such as the Bitter Duty special rule) and Unit Sub-types listed for the unit\
+    \ to which it is attached, but does not gain access to any additional Wargear\
+    \ options available to the unit to which it is assigned."
+  Name: Medicae Support
+- Description: When deployed onto the battlefield (either at the start of the battle
+    or when arriving from Reserves) all models in the unit must be placed within unit
+    coherency, but afterwards operate independently and are not treated as a single
+    unit.
+  Name: Moirax Talons
+- Description: Any To Hit roll of a 6 made by a weapon with this special rule Wounds
+    automatically. This special rule has no effect on models with the Primarch or
+    Vehicle Unit Types.
+  Name: Molecular Dissonance
 - Description: A unit that contains at least one model with this special rule re-rolls
     all failed To Wound rolls against Dreadnoughts, Automata and Primarch models as
     well as any unit with the Monstrous sub-type.
@@ -1177,6 +1507,14 @@ Compendium:
     Saves against this Instant Death-causing Wound separately and before any other
     Wounds the attack inflicts.
   Name: Murderous Strike (X)
+- Description: "A \u2018Nemesis\u2019 unit is defined as any enemy unit that fulfils\
+    \ at least one of the following conditions:\n\u2022 The unit includes one or more\
+    \ models with as least one of the following Unit Type or Unit Sub-types:\n-Primarch,\
+    \ Dreadnought, Monstrous, Reinforced, Bombard, Daemon, Corrupted, Super-heavy,\
+    \ Unique or Knight\n\u2022 The majority of the models in the unit have a value\
+    \ of 5 or more in any one of the following Characteristics:\n- Weapon Skill, Ballistic\
+    \ Skill, Wounds or Initiative.\n\u2022 The unit includes an enemy Warlord"
+  Name: Nemesis Units
 - Description: A weapon with this special rule gains the Instant Death special rule
     when targeting models with the Automata Unit Type.
   Name: Neutron-flux
@@ -1192,6 +1530,23 @@ Compendium:
     the effects of Night Fighting (see page 308) and no model may make Shrouded rolls
     to negate Wounds inflicted by their attacks.
   Name: Night Vision
+- Description: Instead of making a Shooting Attack, a model with this special rule
+    may make a Leadership test. If this test is passed, the controlling player may
+    nominate a single enemy model within 12" that has the Automata type - this model
+    immediately suffers D3 Wounds with no Armour Saves or Damage Mitigation rolls
+    allowed. If this reduces the model to 0 Wounds and it is remvoed as a casualty,
+    the controlling player may nominate another model with the Automata Unit Type
+    within 18" of the model with this special rule. This model also suffers D3 Wounds
+    with no Armour Saves or Damage Mitigation rolls allowed. Regardless of the result
+    of this dice roll, no further Wounds mya be allocated by this attack in any onee
+    Shooting phase. If the leadership test is failed, the Vanus Inforcyte immediately
+    suffers a single Wound with no Armour Saves or Damage mitigation rolls allowed,
+    and there are no further effects.
+  Name: Noospheric Interloper
+- Description: A model with this special rule gains the Psy-synchronicity Psychic
+    Power and may not select a Minor Arcana from those presented by the Prosperine
+    Arcana special rule.
+  Name: Numerologist Order
 - Description: A weapon or ability with this special rule can only be used once during
     the course of a battle. Once a weapon with the One Use or One Shot special rule
     has been used to attack, it is no longer counted as a weapon and may not be destroyed
@@ -1217,14 +1572,44 @@ Compendium:
     the Legion had need of a vanguard for the most dangerous misions and impossible
     assaults.
   Name: Orders Of The Hekatonystika
+- Description: A model with this special rule may carry models with jet packs and
+    jump packs, as well as models of the Dreadnought, Cavalry and Automata Unit Types.
+    Each Dreadnought model uses 10 points of Transport Capacity, while each Automata
+    and Cavalry model uses up a number of Transport Capacity points equal to twice
+    its starting Wounds Characteristic.
+  Name: Ordinatus Transport Bay
 - Description: A unit made up entirely of models with this special rule may perform
     a Flanking Assault as described on page 311. Certain Faction or unit special rules
     may present other options for the deployment of units with the Outflank special
     unit.
   Name: Outflank
+- Description: When destroyed, a model with this special rule resolves Catastrophic
+    Damage at AP 3
+  Name: Overtaxed Reactor
+- Description: "Only one model in an army may be upgraded to have the Paragon of Metal\
+    \ special rule. Models upgraded with the Paragon of Metal special rule must have\
+    \ the Automata (Cybernetica) Unit Type before the upgrade is applied. This rule\
+    \ confers the Paragon Sub-type, which replaces the Cybernetica Unit Sub-type,\
+    \ and confers the It Will Not Die (4+), Precision Strikes (4+), Precision Shots\
+    \ (4+) and Rampage (2) special rules. A model upgraded with the Paragon of Metal\
+    \ special rule also increases both their starting Wounds Characteristic and their\
+    \ Weapon Skill Characteristic by +1.\n \n In addition, a model with the Paragon\
+    \ of Metal special rule may not be targeted or affected by any Cybertheurgic Power\
+    \ or any Weapon with the Data-djinn special rule, either friendly or enemy."
+  Name: Paragon Of Metal
 - Description: A unit with at least one model with this special rule automatically
     passes Dangerous Terrain tests.
   Name: Pathfinder
+- Description: An Independent Character with this special rule may join a unit composed
+    of models with the Automata Unit Type or Monstrous Unit Sub-type. However they
+    cannot join a unit which contains models of any other Unit Type if the model with
+    this rule also has the Automata or Dreadnought Unit Type, or the Monstrous Unit
+    Sub-type.
+  Name: Patris Cybernetica
+- Description: On a To Wouind roll of 6+, the target model automatically suffers a
+    Wound with no Armour Saves, Invulnerable Saves or Damage Mitigation rolls allowed.
+    This rule has no effect on models that do not have a Toughness Characteristic
+  Name: Phase Shift
 - Description: "As the exemplars of Fulgrim's methods, the Phoenix Terminators were\
     \ often assigned as honour guards to those commanders that had briefly gained\
     \ Fulgrim's fickle favour. Serving as both a potent reserve force and a boost\
@@ -1294,7 +1679,7 @@ Compendium:
     a wound caused by a Shooting Attack made by a model with this special rule, unless
     that Shooting Attack was made as a Snap Shot, in which case Cover Saves and Damage
     Mitigation rolls are made as normal.
-  Name: Preciision Fire
+  Name: Precision Fire
 - Description: "If a model with this special rule, or attacking with a weapon with\
     \ this special rule, rolls equal to or higher than the value in brackets when\
     \ making a To Hit roll as part of a Shooting Attack, that shot is a \u2018Precision\
@@ -1329,12 +1714,28 @@ Compendium:
     \ failed To Hit and To Wound rolls of 1 against all of the models in a unit which\
     \ has been joined by an Independent Character."
   Name: Preferred Enemy (X)
+- Description: A model with this special rule may not embark upon any model with the
+    Transport Unit Sub-type, regardless of its Unit Type or any special rules the
+    model with the Transport Sub-type may have.
+  Name: Pride Of Place
+- Description: A weapon with this special rule may only target models with the Infantry
+    Unit Type, and a model attacking with a weapon with this special rule makes only
+    a single attack (regardless of any other factors).
+  Name: Prisoned
 - Description: Before making any To Hit rolls with this weapon, the Psyker must make
     a Psychic check. If the Check is passed, then the Psyker may attack as normal
     using the profile shown for this weapon. If the Check is failed, then the Psyker
     suffers Perils of the Warp, and if the model is not removed as a casualty then
     it may attack as normal but may not use this weapon.
   Name: Psychic Focus
+- Description: 'A unit that includes at least one model with the Psyker Unit Sub-type
+    or Daemon Unit Type, and which suffers one or more unsaved Wounds from a weapon
+    with this special rule also suffers Perils of the Warp (see page 207 of the Horus
+    Heresy: Age of Darkness rulebook). Any given unit may only suffer Perils of the
+    Warp once per Phase due to the effects of this rule, regardless of how many enemy
+    attacks that unit or how many weapons with this special rule are present in the
+    attacking unit.'
+  Name: Psy-shock
 - Description: In addition to attacking normally in the Assault phase, when a model
     equipped with this weapon attacks place a Blast (3") marker centred on the attacking
     model. All other models wholly or partially under the marker, friendly or enemy,
@@ -1360,6 +1761,11 @@ Compendium:
     immediately rally, and are no longer Pinned or Falling Back and may act normally
     this turn
   Name: Rally The Legion
+- Description: When a model with a weapon with this special rule performs a Ram Attack,
+    it makes a number of additional attacks equal to the value of X. These attacks
+    automatically hit the target of the Ram Attack and are resolved using the profile
+    of the weapon with this special rule equal to the value of (X).
+  Name: Ram (X)
 - Description: "At the start of any Fight sub-phase, models with the Rampage special\
     \ rule gain a number of Attacks equal to the value listed in brackets if outnumbered\
     \ by enemy models (including the effects of the Bulky special rule) \u2013 count\
@@ -1406,6 +1812,19 @@ Compendium:
     Damage table for a model with this special rule, the Strength of any Hits inflicted
     is increased to 10.
   Name: Reactor Blast
+- Description: "When a model with this special rule is destroyed, the damage caused\
+    \ by its Catastrophic Damage is altered depending on the value of (X) in the version\
+    \ of this special rule as follows:\n \n Magna\n When destroyed, a model with this\
+    \ special rule resolves Hits caused by Catastrophic Damage as Destroyer attacks.\n\
+    \ \n Major\n When destroyed, a model with this special rule resolves Hits caused\
+    \ by Catastrophic Damage as Destroyer attacks at AP2.\n \n Maxima\n When destroyed,\
+    \ a model with this special rule resolves Hits caused by Catastrophic Damage as\
+    \ Destroyer attacks at AP2, and doubles the range of the Catastrophic Damage effect."
+  Name: Reactor Meltdown (X)
+- Description: A weapon with this special rule may double the number of shots it makes,
+    but if it does so the firing model suffers D3 Wounds or Hull Points of damage
+    with no Saves or Damage Mitigation rolls of any kind allowed.
+  Name: Reactor Overload
 - Description: This model gains +1 Attack in any Fight sub-phase which they begin
     in base contact with more than one enemy model.
   Name: Reapers Of Hosts
@@ -1414,6 +1833,12 @@ Compendium:
     value of X noted in the variant of the special rule (if no value of X is included
     then count the value of X as 1).
   Name: Reaping Blow (X)
+- Description: When rolling to Seize the Initiative against a force that includes
+    and model with this special rule, a sucessful result must be re-rolled.
+  Name: Reign Of Confusion
+- Description: A model with this special rule has an Invulnerable Save of 5+ against
+    Shooting Attacks.
+  Name: Reinforced Structure
 - Description: Relentless models can shoot with Heavy or Ordnance weapons, counting
     as Stationary, even if they moved in the previous Movement phase. They are also
     allowed to Charge in the same turn they fire Heavy, Ordnance, or Rapid Fire weapons.
@@ -1475,6 +1900,12 @@ Compendium:
     with any other modifiers that may be applied to such Hits) and are counted as
     Flame attacks for those rules that modify such attacks.
   Name: Scorched Earth
+- Description: Once per battle, during the Shooting phase of one of their turns as
+    the Active player, the controlling player of a unit made up entirely of models
+    with this special rule may choose to activate Scouring Tempest before the unit
+    is selected to make a Shooting Attack. Until the end of the Phase, all Flame weapons
+    in the unit gain the Pinning and Torrent (3") special rules.
+  Name: Scouring Temptest
 - Description: "After both sides have deployed (including Infiltrators), but before\
     \ the first player begins their first turn, a unit containing at least one model\
     \ with this special rule can choose to redeploy. If the unit is Infantry, Artillery,\
@@ -1495,6 +1926,16 @@ Compendium:
     \ has both the Infiltrate and Scout special rules, that unit can deploy as per\
     \ the Infiltrate special rule and then redeploy as per the Scout special rule."
   Name: Scout
+- Description: "A unit that includes any models with this special rule must make a\
+    \ Shooting Attack targeting the enemy unit which has the closest model in line\
+    \ of sight to any model in the attacking unit in the controlling player\u2019\
+    s Shooting phase."
+  Name: Sentry Protocols
+- Description: "Units which suffer one or more Wounds or Hull Points lost from an\
+    \ attack from a weapon with this special rule halve their Movement Characteristic\
+    \ and may not Run or make Reactions until the end of the attacker\u2019s next\
+    \ Shooting phase."
+  Name: Seismic Shock
 - Description: When a unit composed entirely of models with this special rule is deployed
     as part of a Deep Strike Assault, any enemy units within 6" of the units final
     position suffer a -1 modifier to their Leadership Characteristic when taking any
@@ -1567,15 +2008,42 @@ Compendium:
     all models both friendly and enemy within D6+6" suffer an automatic Hit at Strength
     8 and with an AP of -.
   Name: Shroud Of Dark Fire
-- Description: "When a model with this special rule suffers an unsaved Wound, it can\
-    \ make a special Shrouded roll to avoid being wounded (this is not a Saving Throw\
-    \ and so can be used against attacks that state that \u2018no Saves of any kind\
-    \ are allowed\u2019). Shrouded rolls may not be taken against Melee Attacks or\
-    \ against attacks with the Ignores Cover special rule."
+- Description: "When a model with this special rule suffers an unsaved Wound, Glancing\
+    \ Hit or Penetrating Hit, it can make a special Shrouded roll to ignore it (this\
+    \ is not a Saving Throw and so can be used against attacks that state that \u2018\
+    no Saves of any kind are allowed\u2019). Shrouded rolls may not be taken against\
+    \ Melee Attacks, against attacks with the Ignores Cover special rule or for models\
+    \ (excluding models with the Primarch Unit Type) with the Fearless \nspecial rule.\n\
+    Roll a D6 each time an unsaved Wound, Glancing Hit or Penetrating Hit is suffered\
+    \ by a model with this special rule. On a result that is equal to or greater than\
+    \ the value in brackets, that unsaved Wound, Glancing Hit or Penetrating Hit is\
+    \ ignored. On any other result, the Wound, Glancing Hit or Penetrating Hit is\
+    \ applied as normal. For example, a unit with the special rule Shrouded (6+) would\
+    \ need to score a 6 in order to ignore a Wound, Glancing Hit or Penetrating Hit\
+    \ inflicted upon it.\nIf on any unit this rule is presented simply as Shrouded,\
+    \ without a value in brackets, then count it as Shrouded (6+) This is a Damage\
+    \ Mitigation roll \u2013 any model may make only a single Damage Mitigation roll\
+    \ of any type for any given Wound, Glancing Hit or Penetrating Hit (see page 174).\u2019"
   Name: Shrouded (X)
 - Description: When an enemy unit successfully Charges a unit that includes one or
     more models with this special rule, the Charge is always considered to be Disordered.
   Name: Shrouded In Death
+- Description: 'The notation in brackets that is included as part of the Silent Sisterhood
+    (X) special rule defined which Chamber Militant the model belongs to.  This Chamber
+    Militant may grant the model some additional rules or effects and influenced how
+    it may be selected when building an army that incorporates a Detachment with the
+    Sisters of Silence Faction.
+
+    When selecting a Detachment using the Sisters of Silence Army List, the number
+    of Chambers Militant other than the Chamber of Vigilance is limited. For each
+    HQ choice with a given Chamber Militant, the Detachment may include up to three
+    other choices of the same Chamber Militant (except for unit with the Chamber of
+    Vigilance variant of the Silent Sisterhood (X) special rule, of which an army
+    may include any number, limited only by available Force Organisation slots).  Note
+    the Dedicated Transports and units selected using the Retinue special rule do
+    not count against these limits regardless of their variants of the Silent Sisterhood
+    (X) special rule.'
+  Name: Silent Sisterhood (X)
 - Description: "When a combat that involves one or models with this special rule is\
     \ resolved, before the start of Initiative step 10 the controlling player of any\
     \ models in that combat with this special rule may select one of the three following\
@@ -1617,6 +2085,26 @@ Compendium:
     \ attacks with the Blast or Template rules may never benefit from the effects\
     \ of the Sniper special rule."
   Name: Sniper
+- Description: 'A model with this special rule is selected as a seperate unit, but
+    during deployment must be assigned to another unit and may not be deployed as
+    a seperate unit. If multiple appropriate units are available, the controlling
+    player chooses which unit a model with this special rule is assigned to. Once
+    assigned to a unit, a model with this special rule counts as part of thay unit
+    and may not leave the unit during play for any reason.
+
+    A Leman Russ Command Tank must be assigned to a Leman Russ Strike Squadron or
+    a Leman Russ Assault Squadron.'
+  Name: Solar Auxilia Command Tank
+- Description: "When making a Shooting Attack with this weapon, place the Large Blast\
+    \ (5\") marker so that its edge touches the Front hull of the firing model. Instead\
+    \ of scattering this Blast marker, move the template in a direct line away from\
+    \ the firing model, travelling in any direction within the weapon\u2019s 45\xB0\
+    \ forward firing arc until its maximum range is reached or the template leaves\
+    \ the battlefield. All models the template passes over suffer a single automatic\
+    \ Hit. Flyers are also Hit if the template passes over their base. Should a model\
+    \ with the Knight, Titan, Super-heavy Vehicle, Building or Fortification Unit\
+    \ Type be Hit by this attack, increase the Strength of the attack to 10."
+  Name: Sonic Wave
 - Description: A model fighting with this weapon does not receive +1 Attack for fighting
     with two weapons unless it is armed with two or more Melee weapons with the Specialist
     Weapon rule. The additional weapon does not have to be the same weapon as the
@@ -1683,6 +2171,10 @@ Compendium:
 - Description: A unit with this special rule may not be chosen as a compulsory choice
     for the army as part of the Force Organisation chart.
   Name: Support Squad
+- Description: A model with this special rule and the Cybernetica Unit Sub-type may
+    ignore the Programmed Behaviour provision described as part of that Sub-type during
+    the Charge sub-phase.
+  Name: Surveillance Protocol
 - Description: If a model with the Swarm special rule suffers an unsaved Wound from
     a Blast (any size) or Template weapon, unless that Wound has the Instant Death
     special rule, each unsaved Wound is multiplied to two unsaved Wounds.
@@ -1691,6 +2183,10 @@ Compendium:
     \ may be selected as non- Compulsory Troops choices and count as Legion Terminator\
     \ Squads for the purposes of the Master of the Atramentar Warlord Trait."
   Name: Sworn Loyalty
+- Description: On a To Wouind roll of 6+, the target model automatically suffers a
+    Wound with no Armour Saves, Invulnerable Saves or Damage Mitigation rolls allowed.
+    This rule has no effect on models that do not have a Toughness Characteristic
+  Name: Synaptic Disruptor
 - Description: A unit or model with this special rule may be placed into Combat Air
     Patrol at the start of the battle, before any models are deployed onto the battlefield.
     Models assigned to Combat Air Patrol are not deployed onto the battlefield and
@@ -1725,6 +2221,12 @@ Compendium:
     but does not gain access to any additional Wargear options available to the unit
     to which it is assigned.
   Name: Techmarine Covenant
+- Description: "Instead of making a Melee Attack, a model with a weapon with this\
+    \ special rule may make a special attack at Initiative step 2. This automatically\
+    \ inflicts a single Hit against each model (friendly or enemy) in contact with\
+    \ the attacking model\u2019s base, using the profile of the weapon with this special\
+    \ rule."
+  Name: Tempest
 - Description: "Template weapons are indicated by having the word \u2018Template\u2019\
     \ for their range instead of a number. Instead of rolling To Hit, simply place\
     \ the template so that its narrow end is touching the base of the firing model,\
@@ -1751,6 +2253,44 @@ Compendium:
     \ range on their weapon profile. Hellstorm weapons use the Hellstorm template\
     \ (see page 152), but otherwise obey the rules for other Template weapons."
   Name: Template Weapons
+- Description: Models with this special rule may only be selected as part of a Tercio.  When
+    a Reaction is declared for a unit with this rule that allows it to make a Shooting
+    Attack or Move, then all units from the same Tercio that are 'In Formation' with
+    the Reacting unit may also Move or make a Shooting Attack as described in the
+    Reaction being made (all units that Move or Shoot are counted as habing made a
+    Reacion and thus cannon make further Reactions in the same Phase, and must target
+    the same unit with any Shooting Attacks made). A unit is 'In Formation' when that
+    unit is in unit coherency and has at least one model withing 3" of a model from
+    a different unit in the same Tercio that is also in unit coherency.
+  Name: Tercio
+- Description: "Instead of using the normal rules for Subterranean Assault, when a\
+    \ model with this special rule enters play via Subterranean Assault, place an\
+    \ Apocalyptic Blast marker (10\") anywhere on the battlefield that is at least\
+    \ 1\" from any enemy model, battlefield edge or piece of Impassable Terrain and\
+    \ then scatter that marker (see the Scatter rules on page 152 of the Horus Heresy:\
+    \ Age of Darknessrulebook).\n \n If the marker\u2019s final position is within\
+    \ 1\" of an enemy model, any battlefield edge or a piece of Impassable Terrain,\
+    \ then the controlling player\u2019s opponent may move that model to any position\
+    \ within 18\" that is more than 1\" from any enemy model, battlefield edge or\
+    \ piece of Impassable Terrain. If there is no suitable position within 18\", then\
+    \ the model may be repositioned by the controlling player\u2019s opponent anywhere\
+    \ on the battlefield that is more than 1\" from any enemy model, battlefield edge\
+    \ or piece of Impassable Terrain.\n \n Once the final position of the marker has\
+    \ been determined, the controlling player may place the model with this special\
+    \ rule on the battlefield so long as the centre of the marker is underneath part\
+    \ of the model\u2019s hull, and the model remains more than 1\" away from any\
+    \ enemy model. After the model has been placed, each Fortification within 6\"\
+    \ of it immediately suffers D6 Str 10, AP 2 Hits, and nearby units suffer one\
+    \ S10, AP 2 Hit for each model within 6\" of the model. Any unit that suffers\
+    \ one or more Hits from this effect must take an immediate Pinning test.\n \n\
+    \ The area under the Apocalyptic Blast marker (10\") is treated as Difficult Terrain\
+    \ and Dangerous Terrain for the remainder of the battle."
+  Name: Terrestrial Disregard
+- Description: When deployed onto the battlefield (either at the start of the battle
+    or when arriving from Reserves) all models in the unit must be placed within unit
+    coherency, but afterwards operate independently and are not treated asa single
+    unit.
+  Name: Thanatar Maniple
 - Description: While locked in combat with a unit that outnumbers them, a Crimson
     Paladin unit gains the Feel No Pain (5+) special rule. If outnumbered by more
     than twice their own number then they instead gain the Feel No Pain (4+) special
@@ -1770,6 +2310,16 @@ Compendium:
     \ a casualty (models removed as casualties in this fashion are still counted for\
     \ resolving which side has won a combat)."
   Name: The Dreams Of The Death Wolf
+- Description: A unit with this special rule may not make any Reactions or Sweeping
+    Advance moves.
+  Name: The Rite Of Pure Thought
+- Description: In missions which the controlling payer scores Victory points for destroying
+    models or units with the Character Sub-type, Primarch Sub-type or Independent
+    Character special rule, the ontrolling player scores and additional +1 Victory
+    point if an attack made by a model with the Assassin Sub-type reduces an enemt
+    model with the Character Sub-type, Primarch Sub-type or Independent Character
+    special rule to 0 Wounds.
+  Name: The Shadow Of Death
 - Description: An Iron Circle Maniple composed of at least three models may be selected
     as a Retinue Squad in a Detachment that includes Perturabo, instead of as an Elites
     choice. An Iron Circle Maniple selected as a 'Retinue Squad' counts Perturabo
@@ -1781,6 +2331,15 @@ Compendium:
     a part of an Iron Circle Maniple chosen as a Retinue Squad' for Perturabo gain
     the Feel No Pain (5+) special rule.
   Name: The Shield Of The Iron Tyrant
+- Description: If a model suffers one or more unsaved Wounds from this weapon, the
+    controlling plater must roll a D6 at the beginning of every battle turn for the
+    remainder of the battle. One a 5+, the model suffers a Wound against which no
+    saves of any kind may be taken. Furthermore, any model which suffers one or more
+    unsaved Wounds from a weapon with The Venem special rule is considered to be destroyed
+    for the purpose of mission which award Victory points for killing models (regardless
+    of whether they have been removed from play as a casualty), unless they possess
+    the Eternal Warrior special rule.
+  Name: The Venem
 - Description: "An Iron Warriors Dominator Cohort may be selected as a Retinue Squad\
     \ in a Detachment that includes Perturabo, instead of as an Elites choice. A unit\
     \ selected as a \u2018Retinue Squad\u2019 must have Perturabo as the Iron Warriors\
@@ -1807,6 +2366,16 @@ Compendium:
 - Description: When a target with an Armour Value is struck by a weapon with this
     special rule, the amount of Hull Point damage caused by the weapon is doubled.
   Name: Torsion Crusher
+- Description: "No melee attack made by models with the Knight Unit Sub-type or the\
+    \ Super-heavy Unit Sub-type may successfully hit a model with this special rule\
+    \ on better than a 5+. No melee attack made by models with the Automata, Cavalry,\
+    \ Dreadnoughts, and Infantry Unit Types may successfully hit a model with this\
+    \ special rule on better than a 6+.\n \n When making Shooting Attacks with Carapace\
+    \ Mounted weapons, a model with this special rule may not choose a unit as a target\
+    \ if all models in that unit are within 24\" of the attacking model.\n \n Lastly,\
+    \ a model with this special rule makes a number of Stomp attacks equal to 6 plus\
+    \ the model\u2019s unmodified Attacks Characteristic"
+  Name: Towering Monstrosity
 - Description: A model with this special rule may only be included in an army that
     has the Traitor Allegiance.
   Name: Traitor
@@ -1831,6 +2400,12 @@ Compendium:
     a successful Charge, but does not gain a bonus attack for Charging or from any
     special rules that would normally grant additional Attacks.
   Name: Ungainly
+- Description: Models with this special rule are immune to the effects of the Rad-phage
+    special rule and any other rules that negatively affect their Toughness Characteristic,
+    such as rad grenades. Additionally, weapons with the Poisoned (X) special rule
+    and/or Fleshbane special rule may never wound a model with Unnatural Conditioning
+    on a roll of better than 5+.
+  Name: Unnatural Conditioning
 - Description: A model attacking with this weapon Piles-in and fights at Initiative
     step 1, unless it has the Dreadnought Unit Type or Monstrous sub-type.
   Name: Unwieldy
@@ -1850,6 +2425,36 @@ Compendium:
     result (as shown on the Vehicle Damage table), the Strength of any Hits it causes
     is increased to 10.
   Name: Volatile Plasma Containment
+- Description: "Once an attack with this special rule has been fully resolved, any\
+    \ Blast markers placed as part of that attack are not removed from play and instead\
+    \ are left in place for the remainder of the battle. Such a Blast marker is then\
+    \ referred to as the Vortex marker. The area under a Vortex marker is treated\
+    \ as Area Terrain for the remainder of the battle, and applies the following effects\
+    \ to all models that enter its boundaries:\n \n No line of sight may be drawn\
+    \ through, into, or out of the area covered by the Vortex marker (as such, models\
+    \ within such an area of terrain cannot draw line of sight to any other model,\
+    \ nor can other models draw a line of sight to them).\n \n Any models that enter\
+    \ the boundary of this area of terrain, or begin the Movement phase of the model\u2019\
+    s Controlling player within its boundaries, immediately suffer one Str 10, AP\
+    \ 1 Hit and the Instant Death and Armourbane (Melee) special rules. If the model\
+    \ has the Vehicle Unit Type and suffers a Penetrating Hit due to this effect then\
+    \ it adds a modifier of +3 to that roll on the Vehicle Damage table instead of\
+    \ the +2 modifier it would normally add due to being AP1.\n \n This area of terrain\
+    \ does not confer a Cover Save and no model within its boundary may use a Cover\
+    \ Save granted by any other rule or effect."
+  Name: Vortex
+- Description: "Any models with the Infantry or Cavalry Unit Types in a unit that\
+    \ suffers one or more Hits from a weapon with this special rule must reduce their\
+    \ Leadership by -2 until the start of their controlling player\u2019s next turn.\
+    \ This modifier is not cumulative, and any given unit can only be affected by\
+    \ a single instance of the Vox Silence special rule at a time. Nor is it cumulative\
+    \ with other special rules that negatively modify Leadership. Always use the highest\
+    \ single modifier among those applicable. In addition, units affected by this\
+    \ special rule do not gain the benefits of nuncio vox, command vox or other similar\
+    \ Wargear items until the start of their controlling player\u2019s next turn.\
+    \ Units that include one or more models with the Stubborn special rule ignore\
+    \ this effect."
+  Name: Vox Silence
 - Description: If a Dark Emissary is selected as a Compulsory HQ choice in an Allied
     Detachment that is part of an army with the Traitor Allegiance, then all models
     in the Allied Detachment with the Legiones Astartes (Sons of Horus) special rule
@@ -1859,3 +2464,7 @@ Compendium:
     Power and may not select a Minor Arcana from those presented by the Prosperine
     Arcana special rule.
   Name: Warriors Of The Khenetai
+- Description: Penetrating Hits caused by attacks made with weapons or models with
+    this special rule add +1 to the result of any rolls on the Vehicle or Building
+    Damage tables.
+  Name: Wrecker
