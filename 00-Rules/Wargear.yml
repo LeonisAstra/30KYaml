@@ -1,0 +1,843 @@
+Legacy:
+- Description: Artificer armour confers a 2+ Armour Save.
+  Name: Artificer Armour
+- Description: "A unit that includes at least one model with an augury scanner gains\
+    \ all of the following benefits:\n\u2022 Enemy models cannot be deployed using\
+    \ the Infiltrate special rule within 18 of a model with an augury scanner.\n\u2022\
+    \ A unit that includes at least one model with an augury scanner ignores the 24\"\
+    \ limit to line of sight when making Shooting Attacks while the Night Fighting\
+    \ rules are in effect.\n\u2022 When any enemy unit is deployed to the battlefield\
+    \ from Reserves, a unit that includes at least one model with an augury scanner\
+    \ may make the Interceptor Advanced Reaction (see the Horus Heresy: Age of Darkness\
+    \ rulebook, page 309) without expending a point of the Reactive player's Reaction\
+    \ Allotment. This does not allow the unit to make more than one Reaction per Phase,\
+    \ but does allow the controlling player to exceed the normal three Reactions limit\
+    \ in a given Phase."
+  Name: Augury Scanner
+- Description: A model with a cognis-signum gains the Night Vision special rule. In
+    addition, in lieu of the model with the cognis-signum making a Shooting Attack
+    in the Shooting phase, all other models in the same unit gain a bonus of +1 to
+    their BS for that Shooting phase. This benefit is not cumulative, and no unit
+    can benefit from more than one bonus to their BS from cognis-signum
+  Name: Cognis-signum
+- Description: "Combat shields confer a 6+ Invulnerable Save, boarding shields confer\
+    \ a 5+ Invulnerable Save, but a model with a boarding shield cannot claim bonus\
+    \ attacks for having more than one melee weapon, or make attacks during the Assault\
+    \ phase using a weapon with the Two-handed special rule.  \nInvulnerable Saves\
+    \ granted by a combat shield or boarding shield do not stack with other Invulnerable\
+    \ Saves, but can benefit from rules (like cyber-familiar) that specifically increase\
+    \ existing saves.  If a model has another Invulnerable Save then the controlling\
+    \ player must choose which one to use.\nA model that selects a boarding shield\
+    \ also gains the Heavy Sub-type."
+  Name: Combat Shields & Boarding Shields
+- Description: "While any model with the Character Sub-type is Embarked upon a model\
+    \ with this special rule, friendly units with the same version of the Legiones\
+    \ Astartes (X) special rule that are within 18 or that include a model with a\
+    \ nuncio-vox may use the Embarked model\u2019s Leadership Characteristic for Morale\
+    \ checks and Pinning tests. If more than one model with the Character Sub-type\
+    \ is embarked upon a model with this special rule then the controlling player\
+    \ chooses which model's Leadership Characteristic is used."
+  Name: Command Vox Relay
+- Description: Any unit that includes one or more models with the Cybernetica Unit
+    Sub-type may ignore the Programmed Behaviour provision described as part of that
+    Sub-type while within 12" of a friendly model with a cortex controller.
+  Name: Cortex Controller
+- Description: A model with a cyber-familiar adds +1 to its Invulnerable Save (to
+    a maximum of 3+) or an Invulnerable Save of 6+ if they do not already possess
+    one. In addition, they allow them to re-roll failed Characteristic tests other
+    than Leadership tests, Psychic checks or failed Dangerous Terrain tests.
+  Name: Cyber-familiar
+- Description: A model with a dozer blade may re-roll all failed Dangerous Terrain
+    tests made for it.
+  Name: Dozer Blade
+- Description: 'At the start of each of the controlling player''s turns, that player
+    may choose to activate the explorator augury web in either Disruption or Relay
+    mode, the effects of which last until the beginning of the controlling player''s
+    next turn:
+
+    Disruption Mode: Any Reserves rolls made by an enemy player to bring units into
+    play from Reserve are modified by -1 while this mode is active. This modifier
+    does not stack with any other negative modifiers to Reserves rolls - use the highest
+    single modifier instead. However, once the final negative modifier to a Reserves
+    roll is determined, it can be reduced by any positive modifiers applied to the
+    roll (for example if a Reserves roll was affected by both a -1 and +1 modifier
+    then they would cancel each other and no modifier would be applied).
+
+    Relay Mode: Any Reserves rolls made by the controlling player to bring units into
+    play from Reserves may be re-rolled while this mode is active.'
+  Name: Explorator Augury Web
+- Description: A model with a flare shield reduces the strength of Shooting Attacks
+    made against its Front Armour by -1, or -2 if that Shooting Attack has the Blast
+    special rule or uses a template to determine its Range. A flare shield has no
+    effect on Shooting Attacks inflicted with weapons of the Destroyer type.
+  Name: Flare Shield
+- Description: As long as a model with this special rule is deployed on the battlefield,
+    the controlling player may choose to re-roll all failed Reserves roll they make.
+  Name: Geo-locator Beacon
+- Description: A unit that includes at least one model with a grenade harness makes
+    attacks at its normal Initiative Step during an Assault after it has successfully
+    Charged through Difficult Terrain or Dangerous Terrain, but still suffers any
+    penalties to Charge rolls imposed by Difficult Terrain or Dangerous Terrain when
+    resolving a Charge through Difficult Terrain or Dangerous Terrain.
+  Name: Grenade Harness
+- Description: Using grenades does not count as a Shooting Attack and their effects
+    are entirely covered by the rules presented here. Note that grenade launchers
+    do not use these rules and are Shooting Weapons governed by the standard Shooting
+    rules.
+  Name: Grenades
+- Description: The controlling player may choose to have a model with a breacher charge
+    that is Engaged or otherwise in base contact during the Assault phase with a Building
+    or Fortification model, inflict one automatic Str 10, AP 2 Hit on the target in
+    Initiative Step 1 instead of attacking normally. Any model in a unit that is chosen
+    to inflict Hits using breacher charges may not otherwise attack or make use of
+    any other special rule or item of Wargear that inflicts Hits or Wounds on a model
+    in the same Assault phase (but may participate in Sweeping Advances as normal).
+  Name: Breacher Charge
+- Description: A unit that includes at least one model with frag grenade makes attacks
+    at its normal Initiative Step during an Assault after it has successfully Charged
+    through Difficult Terrain or Dangerous Terrain, but still suffers any penalties
+    to Charge rolls imposed by Difficult Terrain or Dangerous Terrain when resolving
+    a Charge through Difficult Terrain or Dangerous Terrain.
+  Name: Frag Grenades
+- Description: The controlling player may choose to have a model with krak grenades
+    that is Engaged or otherwise in base contact during the Assault phase with a Building
+    or Fortification, or a model with the Vehicle, Dreadnought or Automata Unit Type,
+    inflict one target in Initiative Step 1 instead of attacking normally. Any model
+    in a unit that is chosen to inflict Hits using krak grenades may not otherwise
+    attack or make use of any other special rule or item of Wargear that inflicts
+    Hits or Wounds on a model in the same Assault phase (but may participate in Sweeping
+    Advances as normal) automatic Str 6, AP 3 Hit on the target in Initiative Step
+    1 instead of attacking normally. Any model in a unit that is chosen to inflict
+    Hits using krak grenades may not otherwise attack or make use of any other special
+    rule or item of Wargear that inflicts Hits or Wounds on a model in the same Assault
+    phase (but may participate in Sweeping Advances as normal)
+  Name: Krak Grenades
+- Description: 'During a turn in which a unit with at least one model with rad grenades
+    successfully Charges, or is themselves successfully Charged, all models in the
+    enemy units) suffer a -1 penalty to their Toughness Characteristic, to a minimum
+    of Toughness 1, until the end of the Fight Sub-phase that follows the successful
+    Charge. Note: This does affect Instant Death thresholds.'
+  Name: Rad Grenades
+- Description: "Whenever targeted by a Shooting Attack, the range between an attacking\
+    \ unit and a unit that includes at least one model with shroud bombs is considered\
+    \ to be 6\u201D further than the actual range between the two units, enemy models\
+    \ with the Night Vision special rule and models with the Primarch Unit Type ignore\
+    \ this effect. In addition, when attacked by a weapon with the Barrage special\
+    \ rule, a unit that includes at least one model with shroud bombs is always treated\
+    \ as though it was out of line of sight when scattering any attacks."
+  Name: Shroud Bombs
+- Description: "The controlling player of a model with a helical targeting array may\
+    \ activate it at the start of any of their own turns, or, if the controlling player\
+    \ is not taking the first turn of the battle, at the start of the battle, before\
+    \ the beginning of the opposing player's first turn. Once the helical targeting\
+    \ array is activated, the model is affected by the following conditions until\
+    \ the beginning of the controlling player's next turn:\n\u2022 The model may not\
+    \ move, Run or declare or make any Reactions other than the Interceptor or Overwatch\
+    \ Reaction.\n\u2022 The controlling player may choose to use the Skyfire special\
+    \ rule when making any Shooting Attacks with the model.\n\u2022 No model may make\
+    \ a Damage Mitigation roll provided by the Shrouded special rule against an attack\
+    \ made by a model with a helical targeting array while it is active.\n\u2022 When\
+    \ the model makes a Shooting Attack as part of the Interceptor Reaction, the Reaction\
+    \ does not cost the controlling player a point from their Reaction Allotment.\
+    \ This does not allow the unit to make more than one Reaction per Phase, but does\
+    \ allow the controlling player to exceed the normal three Reactions limit in a\
+    \ given Phase.\n\u2022 When a model with the Vehicle Unit Type and a helical targeting\
+    \ array makes a Shooting Attack as part of the Interceptor Reaction, that model\
+    \ may fire all of its weapons, not just Defensive Weapons, as part of the Shooting\
+    \ Attack."
+  Name: Helical Targeting Array
+- Description: A Legion Javelin Land Speeder has one heavy bolter and one cyclone
+    missile launcher (with frag and krak missiles),
+  Name: Legion Javelin Land Speeder
+- Description: A Legion Proteus Land Speeder has one heavy bolter.
+  Name: Legion Proteus Land Speeder
+- Description: A Legion Scimitar jetbike has one heavy bolter. In addition, a model
+    with a Legion Scimitar jetbike that chooses to Run gains the Shrouded (5+) special
+    rule until the start of the controlling player's next turn. A model with the Infantry
+    Unit Type that selects a Legion Scimitar jetbike as an upgrade must change its
+    Unit Type to Cavalry (Antigrav), keeping any other Unit Sub-types it previously
+    had, changes its Movement Characteristic to 16 and gains the Firing Protocols
+    (2), Hammer of Wrath (1) and Deep Strike special rules.
+  Name: Legion Scimitar Jetbike
+- Description: A Legion Spatha combat bike has one twin-linked bolter. In addition,
+    a model with a Legion Spatha combat bike that chooses to Run gains the Shrouded
+    (5+) special rule until the start of the controlling player's next turn. A model
+    with the Infantry Unit Type that selects a Legion Spatha combat bike as an upgrade
+    must change its Unit Type to Cavalry, keeping any Unit Sub-types it previously
+    had, and may choose to gain the Skirmish Unit Sub-type. In addition the model
+    must change its Movement Characteristic to 14 and gains the Firing Protocols (2)
+    and Hammer of Wrath (1) special rules.
+  Name: Legion Spatha Combat Bike
+- Description: "All of the controlling player's units with the Legiones Astartes (X)\
+    \ special rule within 6\u201D of a friendly model with a Legion standard are considered\
+    \ to have a Leadership Characteristic of 10 when resolving Morale checks or Pinning\
+    \ tests (but not Psychic checks). In addition, all models in a unit that includes\
+    \ a Legion standard gain the Line Sub-type as long as they remain part of that\
+    \ unit - this benefit is lost immediately if the model with the Legion standard\
+    \ is removed as a casualty."
+  Name: Legion Standard
+- Description: A unit that includes at least one model with a Legion vexilla adds
+    +1 to the Wounds score used to determine if they win a Combat in the Assault phase.
+    In addition, a unit that includes at least one model with a Legion vexilla may,
+    before any dice are rolled to determine Fall Back distance, choose to Fall Back
+    only a distance equal to the roll of a D6 instead of 2D6 (or 3D6 if a Cavalry
+    unit), and if forced move off the edge of the battlefield will instead stop moving,
+    with any model that would have moved off of the battlefield ending its Fall Back
+    move prematurely when it reaches 1" from the edge of the battlefield.
+  Name: Legion Vexilla
+- Description: "At the start of the controlling player's Movement phase, or when deployed\
+    \ as part of a Deep Strike Assault, a model with a Legion Warhawk jump pack may\
+    \ set its Move Characteristic to a value of 12 for the duration of the controlling\
+    \ player's turn (sometimes referred to as 'activating' the jump pack). This allows\
+    \ a model with a Warhawk jump pack to move up to 12\", regardless of the Movement\
+    \ Characteristic shown on its profile and gain any other benefits of a Movement\
+    \ Characteristic of 12 (including the bonus to Charge distance). In addition,\
+    \ all models with a Warhawk jump pack that have been activated ignore terrain\
+    \ while Moving and Charging, but must take Dangerous Terrain tests as normal when\
+    \ beginning or ending their Movement in Dangerous Terrain. A model with an activated\
+    \ Legion Warhawk jump pack treats all Difficult Terrain as Dangerous Terrain and\
+    \ may move over both friendly and enemy models or units without penalty - but\
+    \ must end its Movement at least 1\u201D away from any model from another unit.\
+    \ \nA model with a Legion Warhawk jump pack may still Run if it would normally\
+    \ be able to Run (this does not allow units that include any models with the Heavy\
+    \ Sub-type to Run). When making a Run move for a model with an activated Legion\
+    \ Warhawk jump pack, add the Initiative Characteristic of that model to 12 to\
+    \ determine how far it may move - the model ignores terrain and models from other\
+    \ units while making a Run move with a Legion Warhawk jump pack as previously\
+    \ noted, but may not make Shooting Attacks or declare a Charge in the same turn\
+    \ in which it has Run as per the normal rules for Running. \nAny model with a\
+    \ legion Warhawk jump pack also gains the Bulky (2), Hammer of Wrath (1) and Deep\
+    \ Strike special rules - if it already has the Bulky (2) special rule, it gains\
+    \ the Bulky (3) special rule instead. During a Reaction made in any Phase, a player\
+    \ may not choose to activate a model's Legion Warhawk jump pack to gain any bonus\
+    \ to its Movement Characteristic. Any models with a Legion Warhawk jump pack deployed\
+    \ as part of a Deep Strike Assault are considered to have activated their jump\
+    \ packs in the turn that they enter play."
+  Name: Legion Warhawk Jump Pack
+- Description: When a model with melta cutters makes a Ram Attack targeting a model
+    with the Vehicle Unit Type or a Building, it adds an additional modifier of +2
+    to the Strength of the attack, to a maximum of Strength 10.
+  Name: Melta Cutters
+- Description: All models with the Infantry or Cavalry Unit Types in a unit that includes
+    at least one model with a narthecium gain the Feel No Pain (5+) special rule.
+    Units that include more than one narthecium do not stack the Feel No Pain (X)
+    special rule and gain no additional benefit. Models with the Artillery Sub-type
+    are not affected by this special rule and do not gain the Feel No Pain (X) special
+    rule.
+  Name: Narthecium
+- Description: While at least one model with a nuncio-vox is present on the battlefield
+    and not Embarked in a Vehicle or Building, the controlling player may re-roll
+    any Scatter rolls made (whether as part of a weapon attack or the deployment of
+    a model or unit), as long as the model with the nuncio-vox has line of sight to
+    the unit targeted by the attack or the point chosen as the target of the deployment.
+    In addition, a unit that includes at least one model with a nuncio-vox ignores
+    the -1 penalty to Leadership imposed by the Night Fighting rules.
+  Name: Nuncio-vox
+- Description: Power armour provides a 3+ Armour Save.
+  Name: Power Armour
+- Description: Any enemy model within 18" and line of sight of a model with a psychic
+    hood must reduce its Leadership by -2 when making Psychic checks. This modifier
+    is not cumulative and no model may suffer from penalties from more than one psychic
+    hood.
+  Name: Psychic Hood
+- Description: A model with a ramjet diffraction grid reduces the Strength of Shooting
+    Attacks made against its Rear or Side armour by -1, or -2 if that attack has the
+    Blast special rule or uses a template to determine its Range. A ramjet diffraction
+    grid has no effect on attacks inflicted with weapons of the Destroyer type.
+  Name: Ramjet Diffraction Grid
+- Description: A model with a refractor field gains a 5+ Invulnerable Save, and a
+    model with an iron halo gains a 4+ Invulnerable Save. Invulnerable Saves granted
+    by a refractor field or iron halo do not stack with other Invulnerable Saves,
+    but can benefit from rules (such as cyber-familiar) that specifically increase
+    existing saves. If a model has another Invulnerable Save then the controlling
+    player must choose which one to use.
+  Name: Refractor Fields & Iron Halos
+- Description: Scout armour provides a 4+ Armour Save.
+  Name: Scout Armour
+- Description: 'A model with searchlights ignores the 24" limit to line of sight imposed
+    by the Night Fighting rules when making Shooting Attacks, however enemy units
+    also ignore that same restriction when making Shooting Attacks that target a model
+    with searchlights.
+
+    In addition, any unit that has been the target of a Shooting Attack made by a
+    unit with searchlights (regardless of whether any Hits were inflicted or not)
+    may be freely targeted for Shooting Attacks by any other unit in the same Shooting
+    phase, ignoring the 24" restriction to line of sight imposed by the Night Fighting
+    rules.
+
+    Searchlights do not count as weapons and may not be targeted by the Weapon Destroyed
+    result on the Vehicle Damage table.'
+  Name: Searchlights
+- Description: 'The controlling player may choose to trigger smoke launchers once
+    a model with them has completed its movement in the Movement phase, and may only
+    choose to trigger them if the model has moved no faster than Combat Speed that
+    turn. Once triggered, the model with smoke launchers counts as being more than
+    25% obscured, regardless of terrain, until the start of the controlling player''s
+    next turn and gains a 6+ Cover Save. A model whose smoke launchers have been triggered
+    may not make any Shooting Attacks, except as part of a Reaction, in the same turn.
+
+    Smoke launchers may only be used once per battle, and once triggered may not be
+    further used - in addition, they do not count as a weapon and may not be targeted
+    by Weapon Destroyed results on the Vehicle Damage table.'
+  Name: Smoke Launchers
+- Description: 'A heavy weapon with a suspensor web may be treated as having the type
+    Assault rather than Heavy when used to attack as part of any Shooting Attack at
+    targets at up to half the weapon''s usual maximum range. Example: A heavy bolter
+    with a suspensor web, which is usually a Range 36" Heavy 4 weapon, and instead
+    be used as if it were a Range 18" Assault 4 weapon if the controlling player wishes.'
+  Name: Suspensor Web
+- Description: Legion Tartaros Terminator armour confers a 2+ Armour Save and a 5+
+    Invulnerable Save.
+  Name: Legion Tartaros Terminator Armour
+- Description: Legion Cataphractii Terminator armour confers a 2+ Armour Save and
+    a 4+ Invulnerable Save. In addition, a unit that includes any models with Cataphractii
+    Terminator armour may not make Sweeping Advances.
+  Name: Legion Cataphractii Terminator Armour
+- Description: At the start of each Game Turn you can declare wheather each vox disruptor
+    array in your army is turned on or turned off.  While there is at least one model
+    on the battlefield with a vox disruptor array turned on, regardless of whether
+    that model is enemy or friendly, any attempt to perform a Deep Strike Assault,
+    Drop Pod Assault, Area Denial Drop or Subterranean Assault is Disordered on the
+    roll of a '1', '2' or '3' instead of just on a '1'.
+  Name: Vox Disruptor Array
+- Description: "A model with an Aetheric Juncture Splicer, and all models in any unit\
+    \ it joins (including during or prior to deployment) gains the Deep Strike special\
+    \ rule and must be assigned to a Deep Strike Assault. Additionally, any unit that\
+    \ includes a model with a Aetheric Juncture Splicer that enters play using the\
+    \ Deep Strike special rule must roll a dice for each model in the unit after it\
+    \ has been completely deployed on the battlefield and any Pinning tests or Reactions\
+    \ required have been resolved. For each dice rolled that results in a \u20181\u2019\
+    , a single Wound against which only Invulnerable Saves may be taken is inflicted\
+    \ on the unit with the Aetheric Juncture Splicer."
+  Name: Aetheric Juncture Splicer
+- Description: 'Legion Indomitus Terminator armour confers a 2+ Armour Save and a
+    5+ Invulnerable Save.
+
+    '
+  Name: Legion Indomitus Terminator Armour
+- Description: A model with a Proteus storm shield gains a 4+ Invulnerable Save, Invulnerable
+    Saves granted by a Proteus storm shield do not stack with other Invulnerable Saves,
+    and cannot be modified by any other special rule. If a model has another Invulnerable
+    Save then the controlling player must choose one to use. A model with a Proteus
+    storm shield may never gain an additional Attack for being armed with two close
+    combat weapons or make attacks using a weapon with the Two-handed special rule.
+  Name: Proteus Pattern Storm Shield
+- Description: This model has a 5+ Invulnerable save. In addition, should the model
+    lose its last wound then all models within D6+4" suffer a Str 8 AP - hit.
+  Name: Internal Refractor Field
+- Description: "Any Legion Techmarine or Legion Centurion with the Legion Forge Lord\
+    \ Consul upgrade, and the Legiones Astartes (Dark Angels) special rule selected\
+    \ as part of the same Detachment as the Excindio Battle-automata, may take a Kill-switch\
+    \ for +5 points.\nA model equipped with a Kill-switch may inflict D6 wounds on\
+    \ a friendly model with the Shackled Artificia special rule as long as they are\
+    \ within 12\" \u2013 no saves of any kind may be taken against these wounds. This\
+    \ counts as a Shooting attack. If  the use of an Artificia Kill-switch causes\
+    \ a friendly unit to be removed from play then the opposing player gains no Victory\
+    \ points for its destruction."
+  Name: Artificia Kill-switch
+- Description: "A unit that includes at least one model with a Peritarch targeter\
+    \ may activate it at the start of any of their own turns before any models are\
+    \ moved. Once the Peritarch targeter is activated, the unit affected may not move\
+    \ but gains the Guided Fire and Night Vision special rules until the start of\
+    \ the controlling player\u2019s next turn. A unit that has activated a Peritarch\
+    \ targeter may not make any Reactions other than the Interceptor or Overwatch\
+    \ Reaction, unless it can draw a line of sight to any models in the unit that\
+    \ triggered the Reaction. In addition, all models in a unit that has activated\
+    \ a Peritarch targeter must use the same missile type for any attacks made for\
+    \ the duration of that player turn."
+  Name: Peritarch Targeter
+- Description: Shooting Attacks made using a weapon with the Heavy type by a model
+    with a Ferrum Occularius gain the Precision Shots (6+) special rule, as long as
+    the attack is not made as part of a Reaction or a Snap Shot
+  Name: Ferrum Occularis
+- Description: "The Aktaeus class seismic excavator macro-drill grants the Ordinatus\
+    \ Aktaeus the Ordinatus Transport Bay special rule.\n \n In addition, once per\
+    \ battle, at the end of the controlling player\u2019s Movement phase, the Ordinatus\
+    \ Aktaeus may employ its seismic excavator macro-drill to cause a Seismic Shockwave.\
+    \ When this occurs, the Ordinatus Aktaeus cannot move for the rest of the battle\
+    \ and counts as a vehicle that has suffered an irreparable Immobilised result\
+    \ on the Vehicle Damage table (although no Hull Point loss is suffered). Units\
+    \ may not choose to Embark or Disembark in a turn in which the Seismic Shockwave\
+    \ ability is used, but may do so as normal in subsequent turns.\n \n At the beginning\
+    \ of each of the controlling player\u2019s Shooting phases for the rest of the\
+    \ battle after the Ordinatus Aktaeus has employed its seismic excavator macro-drill\
+    \ to cause a Seismic Shockwave, pick a point within 6\" of the front of the hull\
+    \ of the Ordinatus Aktaeus (for the purposes of determining this point you should\
+    \ use the Front arc of the unit). All units, friendly or enemy (excluding the\
+    \ Ordinatus Aktaeus itself), within a number of inches equal to the current Game\
+    \ Turn number multiplied by 6 of this point suffer D6 Str 7, AP 4 Hits with the\
+    \ Pinning special rule. Models with the Vehicle Unit Type are hit on their weakest\
+    \ Armour Facing. Should a model with the Vehicle Unit Type suffer a Penetrating\
+    \ Hit from this attack, it immediately suffers from Crew Shaken in addition to\
+    \ any other effect."
+  Name: Aktaeus Class Seismic Excavator Macro-drill
+- Description: A model with an atomantic deflector gains a 5+ Invulnerable Save and
+    any model with an atomantic deflector and a Wounds Characteristic that suffers
+    an unsaved Wound with the Instant Death special rule is not immediately removed
+    as a casualty, but instead loses D3 Wounds instead of one for each unsaved Wound
+    with the Instant Death special rule inflicted on it. In addition, when a model
+    with an atomantic deflector loses its last Wound or Hull Point, but before it
+    is removed as a casualty or replaced with a Wreck, all models both friendly and
+    enemy within D6" suffer an automatic Hit at Str 8, AP -.
+  Name: Atomantic Deflector
+- Description: Any unit that includes one or more models with the Cybernetica Unit
+    Sub-type may ignore the Programmed Behaviour provision described as part of thatSub-type
+    while within 12" of a friendly model with a cortex controller
+  Name: Cortex Controller
+- Description: "A unit composed entirely of models with Incunabulan jet packs may\
+    \ choose to increase its Move Characteristic by +6\" and ignore terrain while\
+    \ Moving during the Movement phase. A unit that ends or begins its movement in\
+    \ Dangerous Terrain will still need to take Dangerous Terrain tests as normal,\
+    \ even when employing Incunabulan jet packs and treats Difficult Terrain as Dangerous\
+    \ Terrain. In addition to the bonus to Move during the Movement phase, a unit\
+    \ composed entirely of models with Incunabulan jet packs may make an additional\
+    \ Move of 6\" during the Shooting phase. This Move must be taken after the unit\
+    \ has completed any Shooting Attacks, is not limited by the weapons fired by that\
+    \ unit during the Shooting phase and ignores terrain in the same manner as moves\
+    \ made using a Incunabulan jet pack in the Movement phase.\n \n Any model with\
+    \ an Incunabulan jet pack also gains the Bulky (2) and Deep Strike special rules,\
+    \ or if it already has the Bulky (2) special rule it gains the Bulky (3) special\
+    \ rule instead. Models with an Incunabulan jet pack may Embark on models with\
+    \ the Transport Unit Sub-type, contrary to the normal Transport rules, but still\
+    \ must take into account their size due to the Bulky (X) special rule.\n \n During\
+    \ any Reaction that allows a unit to Move, a unit composed entirely of models\
+    \ with Incunabulan jet packs increases the distance of that Move by 6 and allows\
+    \ it to ignore terrain in the same manner as other Incunabulan jet pack moves."
+  Name: Incunabulan Jet Pack
+- Description: A model with an ion gauntlet shield gains a 5+ Invulnerable Save against
+    Shooting Attacks which target its Front or Side Armour Values, and a 5+ Invulnerable
+    Save against all Melee Attack.
+  Name: Ion Gauntlet Shield
+- Description: A model with an ion shield gains a 4+ Invulnerable Save against Shooting
+    Attacks which target its Front Armour Value, and a 5+ Invulnerable Save against
+    Shooting Attacks which target its Side Armour Value.
+  Name: Ion Shield
+- Description: A model with an ionic deflector gains a 5+ Invulnerable Save, and any
+    model with an ionic deflector and a Wounds Characteristic gains the Eternal Warrior
+    special rule. In addition, when a model with an ionic deflector loses its last
+    Wound or Hull Point, but before it is removed as a casualty or replaced with a
+    Wreck, all models both friendly and enemy within D6+3" suffer an automatic Hit
+    atStr 8, AP -.
+  Name: Ionic Deflector
+- Description: So long as a unit contains at least five models with a Kyropatris field
+    generator, all models in the unit may re-roll failed Armour Saves of 1. In addition,
+    if the unit contains at least 10 models with Kyropatris field generators then
+    all Shooting Attacks made against the unit suffer a modifier of -1 to the Strength
+    of the attack (to a minimum of Strength 1).
+  Name: Kyropatris Field Generator
+- Description: The Lorica Thallax confers a 4+ Armour Save. In addition, a unit that
+    includes any models with Lorica Thallax may not make Sweeping Advances.
+  Name: Lorica Thallax
+- Description: "Mag-inverter shields confer a 5+ Invulnerable Save. A model with a\
+    \ mag-inverter shield cannot claim bonus attacks for having more than one melee\
+    \ weapon, or make attacks during the Assault phase using a weapon with the Two-handed\
+    \ special rule.\n \n Invulnerable Saves granted by a mag-inverter shield do not\
+    \ stack with other Invulnerable Saves, but can benefit from rules (such as cyber-familiar)\
+    \ that specifically increase existing Saves. If a model has another Invulnerable\
+    \ Save then the controlling player must choose one to use."
+  Name: Mag-inverter Shield
+- Description: "A model with a Mechanicum Protectiva gains a 4+ Invulnerable Save.\n\
+    \ \n Invulnerable Saves granted by a refractor field or Mechanicum Protectiva\
+    \ do not stack with other Invulnerable Saves, but can benefit from rules (like\
+    \ cyber-familiar) that specifically increase existing Saves. If a model has another\
+    \ Invulnerable Save then the controlling player must choose which one to use."
+  Name: Mechanicum Protectiva
+- Description: "For the duration of the first Game Turn, all Shooting Attacks made\
+    \ against a model with an Ordinatus dispersion shield that target the model\u2019\
+    s Front or Side Armour values, or any indirect Shooting Attacks (such as those\
+    \ with the Barrage special rule) are reduced by -2 Strength, and any Explodes\
+    \ results on the Vehicle Damage table are ignored."
+  Name: Ordinatus Dispersion Shield
+- Description: Any melee Hits allocated to models locked in combat with one or more
+    units that include a model with a rad furnace require one lower result To Wound
+    than they would normally, to a minimum of 2+. This effect is not cumulative with
+    itself if more than one model in a combat has a rad furnace. Models with rad furnaces
+    are immune to the effects of rad grenades, the Rad-phage special rule and the
+    rad furnaces of models they are locked in combat with. In addition, Hits from
+    weapons with the Rad-phage special rule that are allocated to a model with a rad
+    furnace only successfully wound on a To Wound roll of a 6+.
+  Name: Rad Furnace
+- Description: "A model with a refractor field gains a 5+ Invulnerable Save.\n \n\
+    \ Invulnerable Saves granted by a refractor field or Mechanicum Protectiva do\
+    \ not stack with other Invulnerable Saves, but can benefit from rules (like cyber-familiar)\
+    \ that specifically increase existing Saves. If a model has another Invulnerable\
+    \ Save then the controlling player must choose which one to use."
+  Name: Refractor Field
+- Description: "A unit composed entirely of models with Stratos thrusters may set\
+    \ its Move Characteristic to a value of 16\" for the duration of the controlling\
+    \ player\u2019s turn. This allows the unit to move up to 16\", regardless of the\
+    \ Movement Characteristic shown on its profile and gain any other benefits of\
+    \ a Movement Characteristic of 16\" (including the bonus to Charge distance).\
+    \ In addition, Stratos thrusters allow units to hover above the battlefield and\
+    \ thus ignore the effects of Difficult Terrain and Dangerous Terrain at all times."
+  Name: Stratos Thrusters
+- Description: The Corpus Skitarii confers a 4+ Armour Save. In addition, a model
+    with Corpus Skitarii may re-roll Feel No Pain Damage Mitigation rolls which are
+    the result of attacks made by weapons with the Poisoned (X) orRad-phage special
+    rules.
+  Name: The Corpus Skitarii
+- Description: Titanshard Armour confers a 3+ Armour Save and a 5+ Invulnerable Save.
+    In addition, a model with Titanshard Armour may re-roll Feel No Pain Damage Mitigation
+    rolls which are the result of attacks made by weapons with the Poisoned (X) or
+    Rad-phage special rules.
+  Name: Titanshard Armour
+- Description: "A unit composed entirely of models with Utan jump boosters may set\
+    \ its Move Characteristic to a value of 12 for the duration of the controlling\
+    \ player\u2019s turn. This allows the unit to move up to 12\", regardless of the\
+    \ Movement Characteristic shown on its profile and gain any other benefits of\
+    \ a Movement Characteristic of 12 (including the bonus to Charge distance, see\
+    \ the Horus Heresy: Age of Darkness rulebook, page 181). In addition, the unit\
+    \ ignores terrain while Moving and Charging. A unit that ends or begins its movement\
+    \ or a Charge in Dangerous Terrain will still need to take Dangerous Terrain tests\
+    \ as normal, even when employing Utan jump boosters, and treats all Difficult\
+    \ Terrain as Dangerous Terrain.\n \n A unit composed entirely of models with Utan\
+    \ jump boosters may not Run. During Reactions made in any Phase, a unit composed\
+    \ entirely of models with Utan jump boosters may not activate them to gain any\
+    \ bonus to their Movement Characteristic. Any model with an Utan jump booster\
+    \ also gains the Deep Strike special rule. Additionally, models with an Utan jump\
+    \ booster may Embark on models with the Transport Unit Sub-type, contrary to the\
+    \ normal Transport rules, but still must take into account their Unit Type and\
+    \ their size due to the Bulky (X) special rule."
+  Name: Utan Jump Booster
+- Description: The controlling player of an enemy unit that arrives via Deep Strike
+    Assault within 12" of a model with this special rule must roll an additional D6
+    when rolling to Scatter that unit.
+  Name: "\xC6therlabe Staff"
+- Description: If there is a model with an arae-shrike on the battlefield when any
+    enemy player declares a Deep Strike Assault or Flanking Assault, and roll to see
+    if the Deep Strike Assault or Flanking Assault is 'Disordered' suffers a penalty
+    of -1 and is thus considered Disordered on the roll of a '1' or a '2', unless
+    other modifiers are also applied
+  Name: Arae-shrike
+- Description: Artificer armour confers a 2+ Armour Save
+  Name: Artificer Armour
+- Description: A model with an atomantic deflector gains a 5+ Invulnerable Save and
+    any model with an atomantic deflector and a Wounds Characteristic that suffers
+    an unsaved Wound with the Instant Death special rule is not immediately removed
+    as a casualty, but instead loses D3 Wounds instead of one for each unsaved Wound
+    with the Instant Death special rule inflicted on it. In addition, when a model
+    with an atomantic deflector loses its last Wound or Hull Point, but before it
+    is removed as a casualty or replaced with a Wreck, all models both friendly and
+    enemy within D6" suffer an automatic Hit at Str 8, AP -.
+  Name: Atomantic Deflector
+- Description: "A unit that includes at least one model with an augury scanner gains\
+    \ all of the following benefits:\n \n \u2022 Enemy models cannot be deployed using\
+    \ the Infiltrate special rule within 18\" of a model with an augury scanner.\n\
+    \ \n \u2022 A unit that includes at least one model with an augury scanner ignores\
+    \ the 24\" limit to line of sight when making Shooting Attacks while the Night\
+    \ Fighting rules are in effect.\n \n \u2022 When any enemy unit is deployed to\
+    \ the battlefield from Reserves, a unit that includes at least one model with\
+    \ an augury scanner may make the Interceptor Advanced Reaction (see the Horus\
+    \ Heresy: Age of Darknessrulebook, page 309) without expending a point of the\
+    \ Reactive player\u2019s Reaction Allotment. This does not allow the unit to make\
+    \ more than one Reaction per Phase, but does allow the controlling player to exceed\
+    \ the normal three Reactions limit in a given Phase"
+  Name: Augury Scanner
+- Description: All models with the Infantry or Cavalry Unit Types in a unit with at
+    least one model with an auto-medicus gains the Feel No Pain (6+) special rule.  Units
+    that include more than one auto-medicus do not stack the Feel No Pain (X) special
+    rule and gain no additional benefit by this special rule. Models with the Artillery
+    Sub-type are not affected by this special rule and do not gain the Feel No Pain
+    (X) special rule.
+  Name: Auto-medicus
+- Description: A unit that includes at least one model with an Auxilia vexilla adds
+    +1 to the Wounds score used to determine if they win a Combat in the Assault phase.
+    In addition, a unit that includes at least one model with a Legion vexilla may,
+    before any dice are rolled to determine Fall Back distance, choose to Fall Back
+    only a distance equal to the roll of a D6 instead of 2D6 (or 3D6 if a Cavalry
+    unit), and if forced move off the edge of the battlefield will instead stop moving,
+    with any model that would have moved off of the battlefield ending its Fall Back
+    move prematurely when it reaches 1" from the edge of the battlefield.
+  Name: Auxilia Vexilla
+- Description: All if the controlling player's units that are part of a Detachment
+    chosen from the Solar Auxillia List withing 6" of a model with a Cohorts vexilla
+    are considered to have a Leadership Characteristic of 9 when resolving Morale
+    checks or Pinning tests (but not Psychic checks). In addition, all models in a
+    unit that includes a Cohorts Vexilla gain the Line Sub-type as long as they remain
+    part of that unit - this benefit is lost immediately if the model with the Cohorts
+    vexilla is removed as a casualty.
+  Name: Cohorts Vexilla
+- Description: Auric battleplate confers a 2+ Armour Save and a 4+ Invulnerable Save.
+  Name: Auric Battleplate
+- Description: Auric demi-plate confers a 3+ Armour Save and a 6+ Invulnerable Save.
+  Name: Auric Demi-plate
+- Description: Auric warplate confers a 2+ Armour Save and a 6+ Invulnerable Save.
+  Name: Auric Warplate
+- Description: Aquilion pattern Terminator armour confers a 2+ Armour Save and a 4+
+    Invulnerable Save.
+  Name: Aquilion Pattern Terminator Armour
+- Description: A model with a cognis-signum gains the Night Vision special rule. In
+    addition, in lieu of the model with the cognis-signum making a Shooting Attack
+    in the Shooting phase, all other models in the same unit gain a bonus of +1 to
+    their BS for that Shooting phase. This benefit is not cumulative, and no unit
+    can benefit from more than one bonus to their BS from cognis-signum
+  Name: Cognis-signum
+- Description: Any friendly unit that includes at least one model with a command vox
+    may choose to use the Leadership value of any model ina friendly unit with another
+    command vox when making Pinning tests or Morale checks - this includes any friendly
+    units with command voxs that are in Reserves or Embarked on a unit with the Vehicle
+    Unit Type.  A unit that includes a command vox also offer benefits to friendly
+    units that include a vox interlock.
+  Name: Command Vox
+- Description: Any friendly unit that includes at least one model with a vox interlock
+    may choose to use the Leadership value of any model ina friendly unit with another
+    command vox when making Pinning tests or Morale checks - this includes any friendly
+    units with command voxs that are in Reserves or Embarked on a unit with the Vehicle
+    Unit Type.
+  Name: Vox Interlock
+- Description: Compression tanks may be used once per battle, this use must be declared
+    when the controlling player declares a Shooting Attack for a unit that includes
+    one or more models with a compression tank, before any To Hit rolls are made.  When
+    used, all models with compression tanks increase the Strength of any Flame weapons
+    they have by +2 for the duration of that Shooting Attack - and when used, all
+    models in the unit with compression tanks must use them.  Once that Shooting Attack
+    is fully resolved, all compression tanks in the attacking unit are expended and
+    may not be used again in that battle.
+  Name: Compression Tank
+- Description: 'A Custodes Gyrfalcon jetbike has one Lastrum bolt cannon. In additon,
+    a model with a Custodes Gyrfalcon jetbike ta chooses to Run gains the Shrouded
+    (5+) special rule until the start of the controlling player''s next turn.
+
+    A model with the Infantry Unit Type that selects a Custodes Gyrfalcon jetbike
+    as an upgrade must change its unit type to Cavalry (Antigrav, Skirmish), keeping
+    any other Unit Sub-types it previously had, changes its Movement Characteristic
+    to 16 and gains the Hammer of Wrath (1) and Deep Strike special rules.'
+  Name: Custodes Gyrfalcon Jetbike
+- Description: A model with a cyber-familiar adds +1 to its Invulnerable Save (to
+    a maximum of 3+) or an Invulnerable Save of 6+ if they do not already possess
+    one. In addition, they allow them to re-roll failed Characteristic tests other
+    than Leadership tests, Psychic checks or failed Dangerous Terrain tests
+  Name: Cyber-familiar
+- Description: At the start of any Assault Phase where the controller of a model with
+    a detcon unit is the Active player, and before any Charges are declared, a model
+    with a detcon may target one friendly unit comprised entirely of Cyclops that
+    is within line of sight.  The targeted unit may declare Charges normally, ignoring
+    the restrictions of the Automated Artillery Unit Type - if a unit composed entirely
+    of Cyclops is not targeted by a model with a detcon unit then it may not have
+    a Charge declared for it.  If a unit includes both Cyclops and other models then
+    it may act normally without being targeted by a model with a detcon unit.
+  Name: Detcon Unit
+- Description: "Whenever targeted by a Shooting Attack, the range between an attacking\
+    \ unit and a unit that includes at least one model with a distort field is considered\
+    \ to be 6\u201D further than the actual range between the two units - enemy models\
+    \ with the Night Vision special rule and models with the Primarch Unit Type ignore\
+    \ this effect. In addition, when attacked by a weapon with the Barrage special\
+    \ rule, a unit that includes at least one model with a distort field is always\
+    \ treated as though it was out of line of sight when scattering any attacks. In\
+    \ addition, a distort field confers a 6+ invulnerable Save against Melee Attacks\
+    \ and a 5+ Invulnerable Save against Shooting Attacks."
+  Name: Distort Field
+- Description: A model with a dozer blade may re-roll all failed Dangerous Terrain
+    tests made for it.
+  Name: Dozer Blade
+- Description: A Vehicle with an eclipse shield reduces the strength of Shooting Attacks
+    made against its Front Armour by -1, or -2 if that Shooting Attack has the Blast
+    special rule or uses a template to determine its Range. An eclipse shield has
+    no effect on Shooting Attacks inflicted with weapons of the Destroyer type.  If
+    a Shooting Attack targeting the Front Armour of a model with the Vehicle Type
+    with an eclipse shield inflicts a Glancing Hit or Penetrating Hit that model with
+    the Vehicle Type immediately gains the Shrouded (5+) special rule against all
+    subsequent Shooting Attacks targeting it in the Front Armour during the same Phase.
+  Name: Eclipse Shield
+- Description: An Erinyes jetbike has a snare cannon and sets the Unit Type of any
+    model with a Erinyes jetbike to Cavalry (Antigrav) (The model keeps any additional
+    Sub-types it may have). In addition, a model with an Erinyes jetbike gains the
+    Shrouded (6+) special rule on any turn in which it as moved, or the Shrouded (5+)
+    special rule has Run in that turn.
+  Name: Erinyes Jetbike
+- Description: An enemy model may not declare a Reaction to Shooting Attacks or Charges
+    made by a unit that includes one or more models with an excrutia armatus - however,
+    enemy units that include one or more models with either the Fearless or Stubborn
+    special rule ignore this effect. In addition, if an army includes one or more
+    models with an excrutia armatus then the Slay the Warlord Secondary Objective
+    (fi it is in use as part of the mission in use) is worth an additional Victory
+    point.
+  Name: Excrutia Armatus
+- Description: A model with a flare shield reduces the strength of Shooting Attacks
+    made against its Front Armour by -1, or -2 if that Shooting Attack has the Blast
+    special rule or uses a template to determine its Range. A flare shield has no
+    effect on Shooting Attacks inflicted with weapons of the Destroyer type.
+  Name: Flare Shield
+- Description: A Gravis Praesidium shield confers a 4+ Invulnerable Save, this does
+    not stack with existing Invulnerable Saves and if a model has more than one such
+    save the controlling player must select one to use against any Wounds inflicted
+    on that model. In additon, a model with a Gravis Praesidium shield cannon claim
+    bonus attacks for having more than one melee weapon, or make attacks during the
+    Assault phase using a weapon with the Two-handed special rule.
+  Name: Gravis Praesidium Shield
+- Description: A unit that includes at least one model with frag grenades makes attacks
+    at its normal Initiative Step during an Assault after it has successfully Charged
+    through Difficult Terrain or Dangerous Terrain, but still suffers any penalties
+    to Charge rolls imposed by Difficult Terrain or Dangerous Terrain when resolving
+    a Charge through Difficult Terrain or Dangerous Terrain
+  Name: Frag Grenades
+- Description: When a unit that includes at least one model with psyk-out grenades
+    makes a sucessful Charge targeting a unit that includes one or more models with
+    the Psyker Unit Sub-type or Daemon Unit Type, no Reactions may be declared against
+    the Charge.
+  Name: Psyk-out Grenades
+- Description: The controlling player may choose to have a model with krak grenades
+    that is Engaged or otherwise in base contact during the Assault phase with a Building
+    or Fortification, or a model with the Vehicle, Dreadnought or Automata Unit Type,
+    inflict one automatic Str 6, AP 3 Hit on the target in Initiative Step 1 instead
+    of attacking normally. Any model in a unit that is chosen to inflict Hits using
+    krak grenades may not otherwise attack or make use of any other special rule or
+    item of Wargear that inflicts Hits or Wounds on a model in the same Assault phase
+    (but may participate in Sweeping Advances as normal).
+  Name: Krak Grenades
+- Description: A unit that includes at least one model with an Magisterium vexilla
+    may re-roll all failed Leadership tsts and may add +1 to the score used to decide
+    if any friendly units with any models within 12" of any Magiserium vexilla wins
+    a Combat in the Assault phase - a friendly unit may only benefit from a single
+    Magisterium vexilla's bonus in any given combat, regardless of how many are within
+    range.
+  Name: Magisterium Vexillia
+- Description: When a model with melta cutters makes a Ram Attack targeting a model
+    with the Vehicle Unit Type or a Building, it adds an additional modifier of +2
+    to the Strength of the attack, to a maximum of Strength 10.
+  Name: Melta Cutters
+- Description: All models with the Infantry or Cavalry Unit Types in a unit that includes
+    at least one model with a narthecium gain the Feel No Pain (5+) special rule.
+    Units that include more than one narthecium do not stack the Feel No Pain (X)
+    special rule and gain no additional benefit. Models with the Artillery Sub-type
+    are not affected by this special rule and do not gain the Feel No Pain (X) special
+    rule.
+  Name: Narthecium
+- Description: While at least one model with a nuncio-vox is present on the battlefield
+    and not Embarked in a Vehicle or Building, the controlling player may re-roll
+    any Scatter rolls made (whether as part of a weapon attack or the deployment of
+    a model or unit), as long as the model with the nuncio-vox has line of sight to
+    the unit targeted by the attack or the point chosen as the target of the deployment.
+    In addition, a unit that includes at least one model with a nuncio-vox ignores
+    the -1 penalty to Leadership imposed by the Night Fighting rules.
+  Name: Nuncio-vox
+- Description: A Praesidium shield confers a 5+ Invulnerable Save, this does not stack
+    with existing Invulnerable Saves and if a model has more than one such save the
+    controlling player must select one to use against any Wounds inflicted on that
+    model. In additon, a model with a Praesidium shield cannon claim bonus attacks
+    for having more than one melee weapon, or make attacks during the Assault phase
+    using a weapon with the Two-handed special rule.
+  Name: Praesidium Shield
+- Description: A model with a ramjet diffraction grid reduces the Strength of Shooting
+    Attacks made against its Rear or Side armour by -1, or -2 if that attack has the
+    Blast special rule or uses a template to determine its Range. A ramjet diffraction
+    grid has no effect on attacks inflicted with weapons of the Destroyer type.
+  Name: Ramjet Diffraction Grid
+- Description: 'During a turn in which a unit with at least one model with rad grenades
+    successfully Charges, or is themselves successfully Charged, all models in the
+    enemy unit(s) suffer a -1 penalty to their Toughness Characteristic, to a minimum
+    of Toughness 1, until the end of the Fight sub-phase that follows the successful
+    Charge. Note: This does affect Instant Death thresholds.'
+  Name: Rad Grenades
+- Description: A model with a refractor field gains a 5+ Invulnerable Save, and a
+    model with an iron halo gains a 4+ Invulnerable Save. Invulnerable Saves granted
+    by a refractor field or iron halo do not stack with other Invulnerable Saves,
+    but can benefit from rules (such as cyber-familiar) that specifically increase
+    existing saves. If a model has another Invulnerable Save then the controlling
+    player must choose which one to use.
+  Name: Refractor Fields & Iron Halos
+- Description: "A model with searchlights ignores the 24\" limit to line of sight\
+    \ imposed by the Night Fighting rules when making Shooting Attacks, however enemy\
+    \ units also ignore that same restriction when making Shooting Attacks that target\
+    \ a model with searchlights.\n \n In addition, any unit that has been the target\
+    \ of a Shooting Attack made by a unit with searchlights (regardless of whether\
+    \ any Hits were inflicted or not) may be freely targeted for Shooting Attacks\
+    \ by any other unit in the same Shooting phase, ignoring the 24\" restriction\
+    \ to line of sight imposed by the Night Fighting rules.\n \n Searchlights do not\
+    \ count as weapons and may not be targeted by the Weapon Destroyed result on the\
+    \ Vehicle Damage table."
+  Name: Searchlights
+- Description: "The controlling player may choose to trigger smoke launchers once\
+    \ a model with them has completed its movement in the Movement phase, and may\
+    \ only choose to trigger them if the model has moved no faster than Combat Speed\
+    \ that turn. Once triggered, the model with smoke launchers counts as being more\
+    \ than 25% obscured, regardless of terrain, until the start of the controlling\
+    \ player\u2019s next turn and gains a 6+ Cover Save. A model whose smoke launchers\
+    \ have been triggered may not make any Shooting Attacks, except as part of a Reaction,\
+    \ in the same turn. Smoke launchers may only be used once per battle, and once\
+    \ triggered may not be further used \u2013 in addition, they do not count as a\
+    \ weapon and may not be targeted by Weapon Destroyed results on the Vehicle Damage\
+    \ table."
+  Name: Smoke Launchers
+- Description: "Whenever targeted by a Shooting Attack, the range between an attacking\
+    \ unit and a unit that includes at least one model with a Spectra cloak is considered\
+    \ to be 6\u201D further than the actual range between the two units - enemy models\
+    \ with the Night Vision special rule and models with the Primarch Unit Type ignore\
+    \ this effect. In addition, when attacked by a weapon with the Barrage special\
+    \ rule, a unit that includes at least one model with Spectra cloak is always treated\
+    \ as though it was out of line of sight when scattering any attacks."
+  Name: Spectra Cloaks
+- Description: "At the start of the controlling player's Movement phase, a model with\
+    \ a Venatari jump harness may set its Move Characteristic to a value of 14 for\
+    \ the duration of the controlling player's turn (sometimes referred to as 'activating'\
+    \ the jump harness). This allows a model with a Venatari jump harness to move\
+    \ up to 14\", regardless of the Movement Characteristic shown on its profile and\
+    \ gain any other benefits of a Movement Characteristic of 14 (including the bonus\
+    \ to Charge distance). In addition, all models with a Venatari jump harness that\
+    \ have been activated ignore terrain while Moving and Charging, but must take\
+    \ Dangerous Terrain tests as normal when beginning or ending their Movement in\
+    \ Dangerous Terrain. A model with an activated Venatari jump harness pack treats\
+    \ all Difficult Terrain as Dangerous Terrain and may move over both friendly and\
+    \ enemy models or units without penalty - but must end its Movement at least 1\u201D\
+    \ away from any model from another unit. \nA model with a Venatari jump harness\
+    \ may still Run if it would normally be able to Run (this does not allow units\
+    \ that include any models with the Heavy Sub-type to Run). When making a Run move\
+    \ for a model with an activated Venatari jump harness, add the Initiative Characteristic\
+    \ of that model to 14 to determine how far it may move - the model ignores terrain\
+    \ and models from other units while making a Run move with a Legion Warhawk jump\
+    \ pack as previously noted, but may not make Shooting Attacks or declare a Charge\
+    \ in the same turn in which it has Run as per the normal rules for Running. \n\
+    During a Reaction made in any Phase, a player may not choose to activate a model's\
+    \ Venatari jump harness to gain any bonus to its Movement Characteristic."
+  Name: Venatari Jump Harness
+- Description: Void armour confers a 4+ Armour Save. Reinforced void armour confers
+    a 4+ Armour Save and any model with reinforced void armour also gains the Heavy
+    Unit Sub-type. Heavy void armour confers a 3+ Armour Save and any model with heavy
+    void armour also gains the Heavy Unit Sub-type.
+  Name: Void Armour, Reinforced Void Armour, And Heavy Void Armour
+- Description: A voidscale cloak confers a 5+ Invulnerable Save, increasing to a 3+
+    against any Hits from  weapons with the Template or Blast special rules
+  Name: Voidscale Cloak
+- Description: A voidsheen cloak confers a 6+ Invulnerable Save, increasing to a 4+
+    against any Hits from  weapons with the Template or Blast special rules
+  Name: Voidsheen Cloak
+- Description: Vrantine armour confers a 3+ Armour Save
+  Name: Vrantine Armour
+- Description: 'Enemy models cannot be deployed using the Infiltrate special rule
+    within 18" of a model with an auspectre. In addition, when any enemy unit is deployed
+    to the battlefield from Reserves, a model with an auspectre may make the Interceptor
+    Advanced Reaction (see page 309 of the Horus Heresy: Age of Darkness rulebookO
+    without expending a point of the Reactive player''s Reaction Allotment. This does
+    not allow the unit to make more than one Reaction per Phase, but does allow the
+    controlling player to exceed the normal three Reaction limit in a given Phase.
+    Instead of using the profile of a weapin the model has, a model with an auspectre
+    may instead make a Leadership test, if the Leadership test is passed, the controlling
+    player may instead make a Shooting Attack with any Defensive weapon available
+    to any model with the Vehicle Unit Type (both friendly or enemy) within 12", that
+    is in range and line of sight of the targeted model. If the Leadership test is
+    failed, the model may not make an Interceptor Advanced Reaction.'
+  Name: Auspectre
+- Description: Once per battle, ath the start of any turn, the controlling player
+    of a model with autotomic servo-limbs may choose to grant that model the Hit &
+    Run special rule until the start of their next turn.
+  Name: Autotomic Servo-limbs
+- Description: Any Shooting Attacks that target a unit composed entirely of model
+    with this special rule are made as Snap Shots. Any weapon that cannot fire Snap
+    Shots cannot be used to make Shooting Attacks targeting a model with this special
+    rule.
+  Name: Etherium
+- Description: Models with the Panoply of the Assassin have a 4+ Armour Save and a
+    4+ Invulnerable Save.
+  Name: Panoply Of The Assassin
+- Description: Any unit attempting to make a Charge against a unit with one or more
+    models that has poison globes must re-roll the first successful roll when determining
+    Charge distance.
+  Name: Poison Globes
+- Description: A unit composed entirely of models with polymorphine may not be targeted
+    for a Shooting Attack, Charge or Reaction of any kind by an enemy unit as long
+    as the unit with polymorphine has not made an attack of any kind during the battle.
+  Name: Polymorphine
+- Description: When making a Shooting Attack, a model with a trajector auspex array
+    ignores the effects of all special rules or Wargear that would modify or limit
+    the range and To Hit rolls of any attack made by that model.
+  Name: Trajector Auspex Array

@@ -1,0 +1,988 @@
+Compendium:
+- AP: None
+  Legion: GEN
+  Range: Melee
+  Special Rules: Melee, Shred, Two-handed
+  Str: '+2'
+  Type: Chain
+  Weapon Name: Heavy Chainsword
+- AP: None
+  Legion: GEN
+  Range: Melee
+  Special Rules: Melee, Shred
+  Str: '+1'
+  Type: Chain
+  Weapon Name: Chainaxe
+- AP: '2.0'
+  Legion: GEN
+  Range: Melee
+  Special Rules: Melee, Armourbane(melee), Murderous Strike(5+)
+  Str: '10'
+  Type: Chain
+  Weapon Name: Gravis Chainfist
+- AP: '3.0'
+  Legion: GEN
+  Range: Melee
+  Special Rules: Melee, Rending(6+), Force
+  Str: User
+  Type: Force
+  Weapon Name: Force Sword
+- AP: '2.0'
+  Legion: GEN
+  Range: Melee
+  Special Rules: Melee, Unwieldy, Force
+  Str: '+1'
+  Type: Force
+  Weapon Name: Force Axe
+- AP: '3.0'
+  Legion: GEN
+  Range: Melee
+  Special Rules: Melee, Force
+  Str: '+2'
+  Type: Force
+  Weapon Name: Force Maul
+- AP: '3.0'
+  Legion: GEN
+  Range: Melee
+  Special Rules: Melee, Reach(1), Force
+  Str: '+1'
+  Type: Force
+  Weapon Name: Force Staff
+- AP: '2.0'
+  Legion: GEN
+  Range: Melee
+  Special Rules: Melee, Unwieldy, Brutal(2), Specialist Weapon
+  Str: x2
+  Type: Power
+  Weapon Name: Thunder Hammer
+- AP: '1.0'
+  Legion: GEN
+  Range: Melee
+  Special Rules: Melee, Unwieldy, Cumbersome
+  Str: '7'
+  Type: Exotic / Misc
+  Weapon Name: Lascutter
+- AP: '2.0'
+  Legion: GEN
+  Range: Melee
+  Special Rules: Melee, Brutal(3)
+  Str: '10'
+  Type: Siege
+  Weapon Name: Leviathan Siege Claw
+- AP: '2.0'
+  Legion: GEN
+  Range: Melee
+  Special Rules: Melee, Armourbane(3)
+  Str: '12'
+  Type: Siege
+  Weapon Name: Leviathan Siege Drill
+- AP: '3.0'
+  Legion: DA
+  Range: Melee
+  Special Rules: Melee, Rending (6+)
+  Str: '+1'
+  Type: Power
+  Weapon Name: Calabanite Warblade
+- AP: '3.0'
+  Legion: DA
+  Range: Melee
+  Special Rules: Melee, Two-handed, Rending (5+), Murderous Strike (5+)
+  Str: '+2'
+  Type: Power
+  Weapon Name: Terranic Greatsword
+- AP: '3'
+  Legion: DA
+  Range: Melee
+  Special Rules: Melee, Two-handed, Breaching (5+), Brutal (2)
+  Str: '+3'
+  Type: Power
+  Weapon Name: Advex-Mors Greatsword
+- AP: '3.0'
+  Legion: WS
+  Range: Melee
+  Special Rules: Melee, Breaching (5+)
+  Str: '+1'
+  Type: Power
+  Weapon Name: Power Glaive
+- AP: '1.0'
+  Legion: WS
+  Range: Melee
+  Special Rules: Melee, Ungainly, Lance, Brutal (3), Sudden Strike (4), Two-handed
+  Str: '10.0'
+  Type: Power
+  Weapon Name: Kontos Power Lance
+- AP: '2.0'
+  Legion: SW
+  Range: Melee
+  Special Rules: Melee, Reaping Blow (1)
+  Str: '+1'
+  Type: Fenrisian
+  Weapon Name: Fenrisian Axe
+- AP: '3.0'
+  Legion: SW
+  Range: Melee
+  Special Rules: Melee, Specialist Weapon, Reaping Blow (1)
+  Str: '+1'
+  Type: Frost
+  Weapon Name: Frost Sword
+- AP: '2.0'
+  Legion: SW
+  Range: Melee
+  Special Rules: Melee, Specialist Weapon, Unwieldy, Reaping Blow (1)
+  Str: '+1'
+  Type: Frost
+  Weapon Name: Frost Axe
+- AP: '3.0'
+  Legion: SW
+  Range: Melee
+  Special Rules: Melee, Specialist Weapon, Shred, Reaping Blow (1)
+  Str: USER
+  Type: Frost
+  Weapon Name: Frost Claw
+- AP: '2.0'
+  Legion: SW
+  Range: Melee
+  Special Rules: Melee, Reaping Blow (1), Two-handed
+  Str: '+2'
+  Type: Frost
+  Weapon Name: Great Frost Blade
+- AP: '3.0'
+  Legion: BA
+  Range: Melee
+  Special Rules: Melee, Two-handed, Rending (6+), Brutal (2)
+  Str: '+1'
+  Type: Power / Flame
+  Weapon Name: Blade Of Perdition
+- AP: '2.0'
+  Legion: BA
+  Range: Melee
+  Special Rules: Melee, Unwieldy, Two-handed, Brutal (2)
+  Str: '+2'
+  Type: Power / Flame
+  Weapon Name: Axe Of Perdition
+- AP: '3.0'
+  Legion: BA
+  Range: Melee
+  Special Rules: Melee, Reach (1), Two-handed, Brutal (2)
+  Str: '+1'
+  Type: Power / Flame
+  Weapon Name: Spear Of Perdition
+- AP: '3.0'
+  Legion: BA
+  Range: Melee
+  Special Rules: Melee, Two-handed, Brutal (2)
+  Str: '+3'
+  Type: Power / Flame
+  Weapon Name: Maul Of Perdition
+- AP: '3.0'
+  Legion: BA
+  Range: Melee
+  Special Rules: Melee, Reach (1), Two-handed, Rending (5+)
+  Str: '+1'
+  Type: Power
+  Weapon Name: Falling-Star Power Spear
+- AP: '3.0'
+  Legion: BA
+  Range: Melee
+  Special Rules: Melee, Shred, Sudden Strike (1)
+  Str: USER
+  Type: Power
+  Weapon Name: Sunrise Blade
+- AP: '3.0'
+  Legion: BA
+  Range: Melee
+  Special Rules: Melee, Rending (5+), Sunder
+  Str: USER
+  Type: Power
+  Weapon Name: Sunset Blade
+- AP: '2.0'
+  Legion: BA
+  Range: Melee
+  Special Rules: Melee, Shred, Brutal (2)
+  Str: USER
+  Type: Power / Flame
+  Weapon Name: Talon Of Perdition
+- AP: '2.0'
+  Legion: UM
+  Range: Melee
+  Special Rules: Melee
+  Str: USER
+  Type: Power
+  Weapon Name: Legatine Axe
+- AP: '3.0'
+  Legion: RG
+  Range: Melee
+  Special Rules: Melee, Shred, Rending (5+), Specialist Weapon
+  Str: USER
+  Type: Power
+  Weapon Name: Raven's Talons
+- AP: '3.0'
+  Legion: EC
+  Range: Melee
+  Special Rules: Melee, Rending(6+), Murderous Strike(6+)
+  Str: User
+  Type: Power
+  Weapon Name: Phoenix Rapier
+- AP: '3.0'
+  Legion: EC
+  Range: Melee
+  Special Rules: Melee, Reach(1), Murderous Strike(6+), Breaching(6+), Two-handed
+  Str: '+2'
+  Type: Power
+  Weapon Name: Phoenix Power Spear
+- AP: '3.0'
+  Legion: IW
+  Range: Melee
+  Special Rules: Melee, Haywire
+  Str: User
+  Type: Graviton
+  Weapon Name: Graviton Mace
+- AP: '2.0'
+  Legion: IW
+  Range: Melee
+  Special Rules: Melee, Unwieldy, Two-handed, Haywire
+  Str: '+2'
+  Type: Graviton
+  Weapon Name: Graviton Crusher
+- AP: '2.0'
+  Legion: IW
+  Range: Melee
+  Special Rules: Melee, Brutal(2), Haywire
+  Str: '+2'
+  Type: Graviton
+  Weapon Name: Graviton Maul
+- AP: '3.0'
+  Legion: NL
+  Range: Melee
+  Special Rules: Melee, Shred, Breaching (6+)
+  Str: '+1'
+  Type: Chain
+  Weapon Name: Chainblade
+- AP: '3.0'
+  Legion: NL
+  Range: Melee
+  Special Rules: Melee, Two-handed, Shred, Breaching (6+)
+  Str: '+2'
+  Type: Chain
+  Weapon Name: Chainglaive
+- AP: '3.0'
+  Legion: NL
+  Range: Melee
+  Special Rules: Melee, Two-handed, Shred, Breaching (6+)
+  Str: x2
+  Type: Chain
+  Weapon Name: Headsman's Axe
+- AP: '2.0'
+  Legion: NL
+  Range: Melee
+  Special Rules: Melee, Shred, Murderous Strike (6+), Unwieldy, Specialist Weapon
+  Str: x2
+  Type: Power
+  Weapon Name: Escaton Power Claw
+- AP: '4.0'
+  Legion: WE
+  Range: Melee
+  Special Rules: Melee, Two-handed, Reach(1), Breaching (5+)
+  Str: '2'
+  Type: Caedere
+  Weapon Name: Meteor Hammer
+- AP: '3.0'
+  Legion: WE
+  Range: Melee
+  Special Rules: Melee, Two-handed, Shred, Murderous Strike (5+), Unwieldy
+  Str: '2'
+  Type: Caedere
+  Weapon Name: Exoriator Chainaxe
+- AP: '5.0'
+  Legion: WE
+  Range: Melee
+  Special Rules: Melee, Specialist Weapon, Rending (4+), Duellist's Edge (1)
+  Str: '1'
+  Type: Caedere
+  Weapon Name: Falax Blade (Paired)
+- AP: '5.0'
+  Legion: WE
+  Range: Melee
+  Special Rules: Melee, Two-handed, Fleshbane, Reach (1), Rending (5+)
+  Str: USER
+  Type: Caedere
+  Weapon Name: Barb-Hook Lash
+- AP: '3.0'
+  Legion: DG
+  Range: Melee
+  Special Rules: Melee, Rending (6+), Two-handed, Reaping Blow (1)
+  Str: '+2'
+  Type: Power
+  Weapon Name: Power Scythe
+- AP: '3.0'
+  Legion: TS
+  Range: Melee
+  Special Rules: Melee, Rending (6+), Achean Force
+  Str: User
+  Type: Force
+  Weapon Name: Achea Force Sword
+- AP: '2.0'
+  Legion: TS
+  Range: Melee
+  Special Rules: Melee, Unwieldy, Achean Force
+  Str: '+1'
+  Type: Force
+  Weapon Name: Achea Force Axe
+- AP: '3.0'
+  Legion: TS
+  Range: Melee
+  Special Rules: Melee, Achean Force
+  Str: '+2'
+  Type: Force
+  Weapon Name: Achea Force Maul
+- AP: '2.0'
+  Legion: TS
+  Range: Melee
+  Special Rules: Melee, Brutal (2), Achean Force
+  Str: '9.0'
+  Type: Force
+  Weapon Name: Gravis Force Blade
+- AP: '3.0'
+  Legion: TS
+  Range: Melee
+  Special Rules: Melee, Rending (5+), Achean Force
+  Str: '6.0'
+  Type: Force
+  Weapon Name: Achea Force Claw
+- AP: '3.0'
+  Legion: SOH
+  Range: Melee
+  Special Rules: Melee, Breaching (5+), Specialist Weapon
+  Str: User
+  Type: Power
+  Weapon Name: Carsoran Power Axe
+- AP: '3.0'
+  Legion: SOH
+  Range: Melee
+  Special Rules: Melee, Unwieldy, Murderous Strike (6+)
+  Str: '+1'
+  Type: Power
+  Weapon Name: Staff Of Dark Authority
+- AP: '3.0'
+  Legion: WB
+  Range: Melee
+  Special Rules: Melee, Rending (6+), Murderous Strike (6+)
+  Str: User
+  Type: Tainted
+  Weapon Name: Tainted Blade
+- AP: '2.0'
+  Legion: WB
+  Range: Melee
+  Special Rules: Melee, Unwieldy, Murderous Strike (6+)
+  Str: '+1'
+  Type: Tainted
+  Weapon Name: Tainted Axe
+- AP: '3.0'
+  Legion: WB
+  Range: Melee
+  Special Rules: Melee, Murderous Strike (6+)
+  Str: '+2'
+  Type: Tainted
+  Weapon Name: Tainted Maul
+- AP: '2.0'
+  Legion: WB
+  Range: Melee
+  Special Rules: Melee, Brutal (2), Murderous Strike (5+)
+  Str: '9.0'
+  Type: Tainted
+  Weapon Name: Tainted Claw
+- AP: '3.0'
+  Legion: WB
+  Range: Melee
+  Special Rules: Melee, Rending (6+), Murderous Strike (6+)
+  Str: User
+  Type: Tainted
+  Weapon Name: Tainted Talons
+- AP: '3.0'
+  Legion: WB
+  Range: Melee
+  Special Rules: Melee, Shred
+  Str: '+1'
+  Type: Exotic / Misc
+  Weapon Name: Axe-Rake
+- AP: '3.0'
+  Legion: AL
+  Range: Melee
+  Special Rules: Melee, Sudden Strike (1), Breaching (5+)
+  Str: '3.0'
+  Type: Power
+  Weapon Name: Power Dagger
+- AP: AP
+  Legion: LEGION
+  Range: Range
+  Special Rules: Special Rules
+  Str: Str
+  Type: <Na>
+  Weapon Name: Weapon Name
+- AP: '3.0'
+  Legion: GEN
+  Range: Melee
+  Special Rules: Melee, Deflagrate
+  Str: '1'
+  Type: Exotic / Misc
+  Weapon Name: Aether-Shock Maul
+- AP: '3.0'
+  Legion: DA
+  Range: Melee
+  Special Rules: Melee, Rending (6+), Blade Charge
+  Str: '+1'
+  Type: Power
+  Weapon Name: Calibanite Charge-Blade
+- AP: '2.0'
+  Legion: DA
+  Range: Melee
+  Special Rules: Melee, Brutal (2)
+  Str: '9'
+  Type: Power
+  Weapon Name: Extinctor Power Claw
+- AP: '2.0'
+  Legion: DA
+  Range: Melee
+  Special Rules: Melee, Lance
+  Str: '+1'
+  Type: Servo
+  Weapon Name: Manipulator Arm
+- AP: None
+  Legion: SW
+  Range: Melee
+  Special Rules: Melee, Shred
+  Str: User
+  Type: Exotic / Misc
+  Weapon Name: Claws
+- AP: '3.0'
+  Legion: UM
+  Range: Melee
+  Special Rules: "Melee, Rending (5+), Duellist\u2019s Edge (1)"
+  Str: User
+  Type: Power
+  Weapon Name: Argean Power Sword
+- AP: '5.0'
+  Legion: MECHANICUM
+  Range: <NA>
+  Special Rules: Melee, Disruption (5+)
+  Str: '+1'
+  Type: Arc
+  Weapon Name: Arc Lance (Melee)
+- AP: '4.0'
+  Legion: MECHANICUM
+  Range: <NA>
+  Special Rules: Melee, Two-handed, Haywire
+  Str: '+1'
+  Type: Arc
+  Weapon Name: Corposant Stave
+- AP: '5.0'
+  Legion: MECHANICUM
+  Range: <NA>
+  Special Rules: Melee, Disruption (5+)
+  Str: '+2'
+  Type: Arc
+  Weapon Name: Arc Maul
+- AP: '3.0'
+  Legion: MECHANICUM
+  Range: <NA>
+  Special Rules: Melee, Rampage (d3), Disruption (5+
+  Str: '+2'
+  Type: Arc
+  Weapon Name: Arc Scourge
+- AP: '2.0'
+  Legion: MECHANICUM
+  Range: <NA>
+  Special Rules: Melee, Armourbane(melee), Unwieldy
+  Str: x2
+  Type: Chain
+  Weapon Name: Chainfist
+- AP: None
+  Legion: MECHANICUM
+  Range: <NA>
+  Special Rules: Melee, Two-handed, Shred
+  Str: '+1'
+  Type: Chain
+  Weapon Name: Chain Bayonet
+- AP: '5.0'
+  Legion: MECHANICUM
+  Range: <NA>
+  Special Rules: Melee, Shred
+  Str: User
+  Type: Chain
+  Weapon Name: Scyllax Combat Array - Standard
+- AP: '2.0'
+  Legion: MECHANICUM
+  Range: <NA>
+  Special Rules: Melee, Cumbersome, Unwieldy
+  Str: '3.0'
+  Type: Chain
+  Weapon Name: Scyllax Combat Array - Dismember
+- AP: '2.0'
+  Legion: MECHANICUM
+  Range: <NA>
+  Special Rules: Melee, Shred
+  Str: '9.0'
+  Type: Chain
+  Weapon Name: Reaper Chainblade
+- AP: '2.0'
+  Legion: MECHANICUM
+  Range: <NA>
+  Special Rules: Melee, Shred
+  Str: '10'
+  Type: Chain
+  Weapon Name: Reaper Chainsword
+- AP: '2.0'
+  Legion: MECHANICUM
+  Range: Melee
+  Special Rules: Melee, Armourbane (melee)
+  Str: '10'
+  Type: Chain
+  Weapon Name: Reaper Chainfist
+- AP: '4.0'
+  Legion: MECHANICUM
+  Range: Melee
+  Special Rules: Melee, Breaching (5+)
+  Str: User
+  Type: Power
+  Weapon Name: Power Blade Array
+- AP: '3.0'
+  Legion: MECHANICUM
+  Range: Melee
+  Special Rules: Melee, Shred, Rending (6+), Specialist Weapon
+  Str: User
+  Type: Power
+  Weapon Name: Lightning Claw
+- AP: '2.0'
+  Legion: MECHANICUM
+  Range: Melee
+  Special Rules: Melee, Sunder, Two-handed, Unwieldy
+  Str: '+2'
+  Type: Power
+  Weapon Name: Myrmidon Axe
+- AP: '2.0'
+  Legion: MECHANICUM
+  Range: Melee
+  Special Rules: Melee, Sunder
+  Str: '12'
+  Type: Power
+  Weapon Name: Thunderstrike Gauntlet
+- AP: '2.0'
+  Legion: MECHANICUM
+  Range: Melee
+  Special Rules: Melee, Deflagrate, Tempest
+  Str: '10'
+  Type: Power
+  Weapon Name: Tempest Warblade
+- AP: '1.0'
+  Legion: MECHANICUM
+  Range: Melee
+  Special Rules: Melee, Sunder, Destructor
+  Str: '14'
+  Type: Power
+  Weapon Name: Titan Power Fist
+- AP: '1.0'
+  Legion: MECHANICUM
+  Range: Melee
+  Special Rules: Melee, Shred, Destructor, Instant Death, Armourbane (melee)
+  Str: '15'
+  Type: Power
+  Weapon Name: Arioch Power Claw
+- AP: '1.0'
+  Legion: MECHANICUM
+  Range: Melee
+  Special Rules: Melee, Unwieldy, Cumbersome, Armourbane (melee), Instant Death
+  Str: '10'
+  Type: Cutting
+  Weapon Name: Las-Impulsor (Melee)
+- AP: '1.0'
+  Legion: MECHANICUM
+  Range: Melee
+  Special Rules: Melee, Cumbersome, Armourbane, Instant Death
+  Str: '10.0'
+  Type: Cutting
+  Weapon Name: Atrapos Phasecutter (Melee)
+- AP: '2.0'
+  Legion: MECHANICUM
+  Range: Melee
+  Special Rules: Melee, Armourbane (melee), Concussive (2)
+  Str: '10'
+  Type: Graviton
+  Weapon Name: Graviton Hammer (Melee)
+- AP: '1.0'
+  Legion: MECHANICUM
+  Range: Melee
+  Special Rules: Melee, Armourbane (melee), Concussive (2)
+  Str: '10'
+  Type: Graviton
+  Weapon Name: Graviton Ram (Melee)
+- AP: '2.0'
+  Legion: MECHANICUM
+  Range: Melee
+  Special Rules: Melee, Unwieldy, Shred, Armourbane(melee)
+  Str: '+1'
+  Type: Servo
+  Weapon Name: Machinator Array
+- AP: '4.0'
+  Legion: MECHANICUM
+  Range: Melee
+  Special Rules: Melee, Breaching (4+), Murderous Strike (6+), Reach (2)
+  Str: '5.0'
+  Type: Servo
+  Weapon Name: Prehensile Dataspike
+- AP: '2.0'
+  Legion: MECHANICUM
+  Range: Melee
+  Special Rules: Melee, Unwieldy
+  Str: '8.0'
+  Type: Servo
+  Weapon Name: Servo-Arm
+- AP: '3.0'
+  Legion: MECHANICUM
+  Range: Melee
+  Special Rules: Melee
+  Str: User
+  Type: Shock
+  Weapon Name: Shock Charger
+- AP: '2.0'
+  Legion: MECHANICUM
+  Range: Melee
+  Special Rules: Melee, Reach (1), Exoshock (5+)
+  Str: '10.0'
+  Type: Shock
+  Weapon Name: Shock Lance (Melee)
+- AP: '4.0'
+  Legion: MECHANICUM
+  Range: Melee
+  Special Rules: Melee, Concussive (3), Ram (d6)
+  Str: '10.0'
+  Type: Shock
+  Weapon Name: Shock Ram
+- AP: '2.0'
+  Legion: MECHANICUM
+  Range: Melee
+  Special Rules: Melee, Brutal (2), Sunder, Wrecker, Specialist Weapon
+  Str: '10.0'
+  Type: Siege
+  Weapon Name: Siege Wrecker
+- AP: '2.0'
+  Legion: MECHANICUM
+  Range: Melee
+  Special Rules: Melee, Brutal (2), Sunder, Wrecker
+  Str: x2
+  Type: Siege
+  Weapon Name: Siege Claw
+- AP: '2.0'
+  Legion: MECHANICUM
+  Range: Melee
+  Special Rules: Melee, Instant Death, Prisoned
+  Str: '6'
+  Type: Exotic / Misc
+  Weapon Name: Volkite Incinerator (Melee)
+- AP: None
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee
+  Str: User
+  Type: Basic
+  Weapon Name: Basic Close Combat Weapon
+- AP: None
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee, Shred
+  Str: User
+  Type: Chain
+  Weapon Name: Chainsword
+- AP: None
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee, Breaching(5+), Duellist's Edge(1)
+  Str: User
+  Type: Charnabal
+  Weapon Name: Charnabal Sabre
+- AP: None
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee, Breaching(6+), Duellist's Edge(1)
+  Str: '+2'
+  Type: Charnabal
+  Weapon Name: Charnabal Tabar
+- AP: None
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee, Breaching(5+), Duellist's Edge(2), Two-handed
+  Str: '+1'
+  Type: Charnabal
+  Weapon Name: Charnabal Glaive
+- AP: '3.0'
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee, Rending (6+)
+  Str: User
+  Type: Power
+  Weapon Name: Power Sword
+- AP: '2.0'
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee, Unwieldy
+  Str: '+1'
+  Type: Power
+  Weapon Name: Power Axe
+- AP: '3.0'
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee
+  Str: '+2'
+  Type: Power
+  Weapon Name: Power Maul
+- AP: '3.0'
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee, Reach (1)
+  Str: '+1'
+  Type: Power
+  Weapon Name: Power Lance
+- AP: '2.0'
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee, Unwieldy, Specialist Weapon
+  Str: x2
+  Type: Power
+  Weapon Name: Power Fist
+- AP: '2.0'
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee, Unwieldy, Brutal (2), Specialist Weapon
+  Str: x2
+  Type: Power
+  Weapon Name: Thunderhammer
+- AP: '3.0'
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee, Two-handed, Rending (6+)
+  Str: '+2'
+  Type: Power
+  Weapon Name: Execution Blade
+- AP: '2.0'
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee, Unwieldy, Two-handed, Murderous Strike (6+)
+  Str: '+2'
+  Type: Power
+  Weapon Name: Storm Axe
+- AP: '2'
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee, Two-handed, Reaping Blow (1)
+  Str: '+1'
+  Type: Guardian
+  Weapon Name: Guardian Spear
+- AP: '2'
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee, Two-handed, Unwieldy
+  Str: '+3'
+  Type: Guardian
+  Weapon Name: Guardian Axe
+- AP: '2'
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee
+  Str: User
+  Type: Guardian
+  Weapon Name: Sentinal Warblade
+- AP: '2'
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee, Two-handed, Reaping Blow (1)
+  Str: '+1'
+  Type: Guardian
+  Weapon Name: Pyrithite Spear
+- AP: '2'
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee, Two-handed, Reaping Blow (1)
+  Str: '+1'
+  Type: Guardian
+  Weapon Name: Adrasite Spear
+- AP: '2'
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee, Two-handed, Reaping Blow (1), Murderous Strike (5+)
+  Str: '+1'
+  Type: Guardian
+  Weapon Name: Paragon Glaive
+- AP: '2'
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee, Two-handed
+  Str: '+1'
+  Type: Guardian
+  Weapon Name: Venatari Lance
+- AP: '1.0'
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee, Unwieldy
+  Str: '10.0'
+  Type: Solarite
+  Weapon Name: Solarite Power Gauntlet
+- AP: '2.0'
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee, Shred
+  Str: '5'
+  Type: Solarite
+  Weapon Name: Solarite Power Talon
+- AP: '1.0'
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee, Armorbane (melee), Two-handed, Sudden Strike (3)
+  Str: '10'
+  Type: Solarite
+  Weapon Name: Solarite Power Lance
+- AP: '2.0'
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee, Murderous Strike (6+), Specialist Weapon
+  Str: '+1'
+  Type: Paragon
+  Weapon Name: Paragon Blade
+- AP: '2'
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee, Two-handed, Rampage (3)
+  Str: User
+  Type: Meridian
+  Weapon Name: Meridian Swords - Raptor Spreads Its Wings
+- AP: '1'
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee, Two-handed, Measured Strike, Instant Death
+  Str: '10'
+  Type: Meridian
+  Weapon Name: Meridian Swords - Grasp The Rainbow Serpant
+- AP: '2'
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee, Two-handed, Murderous Strike (4+)
+  Str: '+1'
+  Type: Meridian
+  Weapon Name: Meridian Swords - Hand Cuts The Clouds
+- AP: None
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee, Poisoned (5+)
+  Str: User
+  Type: Exotic / Misc
+  Weapon Name: Davinite Blade
+- AP: '1.0'
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee, Detonation, Unwieldy, Armourbane(melee), Instant Death
+  Str: '8'
+  Type: Exotic / Misc
+  Weapon Name: Melta Bomb
+- AP: None
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee, Two-handed
+  Str: '+1'
+  Type: Exotic / Misc
+  Weapon Name: Bayonet
+- AP: None
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee, Two-handed, Deflagrate
+  Str: '+3'
+  Type: Exotic / Misc
+  Weapon Name: Proteus Neuro-Lash
+- AP: '2.0'
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee, Exochock (4+), Two-handed
+  Str: '12'
+  Type: Exotic / Misc
+  Weapon Name: Achillus Dreadspear
+- AP: '2.0'
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee, Instant Death
+  Str: '8.0'
+  Type: Exotic / Misc
+  Weapon Name: Galatus Warblade
+- AP: '2.0'
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee, Specialist Weapon, Sunder
+  Str: '10.0'
+  Type: Exotic / Misc
+  Weapon Name: Telemon Cestus
+- AP: '2.0'
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee, Brutal (3)
+  Str: '9.0'
+  Type: Exotic / Misc
+  Weapon Name: Gravis Power Fist
+- AP: None
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee, Instant Death
+  Str: '4'
+  Type: Exotic / Misc
+  Weapon Name: Misericord
+- AP: '3.0'
+  Legion: IMPERIUM
+  Range: Melee
+  Special Rules: Melee, Two-handed, Rending (6+)
+  Str: '7'
+  Type: Exotic / Misc
+  Weapon Name: Charonite Claws
+- AP: '2.0'
+  Legion: ASSASSINORUM
+  Range: Melee
+  Special Rules: Melee, Fleshbane, Reaping Blow (1)
+  Str: User
+  Type: Exotic / Misc
+  Weapon Name: Life Drain
+- AP: '1.0'
+  Legion: ASSASSINORUM
+  Range: Melee
+  Special Rules: Melee, Rending (5+), Phase Shift
+  Str: '3'
+  Type: Exotic / Misc
+  Weapon Name: Phase Sword
+- AP: '3.0'
+  Legion: ASSASSINORUM
+  Range: Melee
+  Special Rules: Melee, Fleshbane, Shred, Rending (6+)
+  Str: User
+  Type: Exotic / Misc
+  Weapon Name: Neuro-Gauntlet
+- AP: '3.0'
+  Legion: ASSASSINORUM
+  Range: Melee
+  Special Rules: Melee, Rending (5+)
+  Str: '+1'
+  Type: Exotic / Misc
+  Weapon Name: Nemesii Blade
+- AP: '1.0'
+  Legion: ASSASSINORUM
+  Range: Melee
+  Special Rules: Melee, Unwieldy, Fleshbane, Murderous Strike (2+)
+  Str: '2'
+  Type: Special
+  Weapon Name: Decapitation Strike
+- AP: '3.0'
+  Legion: ASSASSINORUM
+  Range: Melee
+  Special Rules: Melee, Poisoned (3+), The Venom
+  Str: User
+  Type: Exotic / Misc
+  Weapon Name: Hookfang
+- AP: '3.0'
+  Legion: ASSASSINORUM
+  Range: Melee
+  Special Rules: Melee, Rending (4+), Haywire, Specialist Weapon
+  Str: '+2'
+  Type: Exotic / Misc
+  Weapon Name: Sympatic Dataspikes
